@@ -1,6 +1,7 @@
 ---
 title: FAQ Akupuntur Nyeri Sendi pada Lansia | Joy of Care
 slug: akupuntur-untuk-nyeri-sendi-lansia-yang-perlu-anda-ketahui
+category: perawatan-lansia
 target_url: /blog/faq-akupuntur-nyeri-sendi-lansia
 meta_description: 'Tanya jawab lengkap seputar akupuntur medis untuk lansia: rasa
   sakit jarum, frekuensi terapi, & izin praktik resmi. Hubungi WA Joy of Care 08811-118-911!'
@@ -44,7 +45,7 @@ internal_links:
   url: /layanan/panggil-dokter
 - anchor: Layanan Perawat Medis Homecare
   url: /layanan/perawat-homecare
-cta_text: Konsultasikan terapi akupuntur medis untuk nyeri sendi lansia di rumah Anda
+cta_text: Konsultasi Dokter Gratis via WhatsApp
   langsung via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -130,4 +131,6 @@ Banyak lansia di Jakarta memiliki riwayat penyakit degeneratif lain yang memerlu
 
 Jangan biarkan rasa takut terhadap jarum menghalangi pemulihan sendi orang tua tercinta. Hubungi konsultan medis Joy of Care sekarang untuk mendapatkan sesi akupuntur medis yang ramah, nyaman, dan profesional di rumah Anda.
 
-Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?) sekarang juga!
+Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter) sekarang juga!
+
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

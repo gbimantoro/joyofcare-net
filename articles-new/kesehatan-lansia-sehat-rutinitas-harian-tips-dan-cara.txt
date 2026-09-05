@@ -1,6 +1,7 @@
 ---
 title: Rutinitas Pagi untuk Lansia Sehat & Mandiri | Joy of Care
 slug: kesehatan-lansia-sehat-rutinitas-harian-tips-dan-cara
+category: perawatan-lansia
 target_url: /blog/rutinitas-pagi-lansia-sehat
 meta_description: Langkah praktis rutinitas pagi untuk menjaga lansia tetap bugar,
   mandiri, dan terhindar dari risiko cedera. Konsultasi dokter Joy of Care via WA
@@ -38,7 +39,7 @@ internal_links:
   url: /layanan/fisioterapi-di-rumah
 - anchor: Layanan Perawat Medis Homecare
   url: /layanan/perawat-homecare
-cta_text: Konsultasikan program rutinitas sehat dan perawatan lansia di rumah Anda
+cta_text: Konsultasi Dokter Gratis via WhatsApp
   langsung via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -128,4 +129,6 @@ Ya, sangat disarankan menggunakan air hangat kuku (sekitar 37–38°C). Air yang
 
 Jadikan setiap pagi sebagai awal hari yang menyenangkan dan bebas cemas bagi orang tua Anda tercinta. Konsultasikan kebutuhan pendampingan perawatan dan fisioterapi rumah bersama tim profesional Joy of Care.
 
-Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?) sekarang juga!
+Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter) sekarang juga!
+
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)
