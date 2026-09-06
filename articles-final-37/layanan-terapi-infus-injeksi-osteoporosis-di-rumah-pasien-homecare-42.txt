@@ -99,7 +99,7 @@ Pemberian terapi asam zoledronat intravena tahunan di rumah pasien membutuhkan k
 * **Pemeriksaan Fungsi Ginjal dan Kalsium**: Terapi infus hanya boleh diberikan bila estimasi laju filtrasi glomerulus (*eGFR*) > 35 mL/min/1.73m2 dan kadar kalsium darah dalam batas normal.
 * **Manajemen Gejala Serupa Flu (*Acute Phase Reaction*)**: Sekitar 30% pasien dapat mengalami demam ringan, pegal otot, atau nyeri sendi dalam 24–48 jam pasca-infus pertama. Pemberian profilaksis parasetamol 500 mg sebelum dan sesudah infus sangat efektif meredakan keluhan ini.
 
-Seluruh rangkaian tindakan medis ini dapat dilakukan secara aman dan nyaman di tempat tidur Anda melalui layanan terapi infus vitamin di rumah](/layanan/infus-vitamin-di-rumah) dengan supervisi langsung oleh layanan panggil dokter ke rumah](/layanan/panggil-dokter). Pengambilan sampel darah pra-infus juga dapat difasilitasi oleh layanan cek lab darah di rumah](/layanan/cek-lab-di-rumah), serta didampingi oleh layanan perawat medis homecare](/layanan/perawat-homecare).
+Seluruh rangkaian tindakan medis ini dapat dilakukan secara aman dan nyaman di tempat tidur Anda melalui [layanan terapi infus vitamin di rumah](/infus-suntik-vitamin-di-rumah/) dengan supervisi langsung oleh [layanan panggil dokter ke rumah](/panggil-dokter-ke-rumah/). Pengambilan sampel darah pra-infus juga dapat difasilitasi oleh [layanan cek lab darah di rumah](/homelab/), serta didampingi oleh [layanan perawat medis homecare](/layanan-perawat-di-rumah/).
 
 ### Checklist Harian Pemeliharaan Kebugaran & Kesehatan Holistik Lansia
 Keluarga dapat menerapkan panduan perawatan preventif harian untuk menjaga kemandirian lansia:
