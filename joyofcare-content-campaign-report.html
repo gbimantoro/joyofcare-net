@@ -4,7 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Joy of Care – Content & Campaign Plan Report</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
     <style>
+        *, *::before, *::after { box-sizing: border-box; }
         @media print {
             body { font-size: 11pt; margin: 0.5in; }
             .page-break { page-break-before: always; }
@@ -34,7 +37,7 @@
             margin-top: 30px;
         }
         h3 {
-            color: #7ED957;
+            color: #555;
             font-family: 'Montserrat', sans-serif;
             font-size: 18px;
             margin-top: 25px;
@@ -44,14 +47,16 @@
             border-collapse: collapse;
             margin: 20px 0;
             font-size: 14px;
+            display: table;
         }
         th, td {
             border: 1px solid #ddd;
             padding: 10px;
             text-align: left;
+            vertical-align: top;
         }
         th {
-            background-color: #7ED957;
+            background-color: #2D9C4A;
             color: white;
             font-weight: bold;
         }
@@ -69,6 +74,7 @@
             padding: 3px 6px;
             border-radius: 4px;
             font-weight: bold;
+            display: inline-block;
         }
         .critical {
             background-color: #d9534f;
@@ -76,6 +82,7 @@
             padding: 3px 6px;
             border-radius: 4px;
             font-weight: bold;
+            display: inline-block;
         }
         .section {
             margin-bottom: 30px;
@@ -87,11 +94,10 @@
             padding: 15px;
             border-left: 4px solid #2D9C4A;
             margin: 20px 0;
-            font-style: italic;
         }
-        .logo {
-            max-width: 200px;
-            margin: 20px 0;
+        .note strong {
+            display: block;
+            margin-bottom: 8px;
         }
         .footer {
             margin-top: 50px;
@@ -101,7 +107,7 @@
             color: #666;
             text-align: center;
         }
-        ul {
+        ul, ol {
             padding-left: 20px;
         }
         li {
@@ -113,30 +119,50 @@
             padding: 0;
             border: none;
         }
+        .checklist-item {
+            display: block;
+            padding: 6px 0;
+            font-size: 14px;
+            line-height: 1.5;
+        }
+        .checklist-item input[type="checkbox"] {
+            margin-right: 8px;
+            vertical-align: middle;
+        }
+        code {
+            background-color: #f4f4f4;
+            padding: 2px 5px;
+            border-radius: 3px;
+            font-size: 13px;
+        }
     </style>
 </head>
 <body>
+
+    <!-- Header -->
     <div class="section">
-        <h1>Joy of Care – Content & Campaign Plan Report</h1>
+        <h1>Joy of Care – Content &amp; Campaign Plan Report</h1>
         <p class="meta"><strong>Prepared:</strong> 6 September 2026<br>
         <strong>Target:</strong> joyofcare.net<br>
         <strong>Current SEO Score:</strong> 34/100 (Critical)<br>
         <strong>Content Scope:</strong> 100 articles (20 keywords × 5 content types) over 20 weeks</p>
     </div>
 
+    <!-- Section 1: Executive Summary -->
     <div class="section">
         <h2>1. Executive Summary</h2>
-        <p>Joy of Care provides home‑healthcare services (doctor/nurse visits, physiotherapy, infusions, lab, vaccination) in Jakarta, Tangerang, BSD, and surrounding areas. Current SEO score is <span class="critical">34/100 (Critical)</span>. A 100‑article content calendar and a 4‑article osteoporosis topic cluster have been drafted. The campaign plan outlines five phases over 20 weeks to raise the site’s authority, fix technical issues, and drive organic traffic & AI citations.</p>
+        <p>Joy of Care provides home‑healthcare services (doctor/nurse visits, physiotherapy, infusions, lab, vaccination) in Jakarta, Tangerang, BSD, and surrounding areas. Current SEO score is <span class="critical">34/100 (Critical)</span>. A 100‑article content calendar and a 4‑article osteoporosis topic cluster have been drafted. The campaign plan outlines five phases over 20 weeks to raise the site's authority, fix technical issues, and drive organic traffic &amp; AI citations.</p>
     </div>
 
+    <!-- Section 2: Content Analysis -->
     <div class="section">
         <h2>2. Current Content Status (Osteoporosis Cluster Analysis)</h2>
         <p><em>Source: content-analysis.md</em></p>
-        
+
         <table>
             <tr>
                 <th>Metric</th>
-                <th>Avg Score (1‑10)</th>
+                <th>Avg Score (1–10)</th>
                 <th>Key Findings</th>
             </tr>
             <tr>
@@ -145,19 +171,19 @@
                 <td>Good keyword inclusion; slugs truncated (see below).</td>
             </tr>
             <tr>
-                <td>Content Structure & Flow</td>
+                <td>Content Structure &amp; Flow</td>
                 <td>7.8</td>
-                <td>Logical TOFU→MOFU→BOFU flow; thin content (325‑430 words).</td>
+                <td>Logical TOFU→MOFU→BOFU flow; thin content (325–430 words).</td>
             </tr>
             <tr>
-                <td>Keyword Strategy & Density</td>
+                <td>Keyword Strategy &amp; Density</td>
                 <td>8.1</td>
-                <td>Target keywords present; raw keyword leakage on line 2 of each file.</td>
+                <td>Target keywords present; raw keyword leakage on line 2 of each file.</td>
             </tr>
             <tr>
-                <td>Readability & Formatting</td>
+                <td>Readability &amp; Formatting</td>
                 <td>7.8</td>
-                <td>Acceptable ASL; Article 2 has formatting glitches (excess blank lines).</td>
+                <td>Acceptable ASL; Article 2 has formatting glitches (excess blank lines).</td>
             </tr>
             <tr>
                 <td>Call‑to‑Action</td>
@@ -170,14 +196,14 @@
                 <td><span class="critical">Zero internal links</span> – critical gap.</td>
             </tr>
             <tr>
-                <td>Medical Accuracy & E‑E‑A‑T</td>
+                <td>Medical Accuracy &amp; E‑E‑A‑T</td>
                 <td>7.5</td>
                 <td>Missing reviewer byline, citations (PEROSI/WHO), disclaimer.</td>
             </tr>
             <tr>
                 <td>AI Citability (GEO/AIO)</td>
                 <td>7.8</td>
-                <td>Structured definitions & FAQs present; needs schema & expanded Q&A.</td>
+                <td>Structured definitions &amp; FAQs present; needs schema &amp; expanded Q&amp;A.</td>
             </tr>
             <tr>
                 <td><strong>Overall Grade</strong></td>
@@ -188,32 +214,33 @@
 
         <h3>Specific Issues Across All 4 Articles</h3>
         <ol>
-            <li><strong>Thin content</strong> (350 words avg) – YMYL risk.</li>
+            <li><strong>Thin content</strong> (350 words avg) – YMYL risk.</li>
             <li><strong>Slug truncation</strong> (filenames cut off, e.g., <code>bahaya-komplikasi-osteoporosis-dan-faktor-risiko-yang-wajib-</code>).</li>
-            <li><strong>Raw keyword leakage</strong> (line 2: <code>Target Keyword / Search Intent: …</code>).</li>
+            <li><strong>Raw keyword leakage</strong> (line 2: <code>Target Keyword / Search Intent: …</code>).</li>
             <li><strong>Zero internal linking</strong> – isolated island pages.</li>
             <li><strong>CTA placeholders</strong> missing 08811-118-911 and <code>https://wa.me/628811118911?text=…</code>.</li>
             <li><strong>No medical reviewer byline or citations</strong>.</li>
-            <li><strong>Formatting glitches</strong> (Article 2: 10‑15 blank lines).</li>
+            <li><strong>Formatting glitches</strong> (Article 2: 10–15 blank lines).</li>
         </ol>
 
         <h3>Recommended Fixes</h3>
         <ul>
-            <li>Expand each article to <strong>750‑1,100 words</strong> (add statistics, T‑score tables, 3‑5 FAQs).</li>
+            <li>Expand each article to <strong>750–1,100 words</strong> (add statistics, T‑score tables, 3–5 FAQs).</li>
             <li>Rename files to canonical slugs (e.g., <code>bahaya-komplikasi-osteoporosis-dan-faktor-risiko-lansia</code>).</li>
-            <li>Strip line 2 into CMS metadata; remove from body.</li>
-            <li>Implement hub‑and‑spoke internal linking (see Section 4).</li>
-            <li>Replace CTA with verified WhatsApp deep link: <code><a href="https://wa.me/628811118911?text=Halo%20Joy%20of%20Care%2C%20saya%20ingin%20konsultasi%20layanan%20osteoporosis" class="cta-button">📲 Konsultasi WhatsApp: 08811-118-911</a></code>.</li>
-            <li>Add Medical Review box: <em>Ditinjau oleh: Tim Medis Joy of Care (dr. [Nama], Sp.PD/Sp.OT) | Terakhir diperbarui: 5 Sept 2026 | Referensi: PEROSI, WHO, IOF</em>.</li>
+            <li>Strip line 2 into CMS metadata; remove from body.</li>
+            <li>Implement hub‑and‑spoke internal linking (see Section 4).</li>
+            <li>Replace CTA with verified WhatsApp deep link: <a href="https://wa.me/628811118911?text=Halo%20Joy%20of%20Care%2C%20saya%20ingin%20konsultasi%20layanan%20osteoporosis" class="cta-button">📲 Konsultasi WhatsApp: 08811-118-911</a></li>
+            <li>Add Medical Review box: <em>Ditinjau oleh: Tim Medis Joy of Care (dr. [Nama], Sp.PD/Sp.OT) | Terakhir diperbarui: 6 Sept 2026 | Referensi: PEROSI, WHO, IOF</em>.</li>
             <li>Run markdown normalization to remove excess blank lines.</li>
-            <li>Add FAQPage schema & MedicalWebPage/MedicalCondition schema where appropriate.</li>
+            <li>Add FAQPage schema &amp; MedicalWebPage/MedicalCondition schema where appropriate.</li>
         </ul>
     </div>
 
+    <!-- Section 3: Campaign Plan -->
     <div class="section page-break">
         <h2>3. Campaign Plan Overview</h2>
         <p><em>Source: campaign-plan.md</em></p>
-        
+
         <table>
             <tr>
                 <th>Phase</th>
@@ -221,69 +248,59 @@
                 <th>Key Actions</th>
             </tr>
             <tr>
-                <td><strong>Phase 1: Technical Fixes</strong></td>
-                <td>Week 1</td>
+                <td><strong>Phase 1: Technical Fixes</strong></td>
+                <td>Week 1</td>
                 <td>
-                    <ul>
-                        <li>Fix <code>lang="id"</code> on Odoo templates.</li>
-                        <li>Add JSON‑LD MedicalBusiness schema to homepage.</li>
-                        <li>Correct meta title mismatches (perawat, transcare pages).</li>
-                        <li>Update sitemap to HTTPS.</li>
-                        <li>Create <code>/llms.txt</code>.</li>
-                        <li>Update robots.txt to allow AI crawlers.</li>
-                    </ul>
+                    Fix <code>lang="id"</code> on Odoo templates.<br>
+                    Add JSON‑LD MedicalBusiness schema to homepage.<br>
+                    Correct meta title mismatches (perawat, transcare pages).<br>
+                    Update sitemap to HTTPS.<br>
+                    Create <code>/llms.txt</code>.<br>
+                    Update robots.txt to allow AI crawlers.
                 </td>
             </tr>
             <tr>
-                <td><strong>Phase 2: Content & Structure</strong></td>
-                <td>Week 2</td>
+                <td><strong>Phase 2: Content &amp; Structure</strong></td>
+                <td>Week 2</td>
                 <td>
-                    <ul>
-                        <li>Ensure one H1 per page.</li>
-                        <li>Add alt text to all images (≈12).</li>
-                        <li>Implement breadcrumbs navigation.</li>
-                        <li>Expand homepage to 800+ words.</li>
-                        <li>Add FAQ sections to top 3 service pages.</li>
-                        <li>Add “last updated” timestamps.</li>
-                    </ul>
+                    Ensure one H1 per page.<br>
+                    Add alt text to all images (≈12).<br>
+                    Implement breadcrumbs navigation.<br>
+                    Expand homepage to 800+ words.<br>
+                    Add FAQ sections to top 3 service pages.<br>
+                    Add "last updated" timestamps.
                 </td>
             </tr>
             <tr>
-                <td><strong>Phase 3: Schema & GEO</strong></td>
-                <td>Week 3</td>
+                <td><strong>Phase 3: Schema &amp; GEO</strong></td>
+                <td>Week 3</td>
                 <td>
-                    <ul>
-                        <li>Add FAQPage schema to service pages.</li>
-                        <li>Add BreadcrumbList schema.</li>
-                        <li>Add author bios with credentials.</li>
-                        <li>Create 3 data‑driven blog posts.</li>
-                        <li>Add original statistics to homepage.</li>
-                    </ul>
+                    Add FAQPage schema to service pages.<br>
+                    Add BreadcrumbList schema.<br>
+                    Add author bios with credentials.<br>
+                    Create 3 data‑driven blog posts.<br>
+                    Add original statistics to homepage.
                 </td>
             </tr>
             <tr>
-                <td><strong>Phase 4: Brand & Authority</strong></td>
-                <td>Week 4</td>
+                <td><strong>Phase 4: Brand &amp; Authority</strong></td>
+                <td>Week 4</td>
                 <td>
-                    <ul>
-                        <li>Launch YouTube channel.</li>
-                        <li>Register on Halodoc/Alodokter.</li>
-                        <li>Set up Google Business Profile.</li>
-                        <li>Create LinkedIn company page.</li>
-                        <li>Outreach to 5 health blogs for guest posts.</li>
-                    </ul>
+                    Launch YouTube channel.<br>
+                    Register on Halodoc/Alodokter.<br>
+                    Set up Google Business Profile.<br>
+                    Create LinkedIn company page.<br>
+                    Outreach to 5 health blogs for guest posts.
                 </td>
             </tr>
             <tr>
-                <td><strong>Phase 5: Ongoing</strong></td>
-                <td>Week 5+</td>
+                <td><strong>Phase 5: Ongoing</strong></td>
+                <td>Week 5+</td>
                 <td>
-                    <ul>
-                        <li>Publish 2‑4 blog posts/month.</li>
-                        <li>Monitor AI citations weekly.</li>
-                        <li>Track keyword rankings monthly.</li>
-                        <li>Refresh content every 3 months.</li>
-                    </ul>
+                    Publish 2–4 blog posts/month.<br>
+                    Monitor AI citations weekly.<br>
+                    Track keyword rankings monthly.<br>
+                    Refresh content every 3 months.
                 </td>
             </tr>
         </table>
@@ -300,17 +317,18 @@
 
         <h3>Brand Presence Targets</h3>
         <ul>
-            <li>YouTube: 50 videos in 6 months.</li>
+            <li>YouTube: 50 videos in 6 months.</li>
             <li>Reddit: r/indonesia health answers.</li>
             <li>LinkedIn: weekly posts.</li>
             <li>TikTok: health‑tip shorts.</li>
         </ul>
     </div>
 
+    <!-- Section 4: Content Calendar -->
     <div class="section page-break">
         <h2>4. Content Calendar (100 Articles)</h2>
         <p><em>Source: content-calendar.md (updated 6 September 2026)</em></p>
-        
+
         <h3>Framework</h3>
         <p>20 seed keywords × 5 content types = 100 articles over 20 weeks (5 articles/week).</p>
         <table>
@@ -344,7 +362,7 @@
             </tr>
             <tr>
                 <td>4</td>
-                <td><strong>FAQ/Q&A</strong></td>
+                <td><strong>FAQ/Q&amp;A</strong></td>
                 <td>AI‑citation ready</td>
                 <td>800–1,000</td>
                 <td>TOFU/MOFU</td>
@@ -463,6 +481,7 @@
         </ul>
     </div>
 
+    <!-- Section 5: Resource Requirements -->
     <div class="section">
         <h2>5. Resource Requirements</h2>
         <table>
@@ -499,6 +518,7 @@
         </table>
     </div>
 
+    <!-- Section 6: Strategic Recommendations -->
     <div class="section">
         <h2>6. Strategic Recommendations &amp; Next Steps</h2>
         <table>
@@ -571,9 +591,11 @@
         <p>All actions tracked in shared Google Sheet <code>job_log</code> as single source of truth, with explicit handoffs between Writer, SEO, Visual, and Publisher roles.</p>
     </div>
 
+    <!-- Footer -->
     <div class="footer">
         <p>Joy of Care – Updated Campaign Plan &amp; Content Calendar Report | Prepared: 6 September 2026 | © 2026 Joy of Care. All rights reserved.</p>
         <p>Brand: <a href="https://www.joyofcare.net">joyofcare.net</a> | WhatsApp: <a href="https://wa.me/628811118911">08811-118-911</a></p>
     </div>
+
 </body>
 </html>
