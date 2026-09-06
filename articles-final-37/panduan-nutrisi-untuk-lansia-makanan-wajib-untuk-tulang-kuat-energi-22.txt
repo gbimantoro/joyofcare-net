@@ -41,7 +41,8 @@ internal_links:
   url: /blog/healthy-aging-3/bahaya-komplikasi-osteoporosis-dan-faktor-risiko-yang-wajib-diwaspadai-41
 - anchor: Layanan Fisioterapi Pemeliharaan Otot Lansia
   url: /layanan/fisioterapi
-cta_text: Hubungi WhatsApp JoC untuk informasi harga Anda langsung bersama dokter
+cta_text: 
+Anda langsung bersama dokter
   dan tim medis Joy of Care via WhatsApp di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -93,17 +94,13 @@ Seiring bertambahnya usia, lansia sering mengalami penurunan sensitivitas indra 
 * **Strategi Makan Porsi Kecil tapi Padat Gizi**: Berikan makan 5–6 kali sehari dalam porsi kecil dengan menambahkan kaldu tulang kaya kolagen, telur rebus, atau alpukat matang daripada memaksakan lansia menghabiskan porsi nasi yang besar.
 * **Pemenuhan Vitamin D3 dan K2**: Vitamin D3 memfasilitasi penyerapan kalsium di usus, sementara Vitamin K2 memastikan kalsium tersebut masuk ke dalam matriks tulang dan tidak menumpuk di dinding pembuluh darah arteri.
 
-Untuk memantau status gizi, kadar albumin, hemoglobin, dan elektrolit lansia secara akurat, Anda dapat menggunakan [layanan cek lab darah di rumah](/layanan/cek-lab-di-rumah). Konsultasikan panduan diet geriatri yang tepat bersama [layanan panggil dokter ke rumah](/layanan/panggil-dokter). Perawatan persiapan menu makanan dan pendampingan makan harian dapat dibantu oleh [layanan perawat lansia homecare](/layanan/perawat-homecare).
-
-
+Untuk memantau status gizi, kadar albumin, hemoglobin, dan elektrolit lansia secara akurat, Anda dapat menggunakan layanan cek lab darah di rumah](/layanan/cek-lab-di-rumah). Konsultasikan panduan diet geriatri yang tepat bersama layanan panggil dokter ke rumah](/layanan/panggil-dokter). Perawatan persiapan menu makanan dan pendampingan makan harian dapat dibantu oleh layanan perawat lansia homecare](/layanan/perawat-homecare).
 
 ### Checklist Harian Pemeliharaan Kebugaran & Kesehatan Holistik Lansia
 Keluarga dapat menerapkan panduan perawatan preventif harian untuk menjaga kemandirian lansia:
 * **Target Asupan Hidrasi 1,5 Liter**: Sediakan botol minum takar di dekat tempat tidur lansia agar keluarga mudah memantau volume air yang telah dihabiskan.
 * **Stimulasi Kognitif & Interaksi Sosial**: Luangkan waktu 15–20 menit setiap sore untuk mengajak lansia mengobrol santai, mendengarkan lagu kenangan, atau melihat album foto keluarga.
 * **Inspeksi Kulit di Titik Tumpu Tulang**: Periksa kulit area bokong, tulang ekor, dan tumit setiap kali selesai mandi untuk mencegah luka tekan dekubitus stadium awal.
-
-
 
 ## Pertanyaan yang Sering Diajukan (FAQ)
 
@@ -127,4 +124,3 @@ Tanda dehidrasi pada lansia sering kali tidak berupa rasa haus, melainkan bibir 
 ### Konsultasi Nutrisi & Pemeriksaan Geriatri Joy of Care
 Status gizi orang tua adalah fondasi vital bagi kesehatan dan kebahagiaan mereka. Dokter dan tim perawat homecare Joy of Care siap memberikan evaluasi status gizi lansia, pemasangan selang makan NGT bila diperlukan secara klinis, dan panduan menu sehat langsung di rumah Anda.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

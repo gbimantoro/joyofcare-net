@@ -42,7 +42,8 @@ internal_links:
   url: /blog/healthy-aging-3/panduan-nutrisi-untuk-lansia-makanan-wajib-untuk-tulang-kuat-energi-22
 - anchor: Aturan Minum Levodopa
   url: /blog/healthy-aging-3/pil-ajaib-parkinson-kenapa-obat-levodopa-jadi-pahlawan-utama-panduan-cerdas-mengelola-dosis-agar-gerakan-tetap-normal-34
-cta_text: Hubungi WhatsApp JoC untuk informasi harga dokter dan tim medis Joy of Care
+cta_text: 
+dokter dan tim medis Joy of Care
   via WhatsApp di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -102,17 +103,13 @@ Bagi pasien yang mengonsumsi obat Levodopa, penyerapan obat di usus halus bersai
 1. **Jadwal Konsumsi Protein Terkontrol**: Berikan makanan tinggi protein (ikan, ayam, tahu, tempe) pada jadwal makan sore atau malam hari. Pada pagi dan siang hari, utamakan menu karbohidrat kompleks, buah-buahan berserat, dan sayuran segar agar efek obat Levodopa bekerja maksimal sepanjang jam aktif pasien.
 2. **Pemberian Cairan yang Terstruktur**: Pasien Parkinson sering mengalami penurunan refleks haus dan konstipasi kronis. Sediakan minimal 1,5–2 liter air per hari dalam wadah takar bergradasi.
 
-Untuk memastikan status kecukupan nutrisi dan keseimbangan elektrolit darah pasien, keluarga dapat memanfaatkan fasilitas [layanan cek lab darah di rumah](/layanan/cek-lab-di-rumah). Jika timbul komplikasi disfagia (sulit menelan) atau penurunan nafsu makan drastis, segera konsultasikan dengan [layanan panggil dokter ke rumah](/layanan/panggil-dokter). Pemantauan pola makan dan kepatuhan jam minum obat juga dapat didampingi secara optimal oleh [layanan perawat medis homecare](/layanan/perawat-homecare).
-
-
+Untuk memastikan status kecukupan nutrisi dan keseimbangan elektrolit darah pasien, keluarga dapat memanfaatkan fasilitas layanan cek lab darah di rumah](/layanan/cek-lab-di-rumah). Jika timbul komplikasi disfagia (sulit menelan) atau penurunan nafsu makan drastis, segera konsultasikan dengan layanan panggil dokter ke rumah](/layanan/panggil-dokter). Pemantauan pola makan dan kepatuhan jam minum obat juga dapat didampingi secara optimal oleh layanan perawat medis homecare](/layanan/perawat-homecare).
 
 ### Checklist Harian Perawatan Pasien Parkinson di Rumah
 Untuk memastikan kualitas hidup penderita Parkinson tetap optimal sepanjang hari, terapkan rutinitas checklist harian berikut:
 * **Pemantauan Gejala Non-Motorik**: Catat perubahan suasana hati (*mood*), pola tidur malam, dan ada tidaknya halusinasi visual ringan saat malam hari.
 * **Manajemen Mencegah Dehidrasi & Sembelit**: Berikan segelas air putih hangat setiap 2 jam dan tambahkan sayuran berserat tinggi untuk merangsang peristaltik usus.
 * **Pengecekan Tensi Ortostatik Berkala**: Periksa tensi darah saat pasien duduk dan setelah berdiri untuk mencegah pusing melayang akibat penurunan tekanan darah mendadak.
-
-
 
 ## Pertanyaan yang Sering Diajukan (FAQ)
 
@@ -136,4 +133,3 @@ Modifikasi tekstur makanan menjadi cincang halus atau puree lembut, tambahkan ku
 ### Konsultasi Nutrisi & Medis Parkinson Bersama Joy of Care
 Menyusun menu harian yang seimbang dan sinkron dengan jadwal obat membutuhkan pendampingan medis yang cermat. Tim dokter dan perawat homecare Joy of Care siap membantu evaluasi status gizi dan pemantauan terapi di rumah Anda.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

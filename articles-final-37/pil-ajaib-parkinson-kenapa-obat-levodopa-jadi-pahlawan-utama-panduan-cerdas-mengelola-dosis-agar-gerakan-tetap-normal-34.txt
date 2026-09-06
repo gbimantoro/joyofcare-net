@@ -41,7 +41,8 @@ internal_links:
   url: /blog/healthy-aging-3/7-makanan-super-indonesia-yang-wajib-dimakan-aturan-makan-obat-rahasia-dapur-pasien-parkinson-38
 - anchor: Fisioterapi Parkinson di Rumah
   url: /blog/healthy-aging-3/3-jenis-latihan-fisik-yang-terbukti-mampu-melawan-kekakuan-parkinson-panduan-fisioterapi-rumahan-35
-cta_text: Hubungi WhatsApp JoC untuk informasi harga dokter dan tim medis Joy of Care
+cta_text: 
+dokter dan tim medis Joy of Care
   via WhatsApp di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -89,17 +90,13 @@ Setelah 3 hingga 5 tahun penggunaan obat Levodopa secara rutin, mayoritas pasien
 2. **Diskinesia Dosis Puncak (*Peak-Dose Dyskinesia*)**: Gerakan meliuk-liuk tak terkontrol pada leher, bahu, atau anggota gerak saat kadar obat di otak mencapai konsentrasi tertinggi.
 3. **Pentingnya Buku Harian Gerak (*Motor Diary*)**: Keluarga wajib mencatat jam minum obat dan status gerak (apakah sedang 'ON' lancar bergerak, 'OFF' kaku terpaku, atau mengalami diskinesia) setiap jam untuk bahan evaluasi dokter.
 
-Untuk membantu mengatur kepatuhan jadwal minum obat yang sangat ketat dan mendampingi pasien saat periode 'OFF', kehadiran [layanan perawat medis homecare](/layanan/perawat-homecare) sangat berharga. Evaluasi berkala untuk penyesuaian dosis obat dopaminergik dapat difasilitasi oleh [layanan panggil dokter ke rumah](/layanan/panggil-dokter). Pasien juga dapat dilatih teknik relaksasi otot melalui [Layanan Fisioterapi Homecare Joy of Care](/layanan/fisioterapi).
-
-
+Untuk membantu mengatur kepatuhan jadwal minum obat yang sangat ketat dan mendampingi pasien saat periode 'OFF', kehadiran layanan perawat medis homecare](/layanan/perawat-homecare) sangat berharga. Evaluasi berkala untuk penyesuaian dosis obat dopaminergik dapat difasilitasi oleh layanan panggil dokter ke rumah](/layanan/panggil-dokter). Pasien juga dapat dilatih teknik relaksasi otot melalui Layanan Fisioterapi Homecare Joy of Care](/layanan/fisioterapi).
 
 ### Checklist Harian Perawatan Pasien Parkinson di Rumah
 Untuk memastikan kualitas hidup penderita Parkinson tetap optimal sepanjang hari, terapkan rutinitas checklist harian berikut:
 * **Pemantauan Gejala Non-Motorik**: Catat perubahan suasana hati (*mood*), pola tidur malam, dan ada tidaknya halusinasi visual ringan saat malam hari.
 * **Manajemen Mencegah Dehidrasi & Sembelit**: Berikan segelas air putih hangat setiap 2 jam dan tambahkan sayuran berserat tinggi untuk merangsang peristaltik usus.
 * **Pengecekan Tensi Ortostatik Berkala**: Periksa tensi darah saat pasien duduk dan setelah berdiri untuk mencegah pusing melayang akibat penurunan tekanan darah mendadak.
-
-
 
 ### Komitmen Keamanan & Standar Pelayanan Klinis Joy of Care
 Setiap tindakan medis dan rehabilitasi yang diselenggarakan oleh Joy of Care dijalankan di bawah pengawasan ketat dokter penanggung jawab klinis berizin resmi Dinas Kesehatan. Kami menerapkan prinsip keselamatan pasien (*patient safety*) berstandar internasional, penggunaan instrumen steril sekali pakai, serta pencatatan rekam medis digital terintegrasi untuk memastikan setiap anggota keluarga Anda mendapatkan penanganan yang akurat, manusiawi, dan terpercaya langsung di kenyamanan hunian pribadi.
@@ -126,4 +123,3 @@ Sebagian besar sediaan tablet Levodopa standar (seperti kombinasi Levodopa-Carbi
 ### Manajemen Terapi Parkinson di Rumah Bersama Joy of Care
 Mengatur jadwal obat dan mendampingi pasien Parkinson membutuhkan perhatian 24/7. Perawat homecare berlisensi dari Joy of Care terlatih dalam manajemen medikasi saraf, pencatatan respons klinis, dan pendampingan mobilitas harian langsung di rumah Anda.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

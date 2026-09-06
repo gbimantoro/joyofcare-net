@@ -35,7 +35,8 @@ internal_links:
   url: /layanan/fisioterapi-di-rumah
 - anchor: Layanan Panggil Dokter ke Rumah Jakarta
   url: /layanan/panggil-dokter
-cta_text: Hubungi WhatsApp JoC untuk informasi harga langsung via WhatsApp Joy of
+cta_text: 
+langsung via WhatsApp Joy of
   Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -50,7 +51,7 @@ clinical_references:
 
 # Panduan Langkah Terapi Akupuntur Nyeri Sendi untuk Lansia di Rumah: Persiapan, Tahapan Tindakan, dan Perawatan Pascasuntik
 
-Menjalani terapi akupuntur medis pertama kali untuk mengatasi masalah persendian sering kali menimbulkan rasa ingin tahu bercampur kekhawatiran bagi pasien lansia maupun keluarga. Bayangan tentang jarum yang ditusukkan ke area tubuh yang sedang ngilu kerap membuat orang tua merasa ragu. Namun, ketika prosedur dijalankan dengan pendekatan klinis modern oleh tenaga medis berizin resmi, akupuntur terbukti menjadi salah satu terapi paling menenangkan dan minim nyeri yang pernah dialami pasien. Melalui [Layanan Akupuntur Medis di Rumah Joy of Care](/layanan/akupuntur-di-rumah), seluruh prosedur dirancang mengedepankan kenyamanan lansia di atas ranjang kamar mereka sendiri. Artikel ini memaparkan panduan praktis komprehensif bagi keluarga di Jabodetabek: mulai dari persiapan fisik sebelum terapis tiba, tahapan penusukan jarum steril, penjelasan sensasi saraf *De-Qi*, hingga tips perawatan pascaterapi untuk hasil peredaan nyeri sendi yang tahan lama.
+Menjalani terapi akupuntur medis pertama kali untuk mengatasi masalah persendian sering kali menimbulkan rasa ingin tahu bercampur kekhawatiran bagi pasien lansia maupun keluarga. Bayangan tentang jarum yang ditusukkan ke area tubuh yang sedang ngilu kerap membuat orang tua merasa ragu. Namun, ketika prosedur dijalankan dengan pendekatan klinis modern oleh tenaga medis berizin resmi, akupuntur terbukti menjadi salah satu terapi paling menenangkan dan minim nyeri yang pernah dialami pasien. Melalui Layanan Akupuntur Medis di Rumah Joy of Care](/layanan/akupuntur-di-rumah), seluruh prosedur dirancang mengedepankan kenyamanan lansia di atas ranjang kamar mereka sendiri. Artikel ini memaparkan panduan praktis komprehensif bagi keluarga di Jabodetabek: mulai dari persiapan fisik sebelum terapis tiba, tahapan penusukan jarum steril, penjelasan sensasi saraf *De-Qi*, hingga tips perawatan pascaterapi untuk hasil peredaan nyeri sendi yang tahan lama.
 
 > ### 💡 Penting dipahami
 > * **Persiapan Fisik Sederhana**: Cukup makan ringan 1 jam sebelumnya, kenakan pakaian longgar, dan bersihkan area tungkai kaki.
@@ -84,7 +85,7 @@ Pakaikan orang tua celana pendek longgar, celana kulot bertali karet, atau kain 
 Ketika dokter spesialis atau akupunkturis Joy of Care tiba di hunian Anda, tindakan medis dilaksanakan secara bertahap:
 
 ```
-[Pemeriksaan Tanda Vital & Palpasi Sendi] -> [Aseptik Alkohol 70%] -> [Insersi Jarum Mikro] -> [Stimulasi & Retensi 25 Menit] -> [Pencabutan & Evaluasi]
+Pemeriksaan Tanda Vital & Palpasi Sendi] -> Aseptik Alkohol 70%] -> Insersi Jarum Mikro] -> Stimulasi & Retensi 25 Menit] -> Pencabutan & Evaluasi]
 ```
 
 ### Langkah 1: Anamnesis dan Palpasi Sendi
@@ -116,7 +117,7 @@ Untuk mengoptimalkan respon biologis tubuh setelah sesi akupuntur, perhatikan ti
 | **Istirahat Santai 1–2 Jam** | Memberi waktu bagi hormon endorfin menstabilkan reseptor nyeri otak | Melakukan aktivitas fisik berat / jalan jauh |
 | **Mandi Air Hangat Setelah 3 Jam** | Menjaga pori-pori kulit tetap bersih dan merelaksasi jaringan otot | Mengompres sendi dengan es batu dingin |
 
-Bila sendi lansia juga mengalami kelemahan otot paha pendukung (*quadriceps weakness*), program akupuntur ini sangat dianjurkan dipadukan dengan latihan penguatan dari [Layanan Fisioterapi di Rumah](/layanan/fisioterapi-di-rumah). Jika ada keluhan penyakit dalam lainnya, koordinasikan dengan [Layanan Panggil Dokter ke Rumah Jakarta](/layanan/panggil-dokter).
+Bila sendi lansia juga mengalami kelemahan otot paha pendukung (*quadriceps weakness*), program akupuntur ini sangat dianjurkan dipadukan dengan latihan penguatan dari Layanan Fisioterapi di Rumah](/layanan/fisioterapi-di-rumah). Jika ada keluhan penyakit dalam lainnya, koordinasikan dengan Layanan Panggil Dokter ke Rumah Jakarta](/layanan/panggil-dokter).
 
 ---
 
@@ -137,6 +138,3 @@ Pada fase akut peradangan nyeri sendi, terapi idealnya dilakukan 2 kali seminggu
 
 Bantu orang tua Anda terbebas dari siksaan nyeri lutut dan kaku sendi dengan prosedur yang ramah, aman, dan tanpa stres perjalanan. Hubungi tim customer care Joy of Care untuk konsultasi gratis dan reservasi terapis ke rumah.
 
-Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?) sekarang juga!
-
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

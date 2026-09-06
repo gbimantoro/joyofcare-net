@@ -40,7 +40,8 @@ internal_links:
   url: /layanan/cek-lab-di-rumah
 - anchor: Layanan Perawat Medis Homecare
   url: /layanan/perawat-homecare
-cta_text: Hubungi WhatsApp JoC untuk informasi harga langsung via WhatsApp Joy of
+cta_text: 
+langsung via WhatsApp Joy of
   Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -78,9 +79,9 @@ Salah satu sumber kesalahan diagnosis terbesar pada pasien lansia di rumah adala
 * Siapkan berkas hasil rontgen, rekam jantung (EKG), USG, atau hasil laboratorium darah terbaru jika pasien memiliki riwayat rawat inap di rumah sakit sebelumnya. Hal ini sangat membantu dokter memahami riwayat penyakit kronis seperti diabetes, hipertensi, atau penyakit ginjal.
 
 ### 3. Hubungi Layanan Panggil Dokter Resmi Berizin Dinas Kesehatan
-Hindari mencari jasa tenaga medis perorangan tanpa naungan klinik resmi di media sosial atau forum online. Pilihlah penyedia layanan kesehatan berbadan hukum resmi seperti **Joy of Care** melalui [Layanan Dokter Kunjungan Rumah Joy of Care](/layanan/panggil-dokter) yang menjamin:
+Hindari mencari jasa tenaga medis perorangan tanpa naungan klinik resmi di media sosial atau forum online. Pilihlah penyedia layanan kesehatan berbadan hukum resmi seperti **Joy of Care** melalui Layanan Dokter Kunjungan Rumah Joy of Care](/layanan/panggil-dokter) yang menjamin:
 * Seluruh dokter memiliki Surat Tanda Registrasi (STR) aktif di Konsil Kedokteran Indonesia (KKI) dan Surat Izin Praktik (SIP) resmi Dinas Kesehatan.
-* Adanya protokol penanganan klinis terstandar dan koordinasi rujukan medis darurat jika kondisi pasien memerlukan evakuasi rumah sakit. Pelajari selengkapnya pada [Panduan Lengkap Panggil Dokter ke Rumah Jakarta](/blog/panggil-dokter-ke-rumah-jakarta-panduan-lengkap).
+* Adanya protokol penanganan klinis terstandar dan koordinasi rujukan medis darurat jika kondisi pasien memerlukan evakuasi rumah sakit. Pelajari selengkapnya pada Panduan Lengkap Panggil Dokter ke Rumah Jakarta](/blog/panggil-dokter-ke-rumah-jakarta-panduan-lengkap).
 
 ### 4. Sampaikan Lokasi dan Ancar-Ancar Rumah dengan Jelas
 Kemacetan lalu lintas Jakarta dan labirin gang perumahan dapat memperlambat laju kendaraan dokter panggilan.
@@ -91,12 +92,12 @@ Kemacetan lalu lintas Jakarta dan labirin gang perumahan dapat memperlambat laju
 Dokter membutuhkan ruang kerja yang memadai di dekat ranjang pasien untuk melakukan inspeksi klinis yang cermat:
 * Nyalakan lampu kamar secara maksimal agar dokter dapat menilai warna sklera mata, ruam kulit, atau kondisi luka dengan jelas.
 * Sediakan meja kecil atau kursi di dekat tempat tidur untuk meletakkan tas instrumen medis steril dokter.
-* Sediakan handuk bersih, sabun cuci tangan, atau cairan hand sanitizer di area pintu masuk kamar tidur. Bila pasien mengalami kelemahan fisik berat, bantuan dari [layanan perawat medis homecare](/layanan/perawat-homecare) akan sangat mempermudah pemosisian tubuh pasien selama dokter memeriksa.
+* Sediakan handuk bersih, sabun cuci tangan, atau cairan hand sanitizer di area pintu masuk kamar tidur. Bila pasien mengalami kelemahan fisik berat, bantuan dari layanan perawat medis homecare](/layanan/perawat-homecare) akan sangat mempermudah pemosisian tubuh pasien selama dokter memeriksa.
 
 ### 6. Dampingi Pasien Selama Pemeriksaan Berlangsung
 Pastikan ada setidaknya satu orang anggota keluarga dewasa yang mendampingi dokter di dalam kamar:
 * Bantu pasien lansia menjawab pertanyaan anamnesis dokter, terutama jika pasien mengalami gangguan pendengaran, kelemahan bicara, atau demensia.
-* Simak secara saksama penjelasan dokter mengenai dugaan diagnosis kerja, dan catat instruksi penting terkait jam minum obat. Jika dokter menyarankan evaluasi darah lengkap, pemeriksaan dapat langsung diproses melalui [layanan cek laboratorium darah di rumah](/layanan/cek-lab-di-rumah).
+* Simak secara saksama penjelasan dokter mengenai dugaan diagnosis kerja, dan catat instruksi penting terkait jam minum obat. Jika dokter menyarankan evaluasi darah lengkap, pemeriksaan dapat langsung diproses melalui layanan cek laboratorium darah di rumah](/layanan/cek-lab-di-rumah).
 
 ### 7. Manfaatkan Sesi Konsultasi untuk Edukasi Perawatan Mandiri
 Kunjungan dokter ke rumah memberikan privasi konsultasi tanpa tergesa-gesa. Manfaatkan kesempatan emas ini untuk menanyakan:
@@ -134,4 +135,3 @@ Dokter Joy of Care dapat langsung mengambil sampel darah di tempat dan mengirimk
 ### Dapatkan Layanan Dokter ke Rumah Cepat dan Profesional
 Jangan biarkan penyakit orang tua Anda berlarut-larut tanpa penanganan medis yang pasti. Terapkan tips di atas dan hubungi tim dokter Joy of Care untuk mendapatkan jadwal kunjungan medis terbaik langsung ke rumah Anda di Jakarta.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

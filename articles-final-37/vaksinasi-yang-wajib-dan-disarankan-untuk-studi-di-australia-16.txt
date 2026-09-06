@@ -43,7 +43,8 @@ internal_links:
   url: /blog/studi-luar-negeri-4/cara-menyiapkan-persyaratan-kesehatan-untuk-studi-di-australia-18
 - anchor: Persyaratan Tambahan Jurusan Kesehatan Australia
   url: /blog/studi-luar-negeri-4/perhatikan-persyaratan-tambahan-bagi-beberapa-jurusan-studi-di-australia-17
-cta_text: Hubungi WhatsApp JoC untuk informasi harga sehat studi luar negeri Anda
+cta_text: 
+sehat studi luar negeri Anda
   via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -106,9 +107,7 @@ Bagi mahasiswa Indonesia yang akan menempuh studi di Australia, dokumentasi vaks
 * **Vaksin Influenza Formula Belahan Bumi Selatan**: Karena Australia berada di belahan bumi selatan, puncak musim flu terjadi pada bulan Juni hingga September. Vaksinasi flu dengan formulasi *Southern Hemisphere* sangat dianjurkan sebelum memulai semester musim gugur/dingin di Australia.
 * **Vaksinasi Meningitis Kuadrivalen MenACWY**: Proteksi esensial bagi mahasiswa yang menetap di pemukiman kampus padat atau *student accommodation*.
 
-Persiapkan seluruh dokumen kesehatan dan rangkaian suntikan vaksin Anda sebelum hari keberangkatan melalui kenyamanan [layanan vaksinasi di rumah](/layanan/vaksinasi-di-rumah). Pengambilan sampel darah untuk uji titer antibodi serologis dapat dilayani lewat [layanan cek lab darah di rumah](/layanan/cek-lab-di-rumah), serta pastikan seluruh formulir medis telah diverifikasi legalitasnya oleh dokter melalui [layanan panggil dokter ke rumah](/layanan/panggil-dokter).
-
-
+Persiapkan seluruh dokumen kesehatan dan rangkaian suntikan vaksin Anda sebelum hari keberangkatan melalui kenyamanan layanan vaksinasi di rumah](/layanan/vaksinasi-di-rumah). Pengambilan sampel darah untuk uji titer antibodi serologis dapat dilayani lewat layanan cek lab darah di rumah](/layanan/cek-lab-di-rumah), serta pastikan seluruh formulir medis telah diverifikasi legalitasnya oleh dokter melalui layanan panggil dokter ke rumah](/layanan/panggil-dokter).
 
 ### Checklist Kelengkapan Dokumen Medis & Persiapan Perjalanan Internasional
 Sebelum jadwal keberangkatan atau pengajuan visa ke kedutaan, pastikan hal-hal krusial berikut telah terpenuhi:
@@ -138,4 +137,3 @@ Efek samping seperti demam sumeng atau pegal otot di lengan adalah respons imun 
 ### Solusi Vaksinasi Studi Luar Negeri di Rumah Bersama Joy of Care
 Jangan tunda persiapan kesehatan studi Anda hingga mendekati tanggal keberangkatan. Tim dokter berizin resmi Joy of Care siap memberikan paket lengkap vaksinasi studi Australia langsung di rumah Anda di Jabodetabek, lengkap dengan legalisasi formulir medis resmi universitas.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

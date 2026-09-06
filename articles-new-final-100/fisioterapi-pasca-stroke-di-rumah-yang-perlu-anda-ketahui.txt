@@ -41,7 +41,8 @@ internal_links:
   url: /layanan/panggil-dokter
 - anchor: Layanan Perawat Lansia Homecare
   url: /layanan/perawat-homecare
-cta_text: Hubungi WhatsApp JoC untuk informasi harga langsung via WhatsApp Joy of
+cta_text: 
+langsung via WhatsApp Joy of
   Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -99,7 +100,7 @@ Fisioterapis Joy of Care menerapkan teknik stimulasi taktil terarah di rumah:
 3. **Penyesuaian Ergonomi Hunian**: Fisioterapis dapat langsung memberi saran: di mana pegangan tangan (*grab bar*) harus dipasang di kamar mandi, atau bagaimana posisi tempat tidur yang memudahkan transfer ke kursi roda.
 4. **Fleksibilitas Jadwal Latihan**: Waktu sesi disesuaikan dengan jam energi tertinggi pasien (biasanya pagi hari setelah sarapan), bukan berdasarkan nomor antrean poliklinik yang kaku.
 
-Konsultasikan kebutuhan rehabilitasi stroke keluarga Anda bersama [Layanan Fisioterapi Homecare Joy of Care](/layanan/fisioterapi). Baca juga ulasan komprehensif pada [Panduan Lengkap Fisioterapi Pasca Stroke di Rumah](/blog/fisioterapi-pasca-stroke-di-rumah-panduan-lengkap). Untuk pemantauan kesehatan holistik, tim kami siap memfasilitasi [layanan panggil dokter ke rumah](/layanan/panggil-dokter) dan [layanan perawat lansia homecare](/layanan/perawat-homecare).
+Konsultasikan kebutuhan rehabilitasi stroke keluarga Anda bersama Layanan Fisioterapi Homecare Joy of Care](/layanan/fisioterapi). Baca juga ulasan komprehensif pada Panduan Lengkap Fisioterapi Pasca Stroke di Rumah](/blog/fisioterapi-pasca-stroke-di-rumah-panduan-lengkap). Untuk pemantauan kesehatan holistik, tim kami siap memfasilitasi layanan panggil dokter ke rumah](/layanan/panggil-dokter) dan layanan perawat lansia homecare](/layanan/perawat-homecare).
 
 ## Pertanyaan yang Sering Diajukan (FAQ)
 
@@ -120,4 +121,3 @@ Fisioterapi berfokus pada fungsi motorik tubuh, namun Joy of Care bekerja sama d
 ### Bangun Kembali Kemandirian Pasca Stroke Bersama Joy of Care
 Jangan biarkan mitos yang salah membatasi potensi pemulihan anggota keluarga Anda. Dapatkan pelayanan fisioterapi pasca stroke ilmiah, sabar, dan terpercaya langsung di rumah Anda.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

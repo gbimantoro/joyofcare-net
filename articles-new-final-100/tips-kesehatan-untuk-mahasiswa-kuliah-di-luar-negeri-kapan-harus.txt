@@ -37,7 +37,8 @@ internal_links:
   url: /layanan/vaksinasi-di-rumah
 - anchor: Layanan Panggil Dokter ke Rumah Jakarta
   url: /layanan/panggil-dokter
-cta_text: Hubungi WhatsApp JoC untuk informasi harga ke luar negeri langsung via WhatsApp
+cta_text: 
+ke luar negeri langsung via WhatsApp
   Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -50,7 +51,7 @@ clinical_references:
 
 # Kapan Mahasiswa Harus Menyiapkan Manajemen Kesehatan untuk Kuliah di Luar Negeri? 5 Skenario Krusial dan Protokol Kesiapsiagaan Medis
 
-Menempuh studi di luar negeri bukan hanya tentang menaklukkan materi kuliah di ruang perkuliahan berfasilitas modern atau menikmati keindahan kota-kota dunia, melainkan ujian ketahanan fisik dan kematangan mental dalam beradaptasi dengan lingkungan baru yang asing. Banyak mahasiswa asal Indonesia yang terkejut ketika mendapati diri mereka jatuh sakit terbaring lemas di kamar asrama saat suhu udara anjlok hingga mendekati titik beku, terisolasi ribuan kilometer dari keluarga, dan tidak tahu bagaimana cara mengakses pertolongan dokter lokal. Melalui bimbingan medis pra-keberangkatan dari [Layanan Cek Lab Darah di Rumah Joy of Care](/layanan/cek-lab-di-rumah) dan [Layanan Vaksinasi di Rumah](/layanan/vaksinasi-di-rumah), ratusan mahasiswa Indonesia berhasil menjalani masa studinya dengan bugar, percaya diri, dan berprestasi. Artikel ini membedah analisis titik-titik kritis kerentanan kesehatan mahasiswa baru di perantauan, protokol adaptasi klinis menghadapi iklim ekstrem, serta strategi preventif komprehensif yang wajib disiapkan sebelum berangkat ke luar negeri.
+Menempuh studi di luar negeri bukan hanya tentang menaklukkan materi kuliah di ruang perkuliahan berfasilitas modern atau menikmati keindahan kota-kota dunia, melainkan ujian ketahanan fisik dan kematangan mental dalam beradaptasi dengan lingkungan baru yang asing. Banyak mahasiswa asal Indonesia yang terkejut ketika mendapati diri mereka jatuh sakit terbaring lemas di kamar asrama saat suhu udara anjlok hingga mendekati titik beku, terisolasi ribuan kilometer dari keluarga, dan tidak tahu bagaimana cara mengakses pertolongan dokter lokal. Melalui bimbingan medis pra-keberangkatan dari Layanan Cek Lab Darah di Rumah Joy of Care](/layanan/cek-lab-di-rumah) dan Layanan Vaksinasi di Rumah](/layanan/vaksinasi-di-rumah), ratusan mahasiswa Indonesia berhasil menjalani masa studinya dengan bugar, percaya diri, dan berprestasi. Artikel ini membedah analisis titik-titik kritis kerentanan kesehatan mahasiswa baru di perantauan, protokol adaptasi klinis menghadapi iklim ekstrem, serta strategi preventif komprehensif yang wajib disiapkan sebelum berangkat ke luar negeri.
 
 > ### 💡 Penting dipahami
 > * **2 Titik Kritis Sakit Mahasiswa Baru**: 4 minggu pertama ketibaan (*jet lag & jet lag adaptif*) dan pertengahan musim dingin pertama (*mid-winter exam period*).
@@ -125,6 +126,3 @@ Ya. Joy of Care sering melayani pemesanan skrining kesehatan kelompok bagi pener
 
 Perjalanan meraih gelar akademik impian di luar negeri adalah investasi masa depan yang luar biasa. Pastikan langkah awal Anda diawali dengan tubuh yang prima dan persiapan kesehatan yang sempurna bersama Joy of Care.
 
-Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?) sekarang juga!
-
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

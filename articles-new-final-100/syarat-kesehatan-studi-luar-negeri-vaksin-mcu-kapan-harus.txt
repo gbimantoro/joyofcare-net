@@ -54,7 +54,7 @@ clinical_references:
 
 # Kapan Mahasiswa Harus Mempersiapkan MCU dan Vaksinasi Studi Luar Negeri? Timeline Kritis dan Protokol eMedical Visa
 
-Menempuh studi ke benua kangguru, Australia, merupakan impian besar bagi ribuan pemuda Indonesia setiap tahunnya. Namun, proses pengajuan Visa Pelajar Australia (*Student Visa Subclass 500*) terkenal dengan standar verifikasi kesehatan elektronik (*eMedical system*) yang sangat ketat dan tanpa kompromi. Banyak calon mahasiswa yang mengalami penundaan visa berminggu-minggu—bahkan berbulan-bulan hingga melewati batas awal perkuliahan—hanya karena masalah medis sepele yang tidak terdeteksi sebelumnya: seperti hasil tes urin yang menunjukkan hematuria samar akibat kurang minum, atau tekanan darah melonjak tinggi karena rasa cemas berlebih saat berhadapan dengan dokter panel imigrasi. Melalui program pendampingan pra-keberangkatan dari [Layanan Cek Lab Darah di Rumah Joy of Care](/layanan/cek-lab-di-rumah) dan [Layanan Vaksinasi di Rumah](/layanan/vaksinasi-di-rumah), calon mahasiswa dapat mengidentifikasi dan menstabilkan seluruh parameter kesehatan mereka terlebih dahulu dari kediaman sendiri di Jakarta. Artikel ini mengupas peta tahapan sistem HAP ID, protokol penapisan laboratorium awal, serta kiat medis menghindari penundaan berkas di klinik panel imigrasi kedutaan.
+Menempuh studi ke benua kangguru, Australia, merupakan impian besar bagi ribuan pemuda Indonesia setiap tahunnya. Namun, proses pengajuan Visa Pelajar Australia (*Student Visa Subclass 500*) terkenal dengan standar verifikasi kesehatan elektronik (*eMedical system*) yang sangat ketat dan tanpa kompromi. Banyak calon mahasiswa yang mengalami penundaan visa berminggu-minggu—bahkan berbulan-bulan hingga melewati batas awal perkuliahan—hanya karena masalah medis sepele yang tidak terdeteksi sebelumnya: seperti hasil tes urin yang menunjukkan hematuria samar akibat kurang minum, atau tekanan darah melonjak tinggi karena rasa cemas berlebih saat berhadapan dengan dokter panel imigrasi. Melalui program pendampingan pra-keberangkatan dari Layanan Cek Lab Darah di Rumah Joy of Care](/layanan/cek-lab-di-rumah) dan Layanan Vaksinasi di Rumah](/layanan/vaksinasi-di-rumah), calon mahasiswa dapat mengidentifikasi dan menstabilkan seluruh parameter kesehatan mereka terlebih dahulu dari kediaman sendiri di Jakarta. Artikel ini mengupas peta tahapan sistem HAP ID, protokol penapisan laboratorium awal, serta kiat medis menghindari penundaan berkas di klinik panel imigrasi kedutaan.
 
 > ### 💡 Penting dipahami
 > * **Keuntungan Pra-Skrining Rumah (Pre-MCU)**: Mendeteksi kelainan urin atau infeksi ringan sebelum data permanen dicatat di sistem eMedical kedutaan.
@@ -97,7 +97,7 @@ Penyusunan berkas rekam medis yang valid untuk proses imigrasi:
 Memahami alur birokrasi medis Australia menghindarkan Anda dari kesalahan langkah:
 
 ```
-[Buat ImmiAccount & Bayar Visa] -> [Terbitkan HAP ID & Referral Letter] -> [Pra-Skrining di Rumah via Joy of Care] -> [Pemeriksaan di Panel Clinic Resmi]
+Buat ImmiAccount & Bayar Visa] -> Terbitkan HAP ID & Referral Letter] -> Pra-Skrining di Rumah via Joy of Care] -> Pemeriksaan di Panel Clinic Resmi]
 ```
 
 ### Tahap 1: Pembuatan Akun ImmiAccount & Generate HAP ID
@@ -146,6 +146,3 @@ Cukup hubungi tim customer care kami via WhatsApp di 08811-118-911. Tim analis l
 
 Waktu menjelang keberangkatan studi Anda sangatlah berharga. Pastikan tidak ada kendala medis yang menghambat langkah Anda meraih masa depan cerah di Australia. Percayakan pra-skrining kesehatan dan vaksinasi Anda kepada tim profesional Joy of Care.
 
-Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter) sekarang juga!
-
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

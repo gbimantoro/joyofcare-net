@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Deep Review — joyofcare-net &amp; joyofcare-web | 6 September 2026</title>
+<style>
+  :root{
+    --green:#2D9C4A; --green-dark:#1A6B30; --orange:#FC9000; --ink:#1A1A2E;
+    --muted:#555770; --line:#E8E8ED; --bg:#F8F9FA; --red:#E53935; --amber:#B26A00; --amber-bg:#FFF4E0;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  body{font-family:'Inter','Segoe UI',system-ui,-apple-system,sans-serif; background:var(--bg); color:var(--ink); line-height:1.6;}
+  .wrap{max-width:1080px; margin:0 auto; padding:32px 24px 80px;}
+  header.hero{background:linear-gradient(135deg,var(--green) 0%,var(--green-dark) 100%); color:#fff; border-radius:18px; padding:36px 40px; margin-bottom:28px;}
+  header.hero h1{font-size:1.9rem; letter-spacing:-0.02em; margin-bottom:6px;}
+  header.hero .sub{opacity:.92; font-size:1.02rem;}
+  header.hero .meta{margin-top:14px; font-size:.85rem; opacity:.85; display:flex; gap:22px; flex-wrap:wrap;}
+  .badge{display:inline-block; background:rgba(255,255,255,.18); border:1px solid rgba(255,255,255,.35); border-radius:999px; padding:2px 12px; font-size:.78rem;}
+  h2{font-size:1.35rem; margin:34px 0 12px; letter-spacing:-0.01em; padding-bottom:8px; border-bottom:2px solid var(--line);}
+  h3{font-size:1.05rem; margin:22px 0 8px;}
+  p{margin:8px 0;}
+  .card{background:#fff; border:1px solid var(--line); border-radius:14px; padding:20px 24px; margin:14px 0;}
+  .grid2{display:grid; grid-template-columns:1fr 1fr; gap:16px;}
+  @media(max-width:820px){.grid2{grid-template-columns:1fr;}}
+  table{width:100%; border-collapse:collapse; margin:12px 0; font-size:.9rem; background:#fff;}
+  th,td{border:1px solid var(--line); padding:8px 10px; text-align:left; vertical-align:top;}
+  th{background:#f0f4f1; font-weight:600;}
+  tr:nth-child(even) td{background:#fafcfa;}
+  .pill{display:inline-block; border-radius:999px; padding:1px 10px; font-size:.75rem; font-weight:600;}
+  .p-red{background:#FDE8E8; color:var(--red);}
+  .p-amber{background:var(--amber-bg); color:var(--amber);}
+  .p-green{background:#E5F4E9; color:var(--green-dark);}
+  .p-gray{background:#EEF0F2; color:#5A5E6A;}
+  .score{font-size:1.5rem; font-weight:700;}
+  .num{font-variant-numeric:tabular-nums;}
+  ul,ol{margin:8px 0 8px 22px;}
+  li{margin:4px 0;}
+  code{background:#EEF1F4; border-radius:5px; padding:1px 6px; font-size:.85em; font-family:'JetBrains Mono','Fira Code',Consolas,monospace;}
+  .todo-item{display:flex; gap:12px; align-items:flex-start; padding:10px 0; border-bottom:1px dashed var(--line);}
+  .todo-item:last-child{border-bottom:none;}
+  .todo-pri{min-width:86px; text-align:center; font-size:.72rem; font-weight:700; border-radius:8px; padding:3px 0;}
+  .pri-C{background:#FDE8E8; color:var(--red);}
+  .pri-H{background:var(--amber-bg); color:var(--amber);}
+  .pri-M{background:#E8F0FE; color:#1A56DB;}
+  .pri-L{background:#EEF0F2; color:#5A5E6A;}
+  .kpi{display:flex; gap:14px; flex-wrap:wrap; margin:10px 0;}
+  .kpi .box{flex:1; min-width:150px; background:#fff; border:1px solid var(--line); border-radius:12px; padding:14px 16px; text-align:center;}
+  .kpi .box .v{font-size:1.55rem; font-weight:700; color:var(--green-dark);}
+  .kpi .box .k{font-size:.76rem; color:var(--muted); text-transform:uppercase; letter-spacing:.05em;}
+  .verdict{border-left:4px solid var(--orange); background:var(--amber-bg); padding:12px 16px; border-radius:0 10px 10px 0; margin:12px 0;}
+  .verdict.red{border-left-color:var(--red); background:#FDF0F0;}
+  .verdict.green{border-left-color:var(--green); background:#EDF7F0;}
+  .toc{background:#fff; border:1px solid var(--line); border-radius:12px; padding:16px 24px; font-size:.92rem;}
+  .toc a{color:var(--green-dark); text-decoration:none;}
+  .toc a:hover{text-decoration:underline;}
+  footer{margin-top:48px; text-align:center; font-size:.8rem; color:var(--muted);}
+  .collapsible summary{cursor:pointer; font-weight:600; color:var(--green-dark);}
+  details{margin:6px 0;}
+  .small{font-size:.82rem; color:var(--muted);}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header class="hero">
+  <h1>🔍 Deep Review — JoyofCare Web Properties</h1>
+  <div class="sub">joyofcare-net (content master) &nbsp;•&nbsp; joyofcare-web (site) — full audit, lessons learned, executive summaries &amp; action plan</div>
+  <div class="meta">
+    <span class="badge">Tanggal: 6 September 2026</span>
+    <span class="badge">Auditor: BIMOS CoS (deep review)</span>
+    <span class="badge">Site live: www.joyofcare.net → masih Odoo ⚠️</span>
+    <span class="badge">Target: new.joyof.care (Cloudflare Pages)</span>
+  </div>
+</header>
+
+<div class="toc">
+  <strong>Daftar Isi</strong>
+  <ol style="margin-top:6px;">
+    <li><a href="#exec">Executive Summary</a></li>
+    <li><a href="#kpi">KPI &amp; Kondisi Nyata</a></li>
+    <li><a href="#net">Review joyofcare-net</a></li>
+    <li><a href="#web">Review joyofcare-web</a></li>
+    <li><a href="#live">Status Live / Deployment</a></li>
+    <li><a href="#mistakes">Kesalahan &amp; Akar Masalah (Never Repeat)</a></li>
+    <li><a href="#todo">To-Do List (Prioritas)</a></li>
+    <li><a href="#skill">Skill Baru: joc-web</a></li>
+  </ol>
+</div>
+
+<!-- ================= EXEC SUMMARY ================= -->
+<h2 id="exec">1. Executive Summary</h2>
+
+<div class="card">
+  <p><strong>Joy of Care</strong> adalah platform home healthcare Indonesia (Jakarta/Tangerang/BSD). Proyek ini memiliki dua repositori: <code>joyofcare-net</code> sebagai <em>content master</em> (137 artikel final .txt + strategi + script) dan <code>joyofcare-web</code> sebagai <em>site</em> (HTML statis yang seharusnya di-deploy ke Cloudflare Pages <code>new.joyof.care</code>).</p>
+</div>
+
+<div class="grid2">
+  <div class="card">
+    <h3>✅ Yang Sudah Bagus</h3>
+    <ul>
+      <li><strong>137 artikel final</strong> (37 overhauled + 100 new) sudah ditulis ulang gaya Kompas, frontmatter + markdown rapi di <code>joyofcare-net</code>.</li>
+      <li><strong>168 halaman artikel HTML</strong> sudah ter-generate di <code>pages/blog/&lt;kategori&gt;/</code> — bebas markdown mentah, heading sesuai standar (<em>Penting dipahami</em>), CTA WhatsApp ada di 168/168 file.</li>
+      <li>Dokumen strategi lengkap: SEO-GEO-AIO audit, keyword top-20, content calendar, technical audit, UI/UX review, category mapping, publishing SOP.</li>
+      <li>Kategori 12 aktif dengan distribusi wajar; kualitas artikel 800–1.400+ kata.</li>
+      <li>Script pipeline <code>scripts/build_articles.py</code> (txt → HTML) sudah berfungsi.</li>
+    </ul>
+  </div>
+  <div class="card">
+    <h3>🔴 Yang Rusak / Belum Selesai</h3>
+    <ul>
+      <li><strong>TIDAK ADA deployment produksi yang hidup.</strong> <code>new.joyof.care</code> → 404 di semua path; <code>new-joy-of-care.pages.dev</code> tidak resolve; <code>www.joyofcare.net</code> masih menyajikan Odoo lama.</li>
+      <li><strong>Kekacauan arsitektur:</strong> 3 stack dalam 1 repo (static HTML + Astro MDX + Next.js/Keystatic CMS) — Astro <code>build</code> GAGAL (YAML rusak), CMS tidak terpakai.</li>
+      <li><strong>Canonical &amp; sitemap drift:</strong> artikel → <code>new.joyof.care</code>, hub/sitemap/robots/llms → <code>www.joyofcare.net</code>; sitemap berisi URL Odoo lama yang tidak ada.</li>
+      <li><strong>Kualitas HTML artikel:</strong> 164/168 punya 2× H1; FAQPage schema 0/168; <code>datePublished</code> ISO tidak ada; URL WhatsApp ganda <code>?phone…?text=</code> (168 file).</li>
+      <li><strong>Kedua repo kotor:</strong> web 179 file &amp; net 141 file termodifikasi TIDAK di-commit — berisiko hilang.</li>
+      <li><strong>Hub index.json basi:</strong> hanya 37 entri vs 168 artikel; hub hanya menautkan 4 kategori lama.</li>
+      <li>Token GitHub (PAT) tertanam di URL remote kedua repo — risiko keamanan.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="verdict red">
+  <strong>Verdict keseluruhan:</strong> Konten (99%) dan pipeline HTML (85%) hampir siap, tetapi <strong>rantai penerbitan putus di mata rantai terakhir — deployment</strong>. Tidak ada satu pun halaman yang bisa diakses publik di domain target. Pekerjaan "selesai" versi tim ≠ situs hidup. Ini pola yang sama dengan insiden markdown sebelumnya: laporan ≠ kenyataan; verifikasi eksternal wajib.
+</div>
+
+<!-- ================= KPI ================= -->
+<h2 id="kpi">2. KPI &amp; Kondisi Nyata (angka terverifikasi 2026-09-06)</h2>
+
+<div class="kpi">
+  <div class="box"><div class="v num">137</div><div class="k">Artikel final .txt (net)</div></div>
+  <div class="box"><div class="v num">168</div><div class="k">Halaman artikel HTML (web)</div></div>
+  <div class="box"><div class="v num">142</div><div class="k">File MDX Astro (rusak)</div></div>
+  <div class="box"><div class="v num">12</div><div class="k">Kategori aktif</div></div>
+  <div class="box"><div class="v num">274</div><div class="k">URL di sitemap-articles</div></div>
+  <div class="box"><div class="v num">37</div><div class="k">Entri index.json (basi)</div></div>
+</div>
+
+<table>
+  <tr><th>Metric</th><th>Nilai</th><th>Status</th></tr>
+  <tr><td>www.joyofcare.net live content</td><td>Odoo (session cookie frontend_lang/session_id)</td><td><span class="pill p-red">SALAH — belum pindah</span></td></tr>
+  <tr><td>new.joyof.care (domain Pages)</td><td>HTTP 404 semua path (/, /index.html, /blog/, /css/style.css)</td><td><span class="pill p-red">TIDAK ADA DEPLOY</span></td></tr>
+  <tr><td>new-joy-of-care.pages.dev</td><td>Tidak resolve (curl exit 6)</td><td><span class="pill p-red">GAGAL DNS/Proyek</span></td></tr>
+  <tr><td>astro build (web)</td><td>Gagal: js-yaml "can not read a block mapping entry" @ 3-jenis…-35.mdx:7:8</td><td><span class="pill p-red">RUSAK</span></td></tr>
+  <tr><td>Artikel dengan 2× H1</td><td>164 / 168</td><td><span class="pill p-red">BUG TEMPLATE</span></td></tr>
+  <tr><td>Artikel dgn URL WA rusak <code>?phone…?text=</code></td><td>168 / 168 (masing-masing punya 1 CTA salah)</td><td><span class="pill p-red">BUG SCRIPT</span></td></tr>
+  <tr><td>FAQPage JSON-LD</td><td>0 / 168 (FAQ H2 ada di 153 artikel)</td><td><span class="pill p-red">HILANG</span></td></tr>
+  <tr><td>datePublished/dateModified ISO di schema</td><td>0 / 168</td><td><span class="pill p-red">HILANG</span></td></tr>
+  <tr><td>Medical disclaimer</td><td>1 / 168</td><td><span class="pill p-red">HAMPIR TIDAK ADA</span></td></tr>
+  <tr><td>Canonical artikel → domain mana</td><td>new.joyof.care (168/168)</td><td><span class="pill p-amber">drift vs sitemap</span></td></tr>
+  <tr><td>Canonical hub + sitemap + robots + llms</td><td>www.joyofcare.net</td><td><span class="pill p-amber">drift</span></td></tr>
+  <tr><td>Internal link ke hub kategori</td><td>168 / 168 ✅</td><td><span class="pill p-green">OK</span></td></tr>
+  <tr><td>Kata "Penting dipahami" (standar info box)</td><td>120 artikel</td><td><span class="pill p-green">OK</span></td></tr>
+  <tr><td>Kata "Poin Kunci"/"Ringkasan Eksekutif"</td><td>0</td><td><span class="pill p-green">OK</span></td></tr>
+  <tr><td>Markdown mentah di HTML (##, **, [..](..))</td><td>0</td><td><span class="pill p-green">OK</span></td></tr>
+  <tr><td>File ber-CTA WhatsApp</td><td>168/168</td><td><span class="pill p-green">OK</span></td></tr>
+  <tr><td>Git status web / net</td><td>179 M / 141 M + 4 ??</td><td><span class="pill p-red">KOTOR</span></td></tr>
+  <tr><td>PAT GitHub di remote URL</td><td>2 repo</td><td><span class="pill p-red">RISIKO</span></td></tr>
+</table>
+
+<!-- ================= NET REVIEW ================= -->
+<h2 id="net">3. Review joyofcare-net (Content Master)</h2>
+
+<div class="card">
+  <h3>Struktur &amp; inventaris</h3>
+  <ul>
+    <li><strong>251 file</strong>: 139 .txt, 54 .py, 29 .md, 21 .svg, 6 .json, 1 .zip</li>
+    <li>Direktori artikel final: <code>articles-final-37/</code> (37 txt, 401 KB) + <code>articles-new-final-100/</code> (100 txt, 1.1 MB)</li>
+    <li>Direktori lama (<code>articles/</code>, <code>articles-new/</code>, <code>articles-overhauled/</code>, <code>drive_articles/</code>) sudah di-archive ke <code>archive-articles-2026-09.zip</code> (887 KB) ✅</li>
+    <li>54 script Python generasi konten (kw1–kw20, overhaul, price removal, Kompas rewrite, verifikasi)</li>
+    <li>Dokumen strategi: <code>seo-geo-aio-strategy.md</code>, <code>keyword-research-top20.md</code>, <code>content-calendar.md</code>, <code>category-mapping.md</code>, <code>technical-seo-audit.md</code>, <code>joyofcare-seo-geo-aio-audit.md</code>, <code>uiux-review.md</code>, <code>progress.md</code>, <code>publishing-workflow.md</code>, <code>article-verification.md</code>, <code>odoo-analysis.md</code>, dll.</li>
+  </ul>
+</div>
+
+<div class="grid2">
+  <div class="card">
+    <h3>✅ Kekuatan</h3>
+    <ul>
+      <li>137 artikel final terdokumentasi per baris di <code>progress.md</code> (keyword, prioritas, kategori, status ✅, jumlah kata 1.000–1.400+).</li>
+      <li>Rewriting Kompas-style selesai (commit <code>26f3be0</code> "Finalize 137 rewritten articles… archive originals").</li>
+      <li>Pembersihan harga &amp; standardisasi CTA (commit <code>860580b</code>).</li>
+      <li>Index JSON per batch (overhauled-articles-index.json 40 KB, index-new-articles.json 1.2 MB).</li>
+      <li>Report verifikasi artikel (127/162 frontmatter valid pada state lama; 35 bermasalah → catatan: sudah usang karena state berubah ke 168 HTML).</li>
+    </ul>
+  </div>
+  <div class="card">
+    <h3>⚠️ Kelemahan / Catatan</h3>
+    <ul>
+      <li><strong>141 file .txt termodifikasi belum di-commit</strong> + 4 untracked (2 md baru + 2 svg) — pekerjaan terbaru berisiko hilang.</li>
+      <li>Banyak script sekali pakai (kw1–kw20, patch_*, price_handlers_*) — 54 file tanpa folder rapi; sebagian bisa diarsipkan.</li>
+      <li>Dokumen SOP (<code>publishing-workflow.md</code>) masih menyebut <strong>4 kategori lama</strong> (healthy-aging, pengalaman, studi-luar-negeri, vaksinasi) + skema URL lama — tidak sinkron dengan realita 12 kategori baru &amp; path <code>/blog/&lt;cat&gt;/&lt;slug&gt;.html</code>.</li>
+      <li><code>article-verification.md</code> mereferensikan 162 .txt yang sudah tidak ada (state berubah).</li>
+      <li>Net dan web punya <code>robots.txt</code> &amp; <code>llms.txt</code> terpisah — perlu satu sumber yang disinkronkan.</li>
+      <li>Satu judul artikel pernah ter-scrape dengan artefak "[Skip to Content](https://…)" — artefak Odoo sudah dibersihkan di final, tapi jadi pelajaran: verifikasi isi tiap file.</li>
+    </ul>
+  </div>
+</div>
+
+<table>
+  <tr><th>Kategori (slug)</th><th class="num">Jumlah artikel</th></tr>
+  <tr><td>perawatan-lansia</td><td class="num">38</td></tr>
+  <tr><td>fisioterapi-rumah</td><td class="num">22</td></tr>
+  <tr><td>panggil-dokter</td><td class="num">15</td></tr>
+  <tr><td>osteoporosis</td><td class="num">15</td></tr>
+  <tr><td>studi-luar-negeri</td><td class="num">14</td></tr>
+  <tr><td>vaksinasi-rumah</td><td class="num">13</td></tr>
+  <tr><td>parkinson</td><td class="num">12</td></tr>
+  <tr><td>perawat-homecare</td><td class="num">10</td></tr>
+  <tr><td>kesehatan-umum</td><td class="num">9</td></tr>
+  <tr><td>antar-jemput-rs</td><td class="num">5</td></tr>
+  <tr><td>home-lab</td><td class="num">5</td></tr>
+  <tr><td>infus-vitamin</td><td class="num">5</td></tr>
+  <tr><td><strong>Total</strong></td><td class="num"><strong>168*</strong> (137 master .txt + 31 duplikat lintas kategori/slug lama yang tersisa di web)</td></tr>
+</table>
+<p class="small">*Catatan: net master = 137; web punya 168 halaman karena 31 artikel tambahan dari batch lama/4 drive_articles yang belum dimigrasi penuh ke net. Ketidakcocokan jumlah inilah yang harus diselesaikan (lihat To-Do).</p>
+
+<!-- ================= WEB REVIEW ================= -->
+<h2 id="web">4. Review joyofcare-web (Site)</h2>
+
+<div class="card">
+  <h3>Struktur — 3 stack dalam satu repo</h3>
+  <table>
+    <tr><th>Stack</th><th>Lokasi</th><th>Status</th></tr>
+    <tr><td><strong>Static HTML</strong> (yang seharusnya di-deploy)</td><td><code>pages/</code>: 11 halaman layanan + <code>pages/blog/</code> 168 artikel + hub, css, js, sitemap, robots, llms</td><td><span class="pill p-green">FUNGSIONAL</span></td></tr>
+    <tr><td><strong>Astro + MDX</strong> (eksperimen CMS/SSG)</td><td><code>src/</code> (index.astro, layouts, blog/[category]/[slug].astro), <code>src/content/articles/*.mdx</code> 142 file</td><td><span class="pill p-red">BUILD GAGAL</span></td></tr>
+    <tr><td><strong>Next.js + Keystatic CMS</strong> (headless admin)</td><td><code>cms/</code> (app/keystatic, keystatic.config.ts)</td><td><span class="pill p-gray">TIDAK DIPAKAI</span></td></tr>
+    <tr><td>Copy konten basi</td><td><code>content-source/articles/</code> (141 txt)</td><td><span class="pill p-amber">STALE</span></td></tr>
+    <tr><td>Build output lokal</td><td><code>dist/</code> (mirror pages/, gitignored)</td><td><span class="pill p-amber">LOKAL</span></td></tr>
+  </table>
+  <p class="small">Commit terakhir: <code>6ce3e493</code> "Enrich all service pages…" (07:07). Sebelumnya rentetan commit perbaikan markdown→HTML (223ece77 → 91b68a2a) — pola lama "klaim fix markdown berulang" kini benar-benar bersih di HTML ✅, tapi menyisakan 179 file termodifikasi yang belum di-commit.</p>
+</div>
+
+<div class="card">
+  <h3>🔴 Temuan kualitas halaman artikel (168 file)</h3>
+  <table>
+    <tr><th>Temuan</th><th class="num">Jumlah</th><th>Detail</th></tr>
+    <tr><td>Dua H1 per halaman</td><td class="num">164/168</td><td>Template menyuntik H1 judul + body masih punya H1 sendiri → melanggar aturan "satu H1".</td></tr>
+    <tr><td>URL WhatsApp rusak <code>?phone=628811118911?text=…</code></td><td class="num">168/168</td><td><code>WA_LINK</code> sudah ber-<code>?phone=</code>, script menambahkan <code>?text=</code> (harus <code>&amp;text=</code>) → parameter kedua tidak valid. Tiap artikel punya 1 CTA salah format (yg lain benar &amp;text).</td></tr>
+    <tr><td>FAQPage schema hilang</td><td class="num">0/168</td><td>FAQ H2 ada di 153 artikel tapi JSON-LD FAQPage 0 → kehilangan peluang rich result / AIO.</td></tr>
+    <tr><td>datePublished/dateModified ISO hilang</td><td class="num">0/168</td><td>Schema Article tanpa tanggal → invalid untuk Google.</td></tr>
+    <tr><td>Medical disclaimer hampir tidak ada</td><td class="num">1/168</td><td>Standar E-E-A-T medis belum terpasang di artikel.</td></tr>
+    <tr><td>Schema hanya WebPage+Organization+Article</td><td class="num">168/168</td><td>Tidak ada MedicalWebPage, BreadcrumbList, FAQPage.</td></tr>
+    <tr><td>Canonical → new.joyof.care</td><td class="num">168/168</td><td>Domain yang saat ini 404 — canonical menunjuk ke situs yang tidak hidup.</td></tr>
+  </table>
+  <p><strong>Yang sudah benar:</strong> markdown mentah 0, heading info-box sesuai standar (Penting dipahami), CTA wording tunggal, link internal ke hub kategori ada di semua artikel, tanpa harga, tanpa studi kasus palsu.</p>
+</div>
+
+<div class="card">
+  <h3>Hub, sitemap, dan file SEO</h3>
+  <ul>
+    <li><code>pages/blog/index.html</code> (133 KB, 2160 baris) — hub menampilkan <strong>4 kategori lama</strong> (healthy-aging, pengalaman, studi-luar-negeri, vaksinasi) dengan ItemList <code>numberOfItems: 37</code> — <strong>basi</strong>; 12 kategori baru tidak ditautkan dari hub.</li>
+    <li><code>pages/blog/index.json</code> — hanya 37 entri vs 168 artikel.</li>
+    <li><code>pages/sitemap.xml</code> (16 URL) — berisi URL era Odoo: <code>/layanan-kami</code>, <code>/walk-in-promo</code>, <code>/tindakan-perawat-di-rumah</code>, <code>/artikel/healthy-aging-3</code> — sebagian besar tidak ada di site ini.</li>
+    <li><code>pages/sitemap-articles.xml</code> — 274 loc (duplikat + kategori lama + path tanpa .html) vs 168 file nyata.</li>
+    <li><code>robots.txt</code> &amp; <code>llms.txt</code> → referensi <code>www.joyofcare.net</code>; tidak ada <code>_redirects</code>/<code>_headers</code> untuk migrasi <code>/artikel/*</code> → <code>/blog/</code>.</li>
+    <li>File sampah ter-track: 7 <code>pages/temp_*.md</code>, stub <code>pages/artikel/index.html</code> (340 B), kategori kosong healthy-aging/pengalaman/vaksinasi (hanya index.html), <code>.wrangler/state</code> ikut ter-commit (21 file).</li>
+    <li>OG image di beberapa halaman masih relatif (<code>/images/…</code>) → butuh absolut.</li>
+  </ul>
+</div>
+
+<!-- ================= LIVE STATUS ================= -->
+<h2 id="live">5. Status Live / Deployment — MASALAH UTAMA</h2>
+
+<div class="verdict red">
+  <strong>Fakta terverifikasi via curl/DNS (2026-09-06 07:30 WIB):</strong>
+  <ul style="margin-top:6px;">
+    <li><code>https://www.joyofcare.net/</code> → HTTP 200 <strong>konten Odoo</strong> (cookie frontend_lang/session_id) — situs lama masih hidup di domain utama.</li>
+    <li><code>https://new.joyof.care/</code> → HTTP <strong>404 di semua path</strong> termasuk /index.html, /blog/, /css/style.css.</li>
+    <li><code>https://new-joy-of-care.pages.dev/</code> → <strong>tidak resolve</strong> (curl exit 6).</li>
+    <li><code>npx astro build</code> → <strong>gagal</strong> (YAML error di src/content/articles). Static site di <code>pages/</code> TIDAK dibangun lewat Astro.</li>
+    <li>Cache lokal wrangler ada (<code>.wrangler/state</code>, terakhir 5 Sep 20:20) — indikasi pernah dicoba deploy/dev secara lokal, tidak ada bukti deploy produksi berhasil.</li>
+  </ul>
+</div>
+
+<div class="card">
+  <h3>Akar masalah deployment</h3>
+  <ol>
+    <li><strong>Dua pipeline bersaing</strong>: static <code>pages/</code> (yang berisi konten benar) vs Astro <code>src/</code> (yang gagal build). Cloudflare Pages mungkin dikonfigurasi mem-build Astro (npm run build → astro build) → selalu gagal → deployment tidak pernah sukses → domain 404.</li>
+    <li><strong>DNS/domain tidak pernah diselesaikan</strong>: instruksi user "ubah joyofcare.net dari joyofcare.odoo.com ke pages.dev" tampaknya belum tuntas; www.joyofcare.net masih proxied ke Odoo.</li>
+    <li><strong>Canonical setengah-setengah</strong>: artikel diarahkan ke new.joyof.care, sisanya ke www.joyofcare.net.</li>
+    <li>Tidak ada verifikasi pasca-deploy (curl) dalam alur kerja tim — "done" berdasarkan laporan, bukan kenyataan. <em>Pola yang sama dengan insiden markdown 3×.</em></li>
+  </ol>
+</div>
+
+<!-- ================= MISTAKES ================= -->
+<h2 id="mistakes">6. Kesalahan &amp; Akar Masalah — yang TIDAK BOLEH diulang</h2>
+
+<table>
+  <tr><th>#</th><th>Kesalahan</th><th>Akibat</th><th>Aturan baru</th></tr>
+  <tr><td class="num">1</td><td><strong>Laporan tim ≠ kenyataan</strong> ("markdown fixed" 3× padahal belum; "deployed" padahal 404)</td><td>User frustrasi; pekerjaan dikira selesai</td><td>Verifikasi output nyata: baca file, curl domain live, cek git status. Jangan pernah percaya laporan saja.</td></tr>
+  <tr><td class="num">2</td><td><strong>Multi-copy konten</strong> (net txt, content-source, mdx, blog html, dist, index.json) tanpa pipeline tunggal</td><td>Angka tak konsisten: 137/141/142/162/168/274</td><td>Satu sumber kebenaran (net .txt final) → regenerate sisanya. Jangan edit turunan manual.</td></tr>
+  <tr><td class="num">3</td><td><strong>3 stack sekaligus</strong> (static + Astro + Next/Keystatic) di satu repo</td><td>Astro build gagal, CMS mati, bingung mana yang deploy</td><td>Pilih SATU arsitektur. Static pages/ terbukti jalan — pakai itu; buang/arsipkan Astro &amp; cms atau perbaiki total.</td></tr>
+  <tr><td class="num">4</td><td><strong>Deployment tanpa verifikasi domain</strong> (Pages build salah pipeline; DNS tidak dipindah)</td><td>Situs tidak pernah hidup; 404; Odoo masih di domain utama</td><td>Deploy = curl domain produksi 200 + konten benar. Konfigurasi Pages: build dari pages/, bukan astro.</td></tr>
+  <tr><td class="num">5</td><td><strong>Canonical &amp; SEO drift</strong> (2 domain; sitemap URL Odoo lama; hub basi)</td><td>Sinyal SEO terpecah/rusak</td><td>Satu domain final → aplikasikan ke semua canonical, sitemap, robots, llms, OG. Regenerate semuanya + redirect lama.</td></tr>
+  <tr><td class="num">6</td><td><strong>Bug script tidak terdeteksi</strong>: 2× H1 (164 file), URL WA <code>?phone…?text=</code> (168 file), schema tanpa tanggal/FAQPage</td><td>HTML "jadi" tapi cacat teknis</td><td>Checklist verifikasi otomatis sebelum "done" (grep H1, URL WA, schema, dsb. — lihat skill joc-web §7).</td></tr>
+  <tr><td class="num">7</td><td><strong>Kerja tidak di-commit</strong> (179 + 141 file kotor)</td><td>Risiko kehilangan pekerjaan besar</td><td>"Selesai" = git status bersih + push. Commit per batch kecil.</td></tr>
+  <tr><td class="num">8</td><td><strong>Token GitHub di remote URL</strong></td><td>Kredensial bocor ke siapa pun yang baca .git/config</td><td>Pakai gh auth / ssh; scrub remote URL; rotasi token.</td></tr>
+  <tr><td class="num">9</td><td><strong>Dokumen SOP basi</strong> (publishing-workflow.md 4 kategori lama)</td><td>Agent baru ikuti SOP salah</td><td>Update SOP agar sinkron dengan build_articles.py &amp; kategori nyata.</td></tr>
+  <tr><td class="num">10</td><td><strong>File sampah ter-commit</strong> (temp_*.md, .wrangler/state, stub)</td><td>Repo kotor, bingung</td><td>.gitignore benar + bersihkan sebelum commit.</td></tr>
+</table>
+
+<!-- ================= TODO ================= -->
+<h2 id="todo">7. To-Do List (urut prioritas)</h2>
+
+<div class="card">
+  <div class="todo-item"><div class="todo-pri pri-C">CRITICAL</div><div><strong>T1 — Hidupkan deployment yang benar.</strong> Konfigurasi Cloudflare Pages <code>new-joy-of-care</code> agar mem-build/men-deploy <code>pages/</code> statis (bukan astro build). Deploy ulang, verifikasi <code>curl -I https://new.joyof.care/</code> = 200 dan <code>/blog/&lt;cat&gt;/&lt;slug&gt;.html</code> = 200. <em>Blocker: akses dashboard/API Cloudflare (butuh user).</em></div></div>
+  <div class="todo-item"><div class="todo-pri pri-C">CRITICAL</div><div><strong>T2 — Selesaikan DNS/domain.</strong> Putuskan domain final (rekomendasi: <code>www.joyofcare.net</code> sebagai canonical publik &amp; <code>new.joyof.care</code> sebagai preview, atau sebaliknya sesuai arahan user). Pindahkan joyofcare.net dari origin Odoo ke Pages. Verifikasi dengan curl + browser.</div></div>
+  <div class="todo-item"><div class="todo-pri pri-C">CRITICAL</div><div><strong>T3 — Commit &amp; push pekerjaan kotor.</strong> Web: 179 file M; Net: 141 M + 4 untracked. Review diff, commit dengan pesan jelas, push. <em>Lakukan SEBELUM perubahan besar lain agar ada titik aman.</em></div></div>
+  <div class="todo-item"><div class="todo-pri pri-H">HIGH</div><div><strong>T4 — Scrub token GitHub.</strong> Ganti remote URL tanpa PAT: <code>git remote set-url origin git@github.com:gbimantoro/&lt;repo&gt;.git</code> (atau gh auth), rotasi PAT lama di GitHub.</div></div>
+  <div class="todo-item"><div class="todo-pri pri-H">HIGH</div><div><strong>T5 — Sinkronkan master konten: net 137 → web 168.</strong> Petakan 31 artikel web yang tidak ada di net master (batch lama + 4 drive_articles). Putuskan: migrasikan ke net sebagai master baru, atau hapus dari web. Target: jumlah master = jumlah HTML.</div></div>
+  <div class="todo-item"><div class="todo-pri pri-H">HIGH</div><div><strong>T6 — Perbaiki bug template/script artikel.</strong> (a) Hapus H1 ganda (164 file); (b) perbaiki URL WA <code>?phone…?text=</code> → <code>&amp;text=</code> di <code>build_articles.py</code> lalu regenerate semua; (c) tambah datePublished/dateModified ISO + FAQPage + BreadcrumbList JSON-LD; (d) tambah medical disclaimer + reviewedBy.</div></div>
+  <div class="todo-item"><div class="todo-pri pri-H">HIGH</div><div><strong>T7 — Satu domain untuk semua canonical + regenerate SEO files.</strong> Update canonical semua artikel + hub ke domain final; regenerate <code>sitemap.xml</code> (hapus URL Odoo lama), <code>sitemap-articles.xml</code> (274 → 168 + tanpa duplikat), <code>robots.txt</code>, <code>llms.txt</code>, <code>index.json</code> (168 entri), hub <code>index.html</code> (12 kategori), <code>feed.xml</code>; tambah <code>_redirects</code> untuk <code>/artikel/*</code>, <code>/blog/healthy-aging-3/*</code> → path baru.</div></div>
+  <div class="todo-item"><div class="todo-pri pri-H">HIGH</div><div><strong>T8 — Rapikan arsitektur repo web.</strong> Buang/arsipkan: <code>src/</code> Astro (atau perbaiki mdx YAML jika ingin SSG), <code>cms/</code> Next.js (jika tidak dipakai), <code>content-source/</code> (basi). Hapus <code>temp_*.md</code>, stub <code>artikel/</code>, kategori kosong; tambah <code>.wrangler/</code> ke .gitignore dan <code>git rm --cached</code>.</div></div>
+  <div class="todo-item"><div class="todo-pri pri-M">MEDIUM</div><div><strong>T9 — Update SOP docs.</strong> Sinkronkan <code>publishing-workflow.md</code> dengan realita: 12 kategori, path <code>/blog/&lt;cat&gt;/&lt;slug&gt;.html</code>, pipeline build_articles.py, domain final, checklist verifikasi. Hapus/arsipkan doc basi (article-verification.md lama).</div></div>
+  <div class="todo-item"><div class="todo-pri pri-M">MEDIUM</div><div><strong>T10 — Verifikasi kualitas artikel sampel.</strong> Audit 5–10 artikel acak (frontmatter, 1 H1, FAQ, E-E-A-T, no slop/fake case, CTA tunggal) untuk memastikan standar berlaku di semua kategori; perbaiki outlier.</div></div>
+  <div class="todo-item"><div class="todo-pri pri-L">LOW</div><div><strong>T11 — Tambah aset &amp; sosial.</strong> Pastikan OG image absolut + ukuran benar; verifikasi aset blog-images-catalog (md baru di net) ter-integrasi; rapikan 54 script net (arsip yang sekali pakai ke folder <code>scripts/archive/</code>).</div></div>
+  <div class="todo-item"><div class="todo-pri pri-L">LOW</div><div><strong>T12 — CI/verifikasi otomatis.</strong> Tambah script verifikasi (grep H1=1, URL WA benar, schema lengkap, jumlah file = index) dan jalankan otomatis sebelum setiap laporan "done".</div></div>
+</div>
+
+<!-- ================= SKILL ================= -->
+<h2 id="skill">8. Skill Baru: joc-web ✅</h2>
+<div class="card">
+  <p>Skill <strong><code>joc-web</code></strong> (kategori: seo) telah dibuat di <code>~/.hermes/skills/seo/joc-web/SKILL.md</code>. Isinya:</p>
+  <ul>
+    <li>Single source of truth: <code>joyofcare-net/articles-final-37 + articles-new-final-100</code> (.txt) → turunan diregenerate, tidak diedit manual.</li>
+    <li>Pipeline build/publish yang benar + verifikasi deploy wajib (curl domain live).</li>
+    <li>Peta 12 kategori + direktori legacy yang harus dihindari.</li>
+    <li>Standar artikel (1 H1, Penting dipahami/Highlights, CTA tunggal, URL WA <code>&amp;text=</code>, schema FAQPage/date ISO, no slop/no fake case/no harga).</li>
+    <li>Hygiene canonical/SEO (satu domain) dan disiplin git (tanpa token, tanpa kerja kotor).</li>
+    <li>Checklist verifikasi 6 poin sebelum "done".</li>
+    <li>Riwayat kegagalan (failure history) agar tidak terulang.</li>
+  </ul>
+</div>
+
+<footer>
+  Deep Review JoyofCare — 6 September 2026, 07:40 WIB · Data diverifikasi langsung dari filesystem, git, DNS, dan HTTP.<br>
+  joyofcare-net @ 26f3be0 (kotor 141+4) · joyofcare-web @ 6ce3e493 (kotor 179)
+</footer>
+
+</div>
+</body>
+</html>

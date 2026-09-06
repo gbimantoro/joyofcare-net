@@ -40,7 +40,8 @@ internal_links:
   url: /layanan/panggil-dokter
 - anchor: Layanan Perawat Lansia Homecare
   url: /layanan/perawat-homecare
-cta_text: Hubungi WhatsApp JoC untuk informasi harga Anda langsung via WhatsApp Joy
+cta_text: 
+Anda langsung via WhatsApp Joy
   of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -54,7 +55,7 @@ clinical_references:
 
 # Kapan Pasien Penyakit Parkinson Harus Mendapatkan Perawatan Medis di Rumah? 5 Tanda Progresivitas dan Protokol Tata Laksana
 
-Bagi penderita penyakit Parkinson, diagnosis kelainan neurodegeneratif progresif sering kali membawa dampak besar terhadap kemandirian fisik dan stabilitas emosional. Kekakuan otot (*rigiditas*), perlambatan gerakan (*bradikinesia*), gemetar istirahat (*resting tremor*), dan episode kaki membeku di tempat (*freezing of gait*) menimbulkan ketakutan tinggi akan insiden jatuh. Kendati demikian, dengan pendekatan tata laksana rehabilitasi medis terstruktur, sinkronisasi waktu konsumsi obat, dan stimulasi sensorik lingkungan, pasien Parkinson dapat mempertahankan kemandirian mobilitas secara optimal. Didukung oleh [Layanan Fisioterapi Parkinson di Rumah Joy of Care](/layanan/fisioterapi), panduan ini mengupas tuntas protokol terapi gerak, modifikasi spasial rumah, dan strategi menghadapi fluktuasi motorik harian.
+Bagi penderita penyakit Parkinson, diagnosis kelainan neurodegeneratif progresif sering kali membawa dampak besar terhadap kemandirian fisik dan stabilitas emosional. Kekakuan otot (*rigiditas*), perlambatan gerakan (*bradikinesia*), gemetar istirahat (*resting tremor*), dan episode kaki membeku di tempat (*freezing of gait*) menimbulkan ketakutan tinggi akan insiden jatuh. Kendati demikian, dengan pendekatan tata laksana rehabilitasi medis terstruktur, sinkronisasi waktu konsumsi obat, dan stimulasi sensorik lingkungan, pasien Parkinson dapat mempertahankan kemandirian mobilitas secara optimal. Didukung oleh Layanan Fisioterapi Parkinson di Rumah Joy of Care](/layanan/fisioterapi), panduan ini mengupas tuntas protokol terapi gerak, modifikasi spasial rumah, dan strategi menghadapi fluktuasi motorik harian.
 > ### 💡 Penting dipahami
 > * **Siklus Ketakutan Berjalan**: Hambatan motorik yang tidak ditangani memicu keengganan beraktivitas, mempercepat atrofi otot dan kekakuan sendi.
 > * **Sinkronisasi Waktu Latihan dengan Periode On**: Fisioterapi dilakukan saat obat dopaminergik bekerja optimal di sistem saraf untuk pembentukan memori motorik terbaik.
@@ -132,4 +133,3 @@ Keluarga berperan aktif mempraktikkan isyarat verbal berirama saat pasien berjal
 ### Raih Kembali Senyuman dan Langkah Mandiri Orang Tua Anda
 Penerapan protokol rehabilitasi terpadu membuktikan bahwa peluang pemulihan fungsi motorik selalu terbuka. Jangan biarkan penyakit Parkinson membatasi ruang gerak orang tua tercinta Anda. Hubungi Joy of Care sekarang untuk mendapatkan pendampingan fisioterapi dan perawatan medis terbaik langsung di rumah Anda.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

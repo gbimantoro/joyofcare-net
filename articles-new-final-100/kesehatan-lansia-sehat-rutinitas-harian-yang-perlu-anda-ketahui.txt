@@ -46,7 +46,8 @@ internal_links:
   url: /layanan/cek-lab-di-rumah
 - anchor: Layanan Perawat Medis Homecare
   url: /layanan/perawat-homecare
-cta_text: Hubungi WhatsApp JoC untuk informasi harga langsung via WhatsApp Joy of
+cta_text: 
+langsung via WhatsApp Joy of
   Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -58,7 +59,7 @@ clinical_references:
 
 # Panduan Tanya Jawab Lengkap (FAQ): Segala Hal yang Wajib Diketahui tentang Kesehatan dan Rutinitas Harian Lansia
 
-Menjaga kesehatan orang tua tercinta di rumah sering kali menghadirkan beragam tanda tanya bagi keluarga. Mulai dari kebingungan membedakan perubahan penuaan yang wajar versus gejala awal penyakit berbahaya, cara menyiasati nafsu makan yang merosot, mengatasi insomnia dan sering terbangun malam hari, hingga kapan saat yang tepat memanggil tenaga medis profesional ke rumah. Melalui kompilasi FAQ ini, tim dokter spesialis dan konsultan geriatri [Layanan Panggil Dokter ke Rumah Jakarta](/layanan/panggil-dokter) Joy of Care merangkum dan menjawab tuntas pertanyaan-pertanyaan paling mendasar yang paling sering diajukan oleh keluarga di Jakarta dan sekitarnya. Panduan ini dirancang untuk memberikan ketenangan hati, wawasan medis berbasis bukti, serta langkah-langkah solutif dalam merawat orang tua sehari-hari.
+Menjaga kesehatan orang tua tercinta di rumah sering kali menghadirkan beragam tanda tanya bagi keluarga. Mulai dari kebingungan membedakan perubahan penuaan yang wajar versus gejala awal penyakit berbahaya, cara menyiasati nafsu makan yang merosot, mengatasi insomnia dan sering terbangun malam hari, hingga kapan saat yang tepat memanggil tenaga medis profesional ke rumah. Melalui kompilasi FAQ ini, tim dokter spesialis dan konsultan geriatri Layanan Panggil Dokter ke Rumah Jakarta](/layanan/panggil-dokter) Joy of Care merangkum dan menjawab tuntas pertanyaan-pertanyaan paling mendasar yang paling sering diajukan oleh keluarga di Jakarta dan sekitarnya. Panduan ini dirancang untuk memberikan ketenangan hati, wawasan medis berbasis bukti, serta langkah-langkah solutif dalam merawat orang tua sehari-hari.
 
 > ### 💡 Penting dipahami
 > * **Kualitas Tidur Lansia**: Tidur 7–8 jam dengan fase lebih ringan adalah normal; hindari kopi sore dan ciptakan rutinitas tidur yang tenang.
@@ -82,7 +83,7 @@ Keseharian orang tua di rumah sangat dipengaruhi oleh kecukupan istirahat dan as
 **Jawab**: Menurut panduan Kementerian Kesehatan RI dan WHO:
 * **Garam (Natrium)**: Batasi maksimal 1 sendok teh peres garam dapur (sekitar 2.000 mg natrium) per hari untuk seluruh masakan. Hindari makanan kaleng, kecap asin berlebih, dan penyedap MSG tinggi.
 * **Gula**: Batasi maksimal 4 sendok makan gula per hari. Bagi penderita diabetes, gantilah pemanis dengan pemanis alami nol kalori yang aman bagi gula darah.
-* Untuk memantau dampak asupan harian terhadap profil metabolik, keluarga dapat memanfaatkan kemudahan [Layanan Cek Lab Darah di Rumah](/layanan/cek-lab-di-rumah).
+* Untuk memantau dampak asupan harian terhadap profil metabolik, keluarga dapat memanfaatkan kemudahan Layanan Cek Lab Darah di Rumah](/layanan/cek-lab-di-rumah).
 
 ### 3. Bagaimana mengatasi lansia yang sering menolak minum air putih karena takut sering kencing?
 **Jawab**: Rasa haus pada lansia kerap tumpul akibat penurunan kepekaan osmoreseptor di hipotalamus. Cara mengatasinya:
@@ -101,7 +102,7 @@ Kemandirian gerak merupakan penentu utama apakah lansia bahagia atau tertekan di
 * Berjalan tampak tertatih-tatih, kaki diseret (*shuffling gait*), atau tangan sering mencari pegangan pada dinding dan perabot saat melangkah.
 * Sering mengeluhkan pusing melayang saat berbelok arah.
 * Pernah memiliki riwayat jatuh dalam 6 bulan terakhir.
-Konsultasikan pemilihan alat bantu yang tepat bersama terapis dari [Layanan Fisioterapi di Rumah Joy of Care](/layanan/fisioterapi-di-rumah) agar ketinggian pegangan disesuaikan presisi dengan postur tubuh pasien.
+Konsultasikan pemilihan alat bantu yang tepat bersama terapis dari Layanan Fisioterapi di Rumah Joy of Care](/layanan/fisioterapi-di-rumah) agar ketinggian pegangan disesuaikan presisi dengan postur tubuh pasien.
 
 ### 5. Apakah wajar bila orang tua mulai sering lupa nama orang atau lupa meletakkan barang?
 **Jawab**: Lupa ringan (seperti lupa menaruh kacamata namun kemudian ingat kembali) adalah bagian dari penuaan normal (*age-associated memory impairment*). Namun, jika orang tua:
@@ -127,10 +128,10 @@ Maka hal tersebut merupakan tanda bahaya demensia Alzheimer yang memerlukan eval
 ## Pertanyaan Seputar Layanan Pendampingan Homecare Medis
 
 ### 6. Apa bedanya mempekerjakan perawat medis profesional dengan pembantu rumah tangga (ART) biasa untuk orang tua?
-**Jawab**: Perawat medis dari [Layanan Perawat Medis Homecare](/layanan/perawat-homecare) adalah tenaga kesehatan berpendidikan D3/S1 Keperawatan dengan Surat Tanda Registrasi (STR) aktif. Mereka memiliki kompetensi klinis melakukan tindakan medis seperti pemasangan selang makan NGT, kateter urin, perawatan luka steril, fisioterapi pasif, serta mampu mendeteksi tanda kegawatdaruratan medis sedini mungkin. Sedangkan ART tidak memiliki dasar keilmuan medis dan rentan salah dalam menangani komplikasi lansia.
+**Jawab**: Perawat medis dari Layanan Perawat Medis Homecare](/layanan/perawat-homecare) adalah tenaga kesehatan berpendidikan D3/S1 Keperawatan dengan Surat Tanda Registrasi (STR) aktif. Mereka memiliki kompetensi klinis melakukan tindakan medis seperti pemasangan selang makan NGT, kateter urin, perawatan luka steril, fisioterapi pasif, serta mampu mendeteksi tanda kegawatdaruratan medis sedini mungkin. Sedangkan ART tidak memiliki dasar keilmuan medis dan rentan salah dalam menangani komplikasi lansia.
 
 ### 7. Bagaimana mengelola risiko polifarmasi (banyaknya obat harian) pada lansia di rumah?
-**Jawab**: Polifarmasi atau konsumsi lebih dari 5 jenis obat setiap hari merupakan kondisi umum yang dialami lansia dengan beragam penyakit kronis. Tanpa pengawasan medis yang cermat, interaksi antar-obat dapat membebani organ hati dan fungsi filtrasi ginjal, memicu rasa pusing berputar, hingga memicu perdarahan lambung tersembunyi. Keluarga sangat dianjurkan meminta dokter melalui [Layanan Panggil Dokter ke Rumah Jakarta](/layanan/panggil-dokter) untuk melakukan *medication reconciliation* (peninjauan ulang obat berkala). Dokter akan memilah obat mana yang wajib dilanjutkan, menghentikan suplemen yang tumpang-tindih, dan menyesuaikan dosis terapi agar tetap efektif namun ramah bagi organ vital lansia.
+**Jawab**: Polifarmasi atau konsumsi lebih dari 5 jenis obat setiap hari merupakan kondisi umum yang dialami lansia dengan beragam penyakit kronis. Tanpa pengawasan medis yang cermat, interaksi antar-obat dapat membebani organ hati dan fungsi filtrasi ginjal, memicu rasa pusing berputar, hingga memicu perdarahan lambung tersembunyi. Keluarga sangat dianjurkan meminta dokter melalui Layanan Panggil Dokter ke Rumah Jakarta](/layanan/panggil-dokter) untuk melakukan *medication reconciliation* (peninjauan ulang obat berkala). Dokter akan memilah obat mana yang wajib dilanjutkan, menghentikan suplemen yang tumpang-tindih, dan menyesuaikan dosis terapi agar tetap efektif namun ramah bagi organ vital lansia.
 
 ---
 
@@ -138,6 +139,3 @@ Maka hal tersebut merupakan tanda bahaya demensia Alzheimer yang memerlukan eval
 
 Memahami kebutuhan lansia adalah langkah pertama memberikan bakti terbaik bagi orang tua tercinta. Tim Joy of Care siap mendampingi keluarga Anda dengan solusi pelayanan medis homecare terintegrasi di seluruh penjuru Jakarta.
 
-Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?) sekarang juga!
-
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

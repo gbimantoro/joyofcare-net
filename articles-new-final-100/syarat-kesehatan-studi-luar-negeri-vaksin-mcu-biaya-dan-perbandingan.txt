@@ -41,7 +41,8 @@ internal_links:
   url: /layanan/vaksinasi-di-rumah
 - anchor: Layanan Panggil Dokter ke Rumah Jakarta
   url: /layanan/panggil-dokter
-cta_text: Hubungi WhatsApp JoC untuk informasi harga negeri langsung via WhatsApp
+cta_text: 
+negeri langsung via WhatsApp
   Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -56,12 +57,12 @@ clinical_references:
 
 # Perbandingan Syarat Kesehatan dan Biaya MCU Studi Luar Negeri: Australia vs UK vs Jepang vs Korea Selatan 2026
 
-Menyiapkan berkas medis untuk kuliah di luar negeri sering kali menimbulkan kebingungan besar karena setiap negara memiliki filosofi regulasi keimigrasian dan standar kesehatan masyarakat yang sangat berlainan. Calon mahasiswa yang mendaftar ke universitas di Melbourne atau London akan menghadapi fokus pemeriksaan medis yang berbeda 180 derajat dibandingkan mereka yang hendak berangkat ke Tokyo atau Seoul. Ketidaktahuan akan perbedaan regulasi ini kerap berujung pada pemborosan biaya pemeriksaan yang tidak perlu atau justru tertundanya pengajuan visa karena ada item tes laboratorium yang terlewatkan. Melalui pengalaman klinis memfasilitasi ratusan pelajar internasional bersama [Layanan Cek Lab Darah di Rumah Joy of Care](/layanan/cek-lab-di-rumah) dan [Layanan Vaksinasi di Rumah](/layanan/vaksinasi-di-rumah), Joy of Care menyajikan analisis komparatif terperinci mengenai persyaratan medis resmi, protokol skrining tuberkulosis, uji bebas narkoba, serta transparansi biaya MCU antar-negara tujuan studi favorit.
+Menyiapkan berkas medis untuk kuliah di luar negeri sering kali menimbulkan kebingungan besar karena setiap negara memiliki filosofi regulasi keimigrasian dan standar kesehatan masyarakat yang sangat berlainan. Calon mahasiswa yang mendaftar ke universitas di Melbourne atau London akan menghadapi fokus pemeriksaan medis yang berbeda 180 derajat dibandingkan mereka yang hendak berangkat ke Tokyo atau Seoul. Ketidaktahuan akan perbedaan regulasi ini kerap berujung pada pemborosan biaya pemeriksaan yang tidak perlu atau justru tertundanya pengajuan visa karena ada item tes laboratorium yang terlewatkan. Melalui pengalaman klinis memfasilitasi ratusan pelajar internasional bersama Layanan Cek Lab Darah di Rumah Joy of Care](/layanan/cek-lab-di-rumah) dan Layanan Vaksinasi di Rumah](/layanan/vaksinasi-di-rumah), Joy of Care menyajikan analisis komparatif terperinci mengenai persyaratan medis resmi, protokol skrining tuberkulosis, uji bebas narkoba, serta transparansi biaya MCU antar-negara tujuan studi favorit.
 
 > ### 💡 Penting dipahami
 > * **Fokus Spesifik Negara Barat (Australia/UK)**: Skrining ketat Tuberkulosis paru via rontgen digital di klinik panel resmi kedutaan (*Panel Physician*).
 > * **Fokus Spesifik Negara Asia Timur (Jepang/Korea)**: Skrining TBC, uji bebas penyakit menular lepra/sifilis, fungsi organ hati, dan tes bebas narkotika urin (*drug test*).
-> * **Variasi Struktur Layanan**: Pemeriksaan kesehatan studi luar negeri mencakup skrining TBC visa kedutaan hingga vaksinasi wajib kampus terpadu. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
+> * **Variasi Struktur Layanan**: Pemeriksaan kesehatan studi luar negeri mencakup skrining TBC visa kedutaan hingga vaksinasi wajib kampus terpadu. 
 > * **Efisiensi Persiapan di Rumah**: Sebagian besar uji laboratorium darah, tes urin, dan vaksinasi dapat diselesaikan terlebih dahulu di rumah sebelum janji temu klinik kedutaan.
 
 ---
@@ -100,7 +101,7 @@ Sistem imigrasi Inggris (UKVI) sangat terfokus dan efisien:
 ### 3. Jepang (Standar Ketelitian Beasiswa MEXT & Visa Studi)
 Otoritas pendidikan Jepang (MEXT) sangat menitikberatkan pada kesehatan metabolik dan fungsi organ secara menyeluruh:
 * Formulir medis resmi Jepang (*Certificate of Health*) mewajibkan dokter memeriksa ketajaman mata, pendengaran, warna kulit, auskultasi jantung/paru, serta hasil laboratorium lengkap mencakup enzim fungsi hati (SGOT, SGPT), tes darah sifilis, dan urinalisis protein/glukosa.
-* Pengisian formulir ini dapat dilakukan oleh dokter berizin resmi dari [Layanan Panggil Dokter ke Rumah Jakarta](/layanan/panggil-dokter) Joy of Care setelah hasil sampel darah terverifikasi akurat.
+* Pengisian formulir ini dapat dilakukan oleh dokter berizin resmi dari Layanan Panggil Dokter ke Rumah Jakarta](/layanan/panggil-dokter) Joy of Care setelah hasil sampel darah terverifikasi akurat.
 
 ### 4. Korea Selatan (Regulasi Bebas Narkoba dan TBC)
 Pemerintah Korea Selatan sangat ketat dalam menjaga lingkungan pendidikan mereka dari penyalahgunaan zat terlarang:
@@ -119,8 +120,6 @@ Berikut adalah rincian kalkulasi biaya medis riil per negara yang harus dialokas
 | **Paket Vaksinasi Wajib Universitas** | Paket vaksin MMR & Meningitis | Paket vaksin MenACWY & booster | Vaksin MMR & Hepatitis B | Paket vaksin influenza & Tdap |
 | **Tes Titer Darah & Skrining Urin Lab** | Uji titer antibodi serologi lab | Uji laboratorium sesuai kampus | Panel skrining urin & darah | Uji laboratorium titer serologi |
 | **Estimasi Skema Pemeriksaan** | **Paket Lengkap Mahasiswa Australia** | **Paket Terpadu Mahasiswa UK** | **Paket Terpadu Jepang / Korea** | **Paket Mahasiswa Amerika Serikat** |
-
-Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
 ---
 
@@ -141,6 +140,3 @@ Masa berlaku hasil pemeriksaan medis visa imigrasi internasional umumnya berkisa
 
 Setiap negara memiliki aturan main medis yang unik dan tidak boleh ada kesalahan data. Percayakan persiapan laboratorium darah, vaksinasi internasional, dan konsultasi dokter pra-studi Anda kepada tim profesional Joy of Care.
 
-Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?) sekarang juga!
-
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

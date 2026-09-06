@@ -41,7 +41,8 @@ internal_links:
   url: /layanan/panggil-dokter
 - anchor: Latihan Fisik Parkinson Rumahan
   url: /blog/healthy-aging-3/3-jenis-latihan-fisik-yang-terbukti-mampu-melawan-kekakuan-parkinson-panduan-fisioterapi-rumahan-35
-cta_text: Hubungi WhatsApp JoC untuk informasi harga dokter dan tim medis Joy of Care
+cta_text: 
+dokter dan tim medis Joy of Care
   via WhatsApp di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -93,17 +94,13 @@ Merawat anggota keluarga penderita Parkinson adalah maraton panjang yang mengura
 1. **Memahami Bahwa Apatis Bukan Kemalasan**: Ketika pasien tampak enggan bergerak atau tidak bersemangat, pahami bahwa ini adalah manifestasi biologis kerusakan sirkuit otak, bukan sikap keras kepala atau malas.
 2. **Terapkan Manajemen Respite Care untuk Caregiver**: Anggota keluarga yang merawat harus mengambil jeda istirahat berkala untuk menyegarkan mental (*burnout prevention*). Jangan ragu membagi tugas dengan anggota keluarga lain atau mempekerjakan tenaga perawat terlatih.
 
-Dukungan profesional dari [layanan perawat medis homecare](/layanan/perawat-homecare) memberikan ketenangan pikiran bagi keluarga, memastikan pasien mendapatkan perawatan higienis dan asupan nutrisi optimal setiap hari. Untuk menjaga kebugaran otot dan melatih mobilitas fungsional, jadwalkan sesi bersama [Layanan Fisioterapi Homecare Joy of Care](/layanan/fisioterapi). Konsultasi penyesuaian dosis obat dan penanganan depresi juga dapat difasilitasi oleh [layanan panggil dokter ke rumah](/layanan/panggil-dokter).
-
-
+Dukungan profesional dari layanan perawat medis homecare](/layanan/perawat-homecare) memberikan ketenangan pikiran bagi keluarga, memastikan pasien mendapatkan perawatan higienis dan asupan nutrisi optimal setiap hari. Untuk menjaga kebugaran otot dan melatih mobilitas fungsional, jadwalkan sesi bersama Layanan Fisioterapi Homecare Joy of Care](/layanan/fisioterapi). Konsultasi penyesuaian dosis obat dan penanganan depresi juga dapat difasilitasi oleh layanan panggil dokter ke rumah](/layanan/panggil-dokter).
 
 ### Checklist Harian Perawatan Pasien Parkinson di Rumah
 Untuk memastikan kualitas hidup penderita Parkinson tetap optimal sepanjang hari, terapkan rutinitas checklist harian berikut:
 * **Pemantauan Gejala Non-Motorik**: Catat perubahan suasana hati (*mood*), pola tidur malam, dan ada tidaknya halusinasi visual ringan saat malam hari.
 * **Manajemen Mencegah Dehidrasi & Sembelit**: Berikan segelas air putih hangat setiap 2 jam dan tambahkan sayuran berserat tinggi untuk merangsang peristaltik usus.
 * **Pengecekan Tensi Ortostatik Berkala**: Periksa tensi darah saat pasien duduk dan setelah berdiri untuk mencegah pusing melayang akibat penurunan tekanan darah mendadak.
-
-
 
 ### Komitmen Keamanan & Standar Pelayanan Klinis Joy of Care
 Setiap tindakan medis dan rehabilitasi yang diselenggarakan oleh Joy of Care dijalankan di bawah pengawasan ketat dokter penanggung jawab klinis berizin resmi Dinas Kesehatan. Kami menerapkan prinsip keselamatan pasien (*patient safety*) berstandar internasional, penggunaan instrumen steril sekali pakai, serta pencatatan rekam medis digital terintegrasi untuk memastikan setiap anggota keluarga Anda mendapatkan penanganan yang akurat, manusiawi, dan terpercaya langsung di kenyamanan hunian pribadi.
@@ -130,4 +127,3 @@ Ajak pasien bepergian ke tempat yang tenang dan ramah disabilitas pada jam 'ON' 
 ### Pendampingan Medis dan Perawat Parkinson dari Joy of Care
 Anda tidak harus menanggung beban perawatan ini sendirian. Joy of Care menyediakan layanan perawat geriatri terlatih dan kunjungan dokter ke rumah di area Jabodetabek untuk mendampingi orang tua Anda dengan penuh kasih sayang, integritas, dan standar medis tertinggi.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

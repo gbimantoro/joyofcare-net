@@ -47,7 +47,8 @@ internal_links:
   url: /blog/healthy-aging-3/panduan-fisioterapi-di-rumah-untuk-pasien-osteoporosis-mengurangi-nyeri-mencegah-jatuh-43
 - anchor: Layanan Dokter Kunjungan ke Rumah
   url: /layanan/panggil-dokter
-cta_text: Hubungi WhatsApp JoC untuk informasi harga bersama dokter dan tim medis
+cta_text: 
+bersama dokter dan tim medis
   Joy of Care via WhatsApp di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -114,9 +115,7 @@ Strategi pengobatan osteoporosis harus disesuaikan secara personal berdasarkan k
 2. **Agen Anabolik (Membentuk Tulang Baru)**:
    * *Teriparatide (PTH Analog)*: Diindikasikan untuk kasus osteoporosis sangat parah dengan riwayat patah tulang berulang, merangsang pembentukan massa tulang baru secara agresif.
 
-Untuk mendapatkan evaluasi terapi dan tindakan medis yang aman di rumah, keluarga dapat menggunakan [layanan terapi infus vitamin di rumah](/layanan/infus-vitamin-di-rumah) serta [layanan panggil dokter ke rumah](/layanan/panggil-dokter). Pemantauan fungsi ginjal dan kalsium darah pra-terapi juga dapat diakses lewat [layanan cek lab darah di rumah](/layanan/cek-lab-di-rumah).
-
-
+Untuk mendapatkan evaluasi terapi dan tindakan medis yang aman di rumah, keluarga dapat menggunakan layanan terapi infus vitamin di rumah](/layanan/infus-vitamin-di-rumah) serta layanan panggil dokter ke rumah](/layanan/panggil-dokter). Pemantauan fungsi ginjal dan kalsium darah pra-terapi juga dapat diakses lewat layanan cek lab darah di rumah](/layanan/cek-lab-di-rumah).
 
 ### Checklist Harian Pemeliharaan Kebugaran & Kesehatan Holistik Lansia
 Keluarga dapat menerapkan panduan perawatan preventif harian untuk menjaga kemandirian lansia:
@@ -146,4 +145,3 @@ Setelah 3 hingga 5 tahun penggunaan bisfosfonat terus-menerus, dokter biasanya a
 ### Konsultasi Terapi Injeksi Osteoporosis Bersama Joy of Care
 Joy of Care bekerja sama dengan dokter spesialis ortopedi dan penyakit dalam untuk memfasilitasi kelanjutan terapi injeksi Bonevell® dan Corora® langsung di rumah pasien. Tenaga kesehatan kami berizin resmi Dinas Kesehatan, menjamin prosedur steril standar rumah sakit tanpa repot transportasi.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

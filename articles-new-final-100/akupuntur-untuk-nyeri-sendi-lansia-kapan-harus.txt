@@ -40,7 +40,8 @@ internal_links:
   url: /layanan/panggil-dokter
 - anchor: Layanan Perawat Medis Homecare
   url: /layanan/perawat-homecare
-cta_text: Hubungi WhatsApp JoC untuk informasi harga langsung via WhatsApp Joy of
+cta_text: 
+langsung via WhatsApp Joy of
   Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -53,7 +54,7 @@ clinical_references:
 
 # Kapan Lansia Harus Memilih Terapi Akupuntur untuk Nyeri Sendi? 4 Tanda Kritis dan Protokol Klinis Pemulihan di Rumah
 
-Bagi banyak anak yang merawat orang tua lansia di kawasan Jabodetabek, melihat orang tua meringis menahan sakit setiap kali bangkit dari kursi adalah pemandangan yang menyayat hati. Berbagai jenis salep pereda nyeri, koyo tempel, hingga obat-obatan warung telah dicoba, namun rasa ngilu di lutut dan pinggang tak kunjung sirna. Sementara itu, opsi operasi penggantian sendi (*Total Knee Replacement* / TKR) kerap dihindari karena faktor risiko usia, biaya ratusan juta rupiah, atau ketakutan mendalam dari pasien itu sendiri. Di sinilah [Layanan Akupuntur Medis di Rumah Joy of Care](/layanan/akupuntur-di-rumah) menjadi solusi penolong yang tepat waktu. Melalui penusukan jarum mikro yang merangsang hormon endorfin alami tanpa obat kimia, akupuntur menawarkan jembatan pemulihan fungsional bagi lansia. Artikel ini mengupas 4 indikator klinis kapan keluarga harus segera mempertimbangkan terapi akupuntur, dilengkapi studi kasus nyata pemulihan geriatri di kawasan Jakarta Selatan.
+Bagi banyak anak yang merawat orang tua lansia di kawasan Jabodetabek, melihat orang tua meringis menahan sakit setiap kali bangkit dari kursi adalah pemandangan yang menyayat hati. Berbagai jenis salep pereda nyeri, koyo tempel, hingga obat-obatan warung telah dicoba, namun rasa ngilu di lutut dan pinggang tak kunjung sirna. Sementara itu, opsi operasi penggantian sendi (*Total Knee Replacement* / TKR) kerap dihindari karena faktor risiko usia, biaya ratusan juta rupiah, atau ketakutan mendalam dari pasien itu sendiri. Di sinilah Layanan Akupuntur Medis di Rumah Joy of Care](/layanan/akupuntur-di-rumah) menjadi solusi penolong yang tepat waktu. Melalui penusukan jarum mikro yang merangsang hormon endorfin alami tanpa obat kimia, akupuntur menawarkan jembatan pemulihan fungsional bagi lansia. Artikel ini mengupas 4 indikator klinis kapan keluarga harus segera mempertimbangkan terapi akupuntur, dilengkapi studi kasus nyata pemulihan geriatri di kawasan Jakarta Selatan.
 
 > ### 💡 Penting dipahami
 > * **4 Tanda Wajib Akupuntur**: Obat nyeri sudah tidak mempan, muncul gejala maag/lambung perih akibat obat, fungsi filtrasi ginjal menurun, dan penolakan operasi sendi.
@@ -117,7 +118,7 @@ Perkembangan klinis dievaluasi secara objektif setiap 4 sesi intervensi (2–3 k
 | Hasil lab menunjukkan kreatinin ginjal naik | **Segera Hentikan Obat NSAID & Beralih ke Akupuntur** |
 | Dianjurkan operasi namun menolak / komorbid | **Pilih Paket Akupuntur Intensif + Fisioterapi** |
 
-Untuk mendukung perawatan sehari-hari, keluarga juga dapat memanfaatkan kehadiran [Layanan Perawat Medis Homecare](/layanan/perawat-homecare) untuk memantau rutinitas harian pasien.
+Untuk mendukung perawatan sehari-hari, keluarga juga dapat memanfaatkan kehadiran Layanan Perawat Medis Homecare](/layanan/perawat-homecare) untuk memantau rutinitas harian pasien.
 
 ---
 
@@ -138,6 +139,3 @@ Bisa. Joy of Care melayani kunjungan terapi akupuntur medis setiap hari, termasu
 
 Waktu yang berlalu tanpa penanganan tepat hanya akan memperparah keausan sendi orang tua tercinta. Hadirkan layanan akupuntur medis profesional langsung di kediaman Anda di kawasan Jabodetabek.
 
-Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?) sekarang juga!
-
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

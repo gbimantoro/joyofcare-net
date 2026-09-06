@@ -39,7 +39,8 @@ internal_links:
   url: /blog/healthy-aging-3/pentingnya-vaksinasi-untuk-lansia-jenis-vaksin-yang-direkomendasikan-12
 - anchor: Layanan Dokter Kunjungan Rumah
   url: /layanan/panggil-dokter
-cta_text: Hubungi WhatsApp JoC untuk informasi harga dokter Joy of Care via WhatsApp
+cta_text: 
+dokter Joy of Care via WhatsApp
   di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -84,17 +85,13 @@ Kualitas dan efikasi suatu vaksin sangat bergantung pada pemeliharaan rantai din
 * **Coolbox Vaksin Bersertifikasi WHO**: Tim medis Joy of Care menggunakan boks pendingin khusus yang dilengkapi indikator pemantau suhu digital real-time untuk memastikan vaksin selalu berada dalam rentang suhu ideal 2°C hingga 8°C sepanjang perjalanan menuju rumah Anda.
 * **Menghilangkan Risiko Infeksi Nosokomial**: Bagi bayi baru lahir dan lansia dengan daya tahan tubuh rendah, datang ke rumah sakit umum membawa risiko terpapar kuman patogen droplet dari pasien lain di ruang tunggu poliklinik.
 
-Dengan memilih [layanan vaksinasi di rumah](/layanan/vaksinasi-di-rumah), seluruh anggota keluarga mulai dari anak-anak, orang dewasa, hingga kakek-nenek dapat divaksinasi secara serentak dalam kenyamanan ruang keluarga sendiri. Dokter berizin dari [layanan panggil dokter ke rumah](/layanan/panggil-dokter) akan melakukan skrining awal yang komprehensif, dan bila diperlukan tes darah pra-imunisasi, dapat dilayani oleh [layanan cek lab darah di rumah](/layanan/cek-lab-di-rumah).
-
-
+Dengan memilih layanan vaksinasi di rumah](/layanan/vaksinasi-di-rumah), seluruh anggota keluarga mulai dari anak-anak, orang dewasa, hingga kakek-nenek dapat divaksinasi secara serentak dalam kenyamanan ruang keluarga sendiri. Dokter berizin dari layanan panggil dokter ke rumah](/layanan/panggil-dokter) akan melakukan skrining awal yang komprehensif, dan bila diperlukan tes darah pra-imunisasi, dapat dilayani oleh layanan cek lab darah di rumah](/layanan/cek-lab-di-rumah).
 
 ### Checklist Harian Pemeliharaan Kebugaran & Kesehatan Holistik Lansia
 Keluarga dapat menerapkan panduan perawatan preventif harian untuk menjaga kemandirian lansia:
 * **Target Asupan Hidrasi 1,5 Liter**: Sediakan botol minum takar di dekat tempat tidur lansia agar keluarga mudah memantau volume air yang telah dihabiskan.
 * **Stimulasi Kognitif & Interaksi Sosial**: Luangkan waktu 15–20 menit setiap sore untuk mengajak lansia mengobrol santai, mendengarkan lagu kenangan, atau melihat album foto keluarga.
 * **Inspeksi Kulit di Titik Tumpu Tulang**: Periksa kulit area bokong, tulang ekor, dan tumit setiap kali selesai mandi untuk mencegah luka tekan dekubitus stadium awal.
-
-
 
 ### Komitmen Keamanan & Standar Pelayanan Klinis Joy of Care
 Setiap tindakan medis dan rehabilitasi yang diselenggarakan oleh Joy of Care dijalankan di bawah pengawasan ketat dokter penanggung jawab klinis berizin resmi Dinas Kesehatan. Kami menerapkan prinsip keselamatan pasien (*patient safety*) berstandar internasional, penggunaan instrumen steril sekali pakai, serta pencatatan rekam medis digital terintegrasi untuk memastikan setiap anggota keluarga Anda mendapatkan penanganan yang akurat, manusiawi, dan terpercaya langsung di kenyamanan hunian pribadi.
@@ -121,4 +118,3 @@ Sesi vaksinasi umumnya memakan waktu sekitar 30 hingga 45 menit, mencakup skrini
 ### Lindungi Keluarga Anda Hari Ini Bersama Joy of Care
 Kekebalan keluarga adalah investasi terpenting bagi masa depan bersama. Nikmati kemudahan layanan vaksinasi profesional langsung di kenyamanan hunian Anda di Jakarta, Tangerang, Depok, dan Bogor.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

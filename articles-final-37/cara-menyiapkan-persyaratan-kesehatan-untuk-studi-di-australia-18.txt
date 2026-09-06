@@ -88,17 +88,13 @@ Untuk mayoritas mahasiswa program sarjana (S1) dan pascasarjana (S2/S3) umum:
 Proses pemeriksaan kesehatan visa pelajar Australia (Subclass 500) diatur secara ketat oleh *Department of Home Affairs* Australia. Agar permohonan visa tidak tertunda, mahasiswa wajib memahami alur birokrasi berikut:
 1. **Pembuatan HAP ID via ImmiAccount**: Setelah melengkapi formulir visa online, sistem akan menerbitkan *Health Examination List* yang memuat nomor HAP ID unik dan rincian pemeriksaan yang diwajibkan (umumnya kode 501 Medical Examination dan kode 502 Chest X-ray).
 2. **Pemeriksaan Hanya di Panel Physician Resmi**: Pemeriksaan tidak dapat dilakukan di sembarang rumah sakit, melainkan harus di klinik panel resmi rekanan Kedutaan Australia di kota-kota besar Indonesia (seperti Bupa partner clinics).
-3. **Persiapan Skrining Mandiri Sebelum Hari H**: Untuk mencegah temuan tak terduga seperti glukosa dalam urin atau infeksi paru ringan, mahasiswa sangat disarankan melakukan pemeriksaan awal melalui [layanan cek lab darah di rumah](/layanan/cek-lab-di-rumah) serta melengkapi riwayat vaksinasi melalui [layanan vaksinasi di rumah](/layanan/vaksinasi-di-rumah). Jika membutuhkan konsultasi kesehatan dan evaluasi kondisi fisik sebelum pemeriksaan resmi, Anda dapat menghubungi [layanan panggil dokter ke rumah](/layanan/panggil-dokter).
-
-
+3. **Persiapan Skrining Mandiri Sebelum Hari H**: Untuk mencegah temuan tak terduga seperti glukosa dalam urin atau infeksi paru ringan, mahasiswa sangat disarankan melakukan pemeriksaan awal melalui layanan cek lab darah di rumah](/layanan/cek-lab-di-rumah) serta melengkapi riwayat vaksinasi melalui layanan vaksinasi di rumah](/layanan/vaksinasi-di-rumah). Jika membutuhkan konsultasi kesehatan dan evaluasi kondisi fisik sebelum pemeriksaan resmi, Anda dapat menghubungi layanan panggil dokter ke rumah](/layanan/panggil-dokter).
 
 ### Checklist Kelengkapan Dokumen Medis & Persiapan Perjalanan Internasional
 Sebelum jadwal keberangkatan atau pengajuan visa ke kedutaan, pastikan hal-hal krusial berikut telah terpenuhi:
 * **Penyimpanan Berkas Medis Ganda (Fisik & Digital)**: Simpan dokumen asli berstempel resmi di tas kabin dan simpan pindaian format PDF di penyimpanan awan (*cloud*) yang mudah diunduh.
 * **Pengecekan Legalitas Cap & Masa Berlaku Form**: Pastikan tanda tangan dokter, cap stempel klinik berizin resmi, dan masa berlaku dokumen sesuai aturan imigrasi negara tujuan.
 * **Daftar Kontak Darurat Medis di Kota Tujuan**: Catat alamat klinik kesehatan kampus dan nomor darurat ambulans lokal untuk mengantisipasi kondisi darurat medis tak terduga.
-
-
 
 ## Pertanyaan yang Sering Diajukan (FAQ)
 
@@ -122,4 +118,3 @@ Panel physician biasanya akan meminta pemeriksaan lanjutan berupa tes dahak sput
 ### Persiapan Vaksinasi & MCU Studi Australia Bersama Joy of Care
 Sebelum berangkat ke Australia, pastikan Anda juga telah melengkapi vaksinasi internasional (MMR, Hepatitis B, Meningitis) yang diwajibkan oleh universitas tempat Anda belajar. Layanan vaksinasi home visit dan cek lab Joy of Care siap membantu Anda langsung di rumah.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

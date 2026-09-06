@@ -56,7 +56,7 @@ clinical_references:
 
 # Panduan Tanya Jawab Lengkap (FAQ): Segala Hal yang Perlu Anda Ketahui tentang Vaksinasi Lansia di Rumah Jakarta
 
-Menjaga orang tua tetap sehat di usia senja merupakan prioritas utama setiap keluarga. Namun, keputusan untuk memberikan vaksinasi pada lansia kerap diwarnai oleh berbagai keraguan, mitos medis, serta kekhawatiran seputar efek samping, interaksi dengan obat-obatan rutin, hingga aspek keamanan penyuntikan di luar fasilitas rumah sakit. Melalui kompilasi FAQ komprehensif ini, tim dokter spesialis dan konsultan geriatri [Layanan Vaksinasi Lansia di Rumah Joy of Care](/layanan/vaksinasi-di-rumah) menjawab tuntas berbagai pertanyaan paling sering diajukan oleh keluarga di Jakarta. Pembahasan mencakup jenis vaksin wajib usia 60 tahun ke atas, penanganan Kejadian Ikutan Pasca-Imunisasi (KIPI), syarat kondisi klinis pasien, transparansi cold-chain, hingga prosedur pemesanan praktis melalui layanan homecare modern.
+Menjaga orang tua tetap sehat di usia senja merupakan prioritas utama setiap keluarga. Namun, keputusan untuk memberikan vaksinasi pada lansia kerap diwarnai oleh berbagai keraguan, mitos medis, serta kekhawatiran seputar efek samping, interaksi dengan obat-obatan rutin, hingga aspek keamanan penyuntikan di luar fasilitas rumah sakit. Melalui kompilasi FAQ komprehensif ini, tim dokter spesialis dan konsultan geriatri Layanan Vaksinasi Lansia di Rumah Joy of Care](/layanan/vaksinasi-di-rumah) menjawab tuntas berbagai pertanyaan paling sering diajukan oleh keluarga di Jakarta. Pembahasan mencakup jenis vaksin wajib usia 60 tahun ke atas, penanganan Kejadian Ikutan Pasca-Imunisasi (KIPI), syarat kondisi klinis pasien, transparansi cold-chain, hingga prosedur pemesanan praktis melalui layanan homecare modern.
 
 > ### 💡 Penting dipahami
 > * **Keamanan Komorbid Terbukti**: Penderita hipertensi, diabetes, jantung, dan ginjal kronis justru merupakan kelompok yang paling membutuhkan perlindungan vaksin.
@@ -76,7 +76,7 @@ Berikut adalah kumpulan pertanyaan mendasar mengenai kondisi fisik lansia yang d
 ### 2. Apakah penderita penyakit autoimun atau kanker boleh menerima vaksin?
 **Jawab**: Boleh, namun pemilihannya harus sangat selektif:
 * Lansia dengan kondisi imunokompromais (seperti sedang menjalani kemoterapi, penderita rematik autoimun, atau mengonsumsi kortikosteroid dosis tinggi) **sangat dianjurkan** menerima vaksin inaktif atau rekombinan (seperti vaksin influenza inaktif, vaksin PCV13/15, atau vaksin herpes zoster rekombinan).
-* Vaksin hidup yang dilemahkan (*live-attenuated vaccine*) merupakan kontraindikasi bagi pasien kelompok ini. Konsultasikan terlebih dahulu dengan dokter melalui [Layanan Panggil Dokter ke Rumah Jakarta](/layanan/panggil-dokter) untuk evaluasi jadwal yang tepat di antara siklus terapi.
+* Vaksin hidup yang dilemahkan (*live-attenuated vaccine*) merupakan kontraindikasi bagi pasien kelompok ini. Konsultasikan terlebih dahulu dengan dokter melalui Layanan Panggil Dokter ke Rumah Jakarta](/layanan/panggil-dokter) untuk evaluasi jadwal yang tepat di antara siklus terapi.
 
 ### 3. Kapan vaksinasi harus ditunda untuk sementara waktu?
 **Jawab**: Penundaan vaksinasi hanya dilakukan jika lansia sedang mengalami:
@@ -100,7 +100,7 @@ Aspek teknis penyimpanan dan keamanan pascasuntik sering menjadi perhatian kelua
 **Jawab**: Reaksi pascavaksinasi umumnya sangat ringan dan bersifat swasirna (*self-limiting*) dalam waktu 24 hingga 48 jam:
 * **Nyeri Lokal di Lengan**: Terjadi pada sekitar 30–50% orang karena respons otot terhadap suntikan. Cukup kompres dingin dengan kain bersih selama 15 menit. Hindari memijat area suntikan.
 * **Badan Sedikit Lemas atau Meriang**: Respons alami terbentuknya antibodi. Berikan istirahat yang cukup, hidrasi air putih hangat, dan berikan parasetamol bila lansia merasa kurang nyaman.
-* Jika keluarga membutuhkan pendampingan profesional untuk memantau tanda vital pascatindakan, Anda dapat mengandalkan [Layanan Perawat Medis Homecare](/layanan/perawat-homecare).
+* Jika keluarga membutuhkan pendampingan profesional untuk memantau tanda vital pascatindakan, Anda dapat mengandalkan Layanan Perawat Medis Homecare](/layanan/perawat-homecare).
 
 ### 6. Apakah Joy of Care menyediakan kartu atau sertifikat resmi setelah vaksinasi?
 **Jawab**: Ya. Setiap pasien lansia yang menerima vaksinasi akan diberikan Buku Catatan Imunisasi Dewasa Resmi yang mencantumkan nama vaksin, nomor batch/lot vaksin dari pabrikan, tanggal kedaluwarsa, tanggal penyuntikan, serta nama dan tanda tangan tenaga medis berizin yang melakukan tindakan. Dokumen ini sah dan dapat digunakan sebagai rekam medis rujukan ke dokter spesialis atau rumah sakit.
@@ -124,7 +124,7 @@ Aspek teknis penyimpanan dan keamanan pascasuntik sering menjadi perhatian kelua
 **Jawab**: Paket vaksinasi Joy of Care telah dirancang transparan dan mencakup seluruh komponen penting: ampul vaksin orisinal, alat suntik steril sekali pakai, jasa tenaga medis profesional, dan biaya transport ke kediaman Anda di wilayah cakupan Jabodetabek. Tidak ada biaya tersembunyi (*no hidden fees*).
 
 ### 8. Bagaimana cara memesan layanan vaksinasi ke rumah?
-**Jawab**: Sangat mudah dan praktis. Anda cukup menghubungi customer service kami via WhatsApp, menyampaikan identitas pasien serta jenis vaksin yang dibutuhkan. Tim kami akan melakukan penjadwalan tanggal dan jam yang paling nyaman bagi keluarga Anda. Sebelum hari tindakan, Anda juga dapat meminta peninjauan riwayat medis atau pemeriksaan metabolik awal melalui [Layanan Cek Lab Darah di Rumah](/layanan/cek-lab-di-rumah).
+**Jawab**: Sangat mudah dan praktis. Anda cukup menghubungi customer service kami via WhatsApp, menyampaikan identitas pasien serta jenis vaksin yang dibutuhkan. Tim kami akan melakukan penjadwalan tanggal dan jam yang paling nyaman bagi keluarga Anda. Sebelum hari tindakan, Anda juga dapat meminta peninjauan riwayat medis atau pemeriksaan metabolik awal melalui Layanan Cek Lab Darah di Rumah](/layanan/cek-lab-di-rumah).
 
 ---
 
@@ -132,6 +132,3 @@ Aspek teknis penyimpanan dan keamanan pascasuntik sering menjadi perhatian kelua
 
 Jangan biarkan keraguan menunda perlindungan kesehatan terbaik bagi orang tua tercinta. Tim medis Joy of Care siap memberikan konsultasi gratis untuk menentukan jadwal vaksinasi yang paling sesuai dengan kondisi fisik lansia.
 
-Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter) sekarang juga!
-
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

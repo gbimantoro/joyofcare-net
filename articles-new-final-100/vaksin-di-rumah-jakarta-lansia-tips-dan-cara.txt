@@ -34,7 +34,8 @@ internal_links:
   url: /layanan/panggil-dokter
 - anchor: Layanan Perawat Medis Homecare
   url: /layanan/perawat-homecare
-cta_text: Hubungi WhatsApp JoC untuk informasi harga via WhatsApp Joy of Care di 08811-118-911.
+cta_text: 
+via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
 clinical_references:
@@ -48,7 +49,7 @@ clinical_references:
 
 # Cara Vaksinasi di Rumah untuk Lansia: Prosedur Medis, Checklist Persiapan, dan SOP Keamanan Lengkap
 
-Menghadirkan layanan vaksinasi ke rumah bagi orang tua lanjut usia merupakan keputusan preventif yang sangat efektif untuk melindungi mereka dari bahaya infeksi pneumonia, influenza, maupun herpes zoster. Namun, agar proses penyuntikan berjalan lancar tanpa menimbulkan kecemasan psikologis maupun risiko efek samping yang tidak diinginkan, keluarga perlu memahami tahapan prosedur dan persiapan yang benar. Melalui [Layanan Vaksinasi Lansia di Rumah Joy of Care](/layanan/vaksinasi-di-rumah), seluruh rangkaian imunisasi dilakukan mengikuti standar operasional prosedur klinis berlisensi Kementerian Kesehatan RI. Artikel ini menyajikan panduan praktis langkah demi langkah bagi keluarga di Jakarta dalam mempersiapkan rumah, mendampingi orang tua saat tindakan medis berlangsung, serta mengenali langkah penanganan observasi pascavaksinasi secara terstruktur.
+Menghadirkan layanan vaksinasi ke rumah bagi orang tua lanjut usia merupakan keputusan preventif yang sangat efektif untuk melindungi mereka dari bahaya infeksi pneumonia, influenza, maupun herpes zoster. Namun, agar proses penyuntikan berjalan lancar tanpa menimbulkan kecemasan psikologis maupun risiko efek samping yang tidak diinginkan, keluarga perlu memahami tahapan prosedur dan persiapan yang benar. Melalui Layanan Vaksinasi Lansia di Rumah Joy of Care](/layanan/vaksinasi-di-rumah), seluruh rangkaian imunisasi dilakukan mengikuti standar operasional prosedur klinis berlisensi Kementerian Kesehatan RI. Artikel ini menyajikan panduan praktis langkah demi langkah bagi keluarga di Jakarta dalam mempersiapkan rumah, mendampingi orang tua saat tindakan medis berlangsung, serta mengenali langkah penanganan observasi pascavaksinasi secara terstruktur.
 
 > ### 💡 Penting dipahami
 > * **Persiapan Lingkungan Nyaman**: Sediakan area duduk santai dengan sirkulasi udara baik dan pencahayaan memadai agar lansia merasa tenang dan relaks.
@@ -69,7 +70,7 @@ Kesiapan keluarga di rumah sangat menentukan keberhasilan dan kenyamanan lansia 
 
 ### 2. Menyiapkan Catatan Medis & Daftar Obat Rutin
 * Siapkan buku rekam medis, kartu vaksinasi terdahulu, atau daftar obat harian yang sedang diminum orang tua Anda (seperti obat pengencer darah, antihipertensi, atau antidiabetes).
-* Informasi ini sangat penting bagi tim medis [Layanan Panggil Dokter ke Rumah Jakarta](/layanan/panggil-dokter) untuk menilai kontraindikasi medis atau menyesuaikan teknik penekanan luka suntikan pada lansia yang mengonsumsi antikoagulan.
+* Informasi ini sangat penting bagi tim medis Layanan Panggil Dokter ke Rumah Jakarta](/layanan/panggil-dokter) untuk menilai kontraindikasi medis atau menyesuaikan teknik penekanan luka suntikan pada lansia yang mengonsumsi antikoagulan.
 
 ### 3. Menata Ruangan yang Bersih dan Tenang
 * Pilih ruangan yang tenang, jauh dari kebisingan televisi atau lalu-lalang hewan peliharaan.
@@ -83,7 +84,7 @@ Kesiapan keluarga di rumah sangat menentukan keberhasilan dan kenyamanan lansia 
 Ketika perawat atau dokter tiba di hunian Anda, prosedur imunisasi dijalankan secara sistematis dan bertahap:
 
 ```
-[Skrining Tanda Vital] -> [Inspeksi Fisik Vaksin] -> [Aseptik & Injeksi Intramuskular] -> [Edukasi & Pencatatan Kartu]
+Skrining Tanda Vital] -> Inspeksi Fisik Vaksin] -> Aseptik & Injeksi Intramuskular] -> Edukasi & Pencatatan Kartu]
 ```
 
 ### Langkah 1: Pemeriksaan Tanda Vital (*Vital Signs Assessment*)
@@ -107,7 +108,7 @@ Tenaga medis akan membuka *vaccine carrier* berinsulasi khusus di depan keluarga
 ### Langkah 4: Observasi Pascavaksinasi Selama 30 Menit
 Setelah suntikan selesai, tenaga medis tidak langsung beranjak pulang. Sesuai standar keselamatan rumah sakit, perawat akan mendampingi lansia selama 30 menit di tempat. Hal ini bertujuan memantau apakah ada tanda-tanda Kejadian Ikutan Pasca-Imunisasi (KIPI) seperti urtikaria (gatal bentol kemerahan), mual, atau sinkop (pingsan vasovagal). 
 
-Apabila lansia Anda membutuhkan dukungan perawatan rutin pascatindakan, keluarga dapat mengandalkan [Layanan Perawat Medis Homecare](/layanan/perawat-homecare) untuk memantau kondisi fisik harian secara kontinu.
+Apabila lansia Anda membutuhkan dukungan perawatan rutin pascatindakan, keluarga dapat mengandalkan Layanan Perawat Medis Homecare](/layanan/perawat-homecare) untuk memantau kondisi fisik harian secara kontinu.
 
 ---
 
@@ -140,6 +141,3 @@ Hubungi dokter jika timbul demam tinggi menetap di atas 39°C selama lebih dari 
 
 Pastikan orang tua Anda terlindungi dari bahaya pneumonia dan influenza musiman dengan prosedur medis yang nyaman, aman, dan tanpa stres. Hubungi tim Joy of Care untuk mengatur jadwal kunjungan dokter atau perawat ke rumah Anda.
 
-Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?) sekarang juga!
-
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

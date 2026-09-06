@@ -39,7 +39,8 @@ internal_links:
   url: /layanan/vaksinasi-di-rumah
 - anchor: Layanan Panggil Dokter ke Rumah Jakarta
   url: /layanan/panggil-dokter
-cta_text: Hubungi WhatsApp JoC untuk informasi harga ke luar negeri langsung via WhatsApp
+cta_text: 
+ke luar negeri langsung via WhatsApp
   Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -54,7 +55,7 @@ clinical_references:
 
 # Panduan Medical Check-Up (MCU) Sebelum Berangkat Studi ke Luar Negeri: Prosedur, Syarat Visa, dan Checklist Vaksinasi
 
-Bagi setiap calon mahasiswa internasional asal Indonesia, proses mengurus visa pelajar (*Student Visa*) dan registrasi universitas impian di luar negeri tidak akan pernah lengkap tanpa pemenuhan berkas medis. Banyak pelajar yang merasa stres dan kebingungan ketika universitas di Australia, Inggris, Amerika Serikat, atau Singapura mengirimkan lembar formulir imunisasi (*Immunization Clearance Form*) setebal belasan halaman dengan istilah-istilah medis asing. Kekeliruan dalam mengisi formulir atau keterlambatan melengkapi vaksin wajib dapat berakibat fatal: visa pelajar tertahan, denda administrasi, hingga penundaan jadwal orientasi kampus. Melalui fasilitas [Layanan Cek Lab Darah di Rumah Joy of Care](/layanan/cek-lab-di-rumah) dan [Layanan Vaksinasi di Rumah](/layanan/vaksinasi-di-rumah), seluruh proses persiapan kesehatan pra-keberangkatan dapat dipersiapkan secara tepat sasaran, akurat, dan nyaman dari hunian Anda di Jakarta. Artikel ini memandu langkah demi langkah tahapan MCU pelajar, jenis pemeriksaan laboratorium yang wajib, serta kiat menghindari kegagalan uji kesehatan visa.
+Bagi setiap calon mahasiswa internasional asal Indonesia, proses mengurus visa pelajar (*Student Visa*) dan registrasi universitas impian di luar negeri tidak akan pernah lengkap tanpa pemenuhan berkas medis. Banyak pelajar yang merasa stres dan kebingungan ketika universitas di Australia, Inggris, Amerika Serikat, atau Singapura mengirimkan lembar formulir imunisasi (*Immunization Clearance Form*) setebal belasan halaman dengan istilah-istilah medis asing. Kekeliruan dalam mengisi formulir atau keterlambatan melengkapi vaksin wajib dapat berakibat fatal: visa pelajar tertahan, denda administrasi, hingga penundaan jadwal orientasi kampus. Melalui fasilitas Layanan Cek Lab Darah di Rumah Joy of Care](/layanan/cek-lab-di-rumah) dan Layanan Vaksinasi di Rumah](/layanan/vaksinasi-di-rumah), seluruh proses persiapan kesehatan pra-keberangkatan dapat dipersiapkan secara tepat sasaran, akurat, dan nyaman dari hunian Anda di Jakarta. Artikel ini memandu langkah demi langkah tahapan MCU pelajar, jenis pemeriksaan laboratorium yang wajib, serta kiat menghindari kegagalan uji kesehatan visa.
 
 > ### 💡 Penting dipahami
 > * **Mulai 2–3 Bulan Sebelumnya**: Waktu jeda diperlukan untuk memenuhi skema vaksinasi multidosis (seperti Hepatitis B dan MMR).
@@ -81,11 +82,11 @@ Kumpulkan buku Kesehatan Ibu dan Anak (KMS), kartu imunisasi masa kecil, atau re
 
 ### Tahap 3: Melengkapi Vaksinasi yang Kurang (Catch-up Immunization)
 Bila hasil titer darah menunjukkan antibodi negatif atau ada vaksin wajib yang belum pernah Anda terima:
-* Segera jadwalkan penyuntikan vaksin booster melalui [Layanan Vaksinasi di Rumah](/layanan/vaksinasi-di-rumah) Joy of Care.
+* Segera jadwalkan penyuntikan vaksin booster melalui Layanan Vaksinasi di Rumah](/layanan/vaksinasi-di-rumah) Joy of Care.
 * Tenaga medis kami akan memberikan vaksin resmi terdaftar BPOM lengkap dengan pencatatan nomor batch/lot, tanggal kadaluwarsa, dan tanda tangan resmi pada lembar form internasional Anda.
 
 ### Tahap 4: Pemeriksaan Fisik, Tanda Vital, dan Tanda Tangan Dokter
-Langkah terakhir adalah konsultasi tatap muka bersama dokter dari [Layanan Panggil Dokter ke Rumah Jakarta](/layanan/panggil-dokter):
+Langkah terakhir adalah konsultasi tatap muka bersama dokter dari Layanan Panggil Dokter ke Rumah Jakarta](/layanan/panggil-dokter):
 * Dokter memeriksa ketajaman penglihatan (uji visus Snellen), buta warna Ishihara, auskultasi jantung dan paru, serta tanda vital.
 * Dokter mengisi lembar rekomendasi kesehatan, menyertakan nomor izin registrasi (STR/SIP), dan membubuhkan stempel resmi klinik Joy of Care.
 
@@ -119,8 +120,7 @@ Beberapa kesalahan umum yang kerap menunda persetujuan visa atau registrasi kamp
 Ya, sangat praktis. Petugas analis laboratorium Joy of Care yang berpengalaman akan datang langsung ke tempat tinggal Anda di Jakarta, Tangerang, Depok, atau Bekasi untuk mengambil sampel darah vena dan urin, lalu membawanya ke laboratorium terakreditasi nasional. Hasil tes resmi berbahasa Inggris akan dikirimkan secara digital dalam tempo 24 jam.
 
 ### 2. Berapa biaya rata-rata paket vaksinasi dan tes lab pra-studi luar negeri di Joy of Care?
-Biaya bervariasi tergantung jumlah item vaksin dan tes lab yang disyaratkan oleh universitas tujuan Anda. Menyelesaikan seluruh rangkaian imunisasi dan MCU di tanah air sebelum berangkat terbukti menghemat biaya kesehatan hingga lebih dari 50%. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
-
+Biaya bervariasi tergantung jumlah item vaksin dan tes lab yang disyaratkan oleh universitas tujuan Anda. Menyelesaikan seluruh rangkaian imunisasi dan MCU di tanah air sebelum berangkat terbukti menghemat biaya kesehatan hingga lebih dari 50%. 
 ### 3. Apakah dokter Joy of Care dapat membantu menerbitkan surat keterangan membawa obat asma atau alergi?
 Tentu saja. Dokter Joy of Care dapat memeriksa riwayat alergi atau asma Anda dan menuliskan *Medical Prescription Declaration Letter* resmi berbahasa Inggris lengkap dengan stempel institusi untuk ditunjukkan kepada petugas bea cukai di bandara internasional.
 
@@ -130,6 +130,3 @@ Tentu saja. Dokter Joy of Care dapat memeriksa riwayat alergi atau asma Anda dan
 
 Fokuskan energi Anda untuk mempersiapkan perlengkapan akademik dan koper keberangkatan. Percayakan seluruh urusan pemeriksaan laboratorium darah dan vaksinasi internasional kepada tim profesional Joy of Care.
 
-Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?) sekarang juga!
-
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

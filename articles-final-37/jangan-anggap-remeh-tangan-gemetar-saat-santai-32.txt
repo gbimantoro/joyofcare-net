@@ -39,7 +39,8 @@ internal_links:
   url: /layanan/fisioterapi
 - anchor: Latihan Fisik Parkinson di Rumah
   url: /blog/healthy-aging-3/3-jenis-latihan-fisik-yang-terbukti-mampu-melawan-kekakuan-parkinson-panduan-fisioterapi-rumahan-35
-cta_text: Hubungi WhatsApp JoC untuk informasi harga dokter dan tim medis Joy of Care
+cta_text: 
+dokter dan tim medis Joy of Care
   via WhatsApp di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -95,17 +96,13 @@ Mengetahui karakteristik tremor sangat penting untuk penegakan diagnosis yang ak
 * **Resting Tremor (Parkinson)**: Tremor muncul saat otot tangan dalam kondisi santai/rileks sempurna (misalnya saat tangan diletakkan di atas pangkuan) dengan frekuensi 4–6 Hz berkarakteristik *pill-rolling* (seperti menggulung pil antara ibu jari dan telunjuk). Tremor ini justru berkurang saat tangan mulai bergerak meraih benda.
 * **Action / Postural Tremor (Essential Tremor)**: Tremor muncul saat tangan melawan gravitasi (misalnya saat memegang cangkir atau menulis) dengan frekuensi lebih cepat (6–10 Hz) dan biasanya mengenai kedua tangan secara simetris.
 
-Langkah pertama yang paling tepat adalah melakukan konsultasi klinis terarah bersama [layanan panggil dokter ke rumah](/layanan/panggil-dokter) untuk pemeriksaan refleks saraf kranial dan tes ketukan jari (*finger tapping test*). Apabila dicurigai terdapat gangguan mobilitas, terapi latihan motorik halus dapat segera dipandu oleh [Layanan Fisioterapi Homecare Joy of Care](/layanan/fisioterapi). Pemeriksaan laboratorium penunjang seperti skrining hormon tiroid juga dapat dilakukan via [layanan cek lab darah di rumah](/layanan/cek-lab-di-rumah).
-
-
+Langkah pertama yang paling tepat adalah melakukan konsultasi klinis terarah bersama layanan panggil dokter ke rumah](/layanan/panggil-dokter) untuk pemeriksaan refleks saraf kranial dan tes ketukan jari (*finger tapping test*). Apabila dicurigai terdapat gangguan mobilitas, terapi latihan motorik halus dapat segera dipandu oleh Layanan Fisioterapi Homecare Joy of Care](/layanan/fisioterapi). Pemeriksaan laboratorium penunjang seperti skrining hormon tiroid juga dapat dilakukan via layanan cek lab darah di rumah](/layanan/cek-lab-di-rumah).
 
 ### Checklist Harian Perawatan Pasien Parkinson di Rumah
 Untuk memastikan kualitas hidup penderita Parkinson tetap optimal sepanjang hari, terapkan rutinitas checklist harian berikut:
 * **Pemantauan Gejala Non-Motorik**: Catat perubahan suasana hati (*mood*), pola tidur malam, dan ada tidaknya halusinasi visual ringan saat malam hari.
 * **Manajemen Mencegah Dehidrasi & Sembelit**: Berikan segelas air putih hangat setiap 2 jam dan tambahkan sayuran berserat tinggi untuk merangsang peristaltik usus.
 * **Pengecekan Tensi Ortostatik Berkala**: Periksa tensi darah saat pasien duduk dan setelah berdiri untuk mencegah pusing melayang akibat penurunan tekanan darah mendadak.
-
-
 
 ### Komitmen Keamanan & Standar Pelayanan Klinis Joy of Care
 Setiap tindakan medis dan rehabilitasi yang diselenggarakan oleh Joy of Care dijalankan di bawah pengawasan ketat dokter penanggung jawab klinis berizin resmi Dinas Kesehatan. Kami menerapkan prinsip keselamatan pasien (*patient safety*) berstandar internasional, penggunaan instrumen steril sekali pakai, serta pencatatan rekam medis digital terintegrasi untuk memastikan setiap anggota keluarga Anda mendapatkan penanganan yang akurat, manusiawi, dan terpercaya langsung di kenyamanan hunian pribadi.
@@ -132,4 +129,3 @@ Segera konsultasikan jika tremor hanya terjadi pada satu sisi tubuh, disertai ge
 ### Konsultasi Dokter Spesialis & Pemeriksaan di Rumah
 Membawa lansia dengan kecurigaan Parkinson mengantre di rumah sakit dapat memicu stres dan memperburuk tremor. Layanan Dokter Kunjungan Rumah dari Joy of Care menghadirkan dokter umum dan konsultasi spesialis langsung ke tempat tinggal Anda dengan pemeriksaan teliti dan penuh empati.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

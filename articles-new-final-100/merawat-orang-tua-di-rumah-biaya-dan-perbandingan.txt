@@ -43,7 +43,8 @@ internal_links:
   url: /layanan/panggil-dokter
 - anchor: Layanan Fisioterapi di Rumah
   url: /layanan/fisioterapi
-cta_text: Hubungi WhatsApp JoC untuk informasi harga langsung via WhatsApp Joy of
+cta_text: 
+langsung via WhatsApp Joy of
   Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -106,15 +107,14 @@ Sebaliknya, investasi pada layanan perawat profesional menghadirkan efisiensi ho
 
 ## Menghitung Biaya Efisiensi Jangka Panjang
 
-Jika dihitung secara komprehensif, biaya menyewa perawat profesional dari [Layanan Perawat Lansia Homecare Joy of Care](/layanan/perawat-homecare) sering kali jauh lebih ekonomis dibanding biaya rawat inap di rumah sakit akibat komplikasi yang terlambat dideteksi (seperti luka dekubitus yang terinfeksi parah atau aspirasi pneumonia yang memerlukan ruang ICU dengan biaya puluhan juta rupiah).
+Jika dihitung secara komprehensif, biaya menyewa perawat profesional dari Layanan Perawat Lansia Homecare Joy of Care](/layanan/perawat-homecare) sering kali jauh lebih ekonomis dibanding biaya rawat inap di rumah sakit akibat komplikasi yang terlambat dideteksi (seperti luka dekubitus yang terinfeksi parah atau aspirasi pneumonia yang memerlukan ruang ICU dengan biaya puluhan juta rupiah).
 
-Pelajari panduan perawatan mandiri selengkapnya di [Panduan Lengkap Merawat Orang Tua di Rumah](/blog/merawat-orang-tua-di-rumah-panduan-lengkap). Untuk mendukung mobilitas fisik, keluarga juga dapat mengombinasikannya dengan [layanan fisioterapi di rumah](/layanan/fisioterapi) serta evaluasi kesehatan berkala oleh [layanan panggil dokter ke rumah](/layanan/panggil-dokter).
+Pelajari panduan perawatan mandiri selengkapnya di Panduan Lengkap Merawat Orang Tua di Rumah](/blog/merawat-orang-tua-di-rumah-panduan-lengkap). Untuk mendukung mobilitas fisik, keluarga juga dapat mengombinasikannya dengan layanan fisioterapi di rumah](/layanan/fisioterapi) serta evaluasi kesehatan berkala oleh layanan panggil dokter ke rumah](/layanan/panggil-dokter).
 
 ## Pertanyaan yang Sering Diajukan (FAQ)
 
 ### Berapa kisaran biaya menyewa perawat lansia di rumah wilayah Jabodetabek pada tahun 2026?
-Biaya jasa perawat lansia di Jabodetabek dirancang fleksibel dan transparan sesuai kebutuhan pendampingan lansia, baik untuk bantuan aktivitas dasar harian maupun perawatan medis klinis pascarawat RS. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
-
+Biaya jasa perawat lansia di Jabodetabek dirancang fleksibel dan transparan sesuai kebutuhan pendampingan lansia, baik untuk bantuan aktivitas dasar harian maupun perawatan medis klinis pascarawat RS. 
 ### Apa perbedaan utama antara perawat medis (nurse) dengan caregiver pendamping?
 Perawat medis berwenang melakukan tindakan medis invasif seperti pemasangan selang makan NGT, kateter urin, terapi infus/injeksi, dan perawatan luka steril. Sedangkan caregiver berfokus pada pendampingan aktivitas sehari-hari seperti memandikan, menyuapi makan, dan mobilitas.
 
@@ -129,4 +129,3 @@ Bisa. Keluarga dapat memilih sistem shift harian (8 atau 12 jam kerja) sesuai ja
 ### Berikan Perawatan Terbaik Tanpa Mengorbankan Keluarga
 Sayangi orang tua Anda dan sayangi diri Anda sendiri. Dapatkan tenaga perawat lansia yang ramah, berizin resmi, dan berdedikasi tinggi bersama Joy of Care sekarang juga.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

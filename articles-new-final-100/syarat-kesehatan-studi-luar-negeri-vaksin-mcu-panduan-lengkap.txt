@@ -49,7 +49,8 @@ internal_links:
   url: /layanan/panggil-dokter
 - anchor: Layanan Perawat Medis Homecare
   url: /layanan/perawat-homecare
-cta_text: Hubungi WhatsApp JoC untuk informasi harga negeri langsung via WhatsApp
+cta_text: 
+negeri langsung via WhatsApp
   Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -64,7 +65,7 @@ clinical_references:
 
 # Syarat Kesehatan Studi ke Luar Negeri 2026: Panduan Lengkap Vaksinasi Wajib, Skrining MCU, dan Regulasi Visa Pelajar
 
-Bagi calon mahasiswa Indonesia yang berhasil meraih *Letter of Acceptance* (LoA) dari perguruan tinggi ternama di luar negeri atau dinyatakan lolos beasiswa bergengsi seperti LPDP, Chevening, Fulbright, atau AAS, tahapan berikutnya yang paling menentukan kelancaran keberangkatan adalah pemenuhan persyaratan medis (*Medical Clearance*). Kegagalan melengkapi bukti imunisasi wajib atau adanya kejanggalan pada hasil rontgen dada dapat mengakibatkan penolakan visa pelajar, tertahannya pendaftaran asrama kampus, hingga pembatalan beasiswa. Melalui ekosistem [Layanan Cek Lab Darah di Rumah Joy of Care](/layanan/cek-lab-di-rumah) dan [Layanan Vaksinasi di Rumah](/layanan/vaksinasi-di-rumah), seluruh kebutuhan pemeriksaan kesehatan pra-studi dapat dilaksanakan secara efisien tanpa harus mengantre panjang di rumah sakit. Artikel komprehensif ini mengupas tuntas daftar vaksinasi wajib global, rincian uji laboratorium kedutaan, panduan membaca formulir imunisasi kampus asing, serta estimasi biaya resmi 2026.
+Bagi calon mahasiswa Indonesia yang berhasil meraih *Letter of Acceptance* (LoA) dari perguruan tinggi ternama di luar negeri atau dinyatakan lolos beasiswa bergengsi seperti LPDP, Chevening, Fulbright, atau AAS, tahapan berikutnya yang paling menentukan kelancaran keberangkatan adalah pemenuhan persyaratan medis (*Medical Clearance*). Kegagalan melengkapi bukti imunisasi wajib atau adanya kejanggalan pada hasil rontgen dada dapat mengakibatkan penolakan visa pelajar, tertahannya pendaftaran asrama kampus, hingga pembatalan beasiswa. Melalui ekosistem Layanan Cek Lab Darah di Rumah Joy of Care](/layanan/cek-lab-di-rumah) dan Layanan Vaksinasi di Rumah](/layanan/vaksinasi-di-rumah), seluruh kebutuhan pemeriksaan kesehatan pra-studi dapat dilaksanakan secara efisien tanpa harus mengantre panjang di rumah sakit. Artikel komprehensif ini mengupas tuntas daftar vaksinasi wajib global, rincian uji laboratorium kedutaan, panduan membaca formulir imunisasi kampus asing, serta estimasi biaya resmi 2026.
 
 > ### 💡 Penting dipahami
 > * **2 Lapisan Regulasi Medis**: Skrining imigrasi visa (fokus utama tuberkulosis/TBC) dan *Immunization Clearance* universitas (fokus wabah asrama kampus).
@@ -126,11 +127,9 @@ Berikut adalah estimasi biaya resmi penyiapan berkas medis pelajar di rumah yang
 | **Vaksin Tdap Booster** | Injeksi 1 dosis tetanus-difteri-pertusis dewasa | Vaksin Resmi (Hubungi WA JoC) |
 | **Paket Verifikasi Form & Konsultasi Dokter** | Visit dokter ke rumah, cek tanda vital, pengisian form kampus berbahasa Inggris | Layanan Dokter (Hubungi WA JoC) |
 
-Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
-
 *Catatan: Seluruh tarif sudah mencakup kunjungan tenaga medis ke rumah, spuit jarum steril, transport medis, dan penerbitan sertifikat resmi.*
 
-Bila dalam pemeriksaan awal dokter menemukan adanya gangguan kesehatan yang membutuhkan evaluasi lanjutan, keluarga dapat berkonsultasi langsung dengan [Layanan Panggil Dokter ke Rumah Jakarta](/layanan/panggil-dokter) atau meminta pemantauan kondisi fisik bersama [Layanan Perawat Medis Homecare](/layanan/perawat-homecare).
+Bila dalam pemeriksaan awal dokter menemukan adanya gangguan kesehatan yang membutuhkan evaluasi lanjutan, keluarga dapat berkonsultasi langsung dengan Layanan Panggil Dokter ke Rumah Jakarta](/layanan/panggil-dokter) atau meminta pemantauan kondisi fisik bersama Layanan Perawat Medis Homecare](/layanan/perawat-homecare).
 
 ---
 
@@ -139,7 +138,7 @@ Bila dalam pemeriksaan awal dokter menemukan adanya gangguan kesehatan yang memb
 Kami merancang alur pelayanan yang sangat praktis tanpa menyita waktu sibuk Anda:
 
 ```
-[Kirim PDF Form Kampus via WA] -> [Telaah Tim Dokter] -> [Kunjungan Home Lab & Vaksin] -> [Penerbitan Form Resmi]
+Kirim PDF Form Kampus via WA] -> Telaah Tim Dokter] -> Kunjungan Home Lab & Vaksin] -> Penerbitan Form Resmi]
 ```
 
 1. **Konsultasi Berkas Daring**: Anda mengirimkan file PDF formulir imunisasi dari universitas luar negeri Anda ke nomor WhatsApp Joy of Care (08811-118-911).
@@ -166,6 +165,3 @@ Pasti diterima. Dokter umum Joy of Care memiliki Surat Tanda Registrasi (STR) ak
 
 Waktu terus berjalan mendekati hari keberangkatan Anda. Jangan biarkan urusan berkas medis menunda impian studi global Anda. Percayakan pemenuhan cek laboratorium, vaksinasi internasional, dan pengisian formulir medis kampus kepada tim profesional Joy of Care.
 
-Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?) sekarang juga!
-
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

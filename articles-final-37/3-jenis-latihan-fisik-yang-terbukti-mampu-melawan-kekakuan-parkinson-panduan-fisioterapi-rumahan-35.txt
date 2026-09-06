@@ -42,7 +42,8 @@ internal_links:
   url: /layanan/panggil-dokter
 - anchor: Aturan Minum Obat Levodopa Parkinson
   url: /blog/healthy-aging-3/pil-ajaib-parkinson-kenapa-obat-levodopa-jadi-pahlawan-utama-panduan-cerdas-mengelola-dosis-agar-gerakan-tetap-normal-34
-cta_text: Hubungi WhatsApp JoC untuk informasi harga dokter dan tim medis Joy of Care
+cta_text: 
+dokter dan tim medis Joy of Care
   via WhatsApp di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -101,9 +102,7 @@ Selain tiga latihan dasar di atas, penelitian neurologi modern menunjukkan bahwa
 * **Latihan Jalan Berirama dengan Metronom (*Rhythmic Auditory Stimulation*)**: Gunakan ketukan ritmis metronom (sekitar 80–100 ketukan per menit) atau musik berirama stabil. Mintalah pasien melangkah seirama dengan ketukan untuk mengatasi *freezing of gait* (kaki terasa terpaku di lantai).
 * **Latihan Jalan Sambil Berhitung (*Counting While Walking*)**: Pasien melangkah sambil menyebutkan angka kelipatan tiga atau mengeja nama-nama hari secara mundur. Latihan ini menantang koordinasi kortikal otak secara aktif.
 
-Untuk memastikan keselamatan selama latihan di rumah, pendampingan profesional dari [Layanan Fisioterapi Homecare Joy of Care](/layanan/fisioterapi) dapat membantu mengkaji risiko jatuh dan menyesuaikan intensitas gerak. Jika pasien mengalami kelemahan fisik menyeluruh atau fluktuasi motorik berat, kehadiran [layanan perawat lansia homecare](/layanan/perawat-homecare) sangat penting untuk mendampingi mobilitas harian dan mencegah cedera. Evaluasi medis berkala juga dapat dijadwalkan melalui [layanan panggil dokter ke rumah](/layanan/panggil-dokter) guna memantau efektivitas dosis obat dopaminergik.
-
-
+Untuk memastikan keselamatan selama latihan di rumah, pendampingan profesional dari Layanan Fisioterapi Homecare Joy of Care](/layanan/fisioterapi) dapat membantu mengkaji risiko jatuh dan menyesuaikan intensitas gerak. Jika pasien mengalami kelemahan fisik menyeluruh atau fluktuasi motorik berat, kehadiran layanan perawat lansia homecare](/layanan/perawat-homecare) sangat penting untuk mendampingi mobilitas harian dan mencegah cedera. Evaluasi medis berkala juga dapat dijadwalkan melalui layanan panggil dokter ke rumah](/layanan/panggil-dokter) guna memantau efektivitas dosis obat dopaminergik.
 
 ### Checklist Harian Perawatan Pasien Parkinson di Rumah
 Untuk memastikan kualitas hidup penderita Parkinson tetap optimal sepanjang hari, terapkan rutinitas checklist harian berikut:
@@ -133,4 +132,3 @@ Waktu terbaik adalah pada fase 'ON', yaitu sekitar 45 hingga 60 menit setelah me
 ### Konsultasi Fisioterapi Parkinson Bersama Tim Medis Joy of Care
 Mendampingi pasien Parkinson membutuhkan kesabaran dan keahlian rehabilitasi khusus. Fisioterapis berizin resmi dari Joy of Care siap hadir langsung ke rumah Anda di wilayah Jakarta, Tangerang, Depok, dan Bogor untuk merancang program pemulihan yang aman, personal, dan terukur.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

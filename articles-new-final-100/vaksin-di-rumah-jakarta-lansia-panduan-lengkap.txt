@@ -62,7 +62,7 @@ clinical_references:
 
 # Vaksin di Rumah Jakarta untuk Lansia 2026: Panduan Lengkap Imunisasi Geriatri, Jadwal Medis, dan Standar Keamanan
 
-Sistem kekebalan tubuh manusia mengalami penurunan alami seiring bertambahnya usia, suatu fenomena klinis yang dikenal di dunia geriatri sebagai *immunosenescence*. Pada lansia berusia 60 tahun ke atas, paparan patogen bakteri atau virus musiman yang bagi orang muda hanya menyebabkan batuk-pilek biasa dapat berkembang cepat menjadi pneumonia berat, bronkitis akut, hingga sepsis yang mengancam nyawa. [Layanan Vaksinasi Lansia di Rumah Joy of Care](/layanan/vaksinasi-di-rumah) menghadirkan solusi imunisasi dewasa dan lansia langsung ke kediaman Anda di seluruh wilayah Jakarta dan Jabodetabek. Tanpa perlu antre di rumah sakit atau terpapar droplet infeksius di ruang tunggu klinik, orang tua Anda dapat menerima vaksin influenza kuadrivalen, pneumonia konjugat, dan herpes zoster dari dokter atau perawat ber-STR dengan rantai dingin (*cold chain*) berstandar WHO. Artikel ini menyajikan jadwal medis resmi, rekomendasi PAPDI, rincian biaya 2026, serta prosedur keamanan skrining sebelum penyuntikan.
+Sistem kekebalan tubuh manusia mengalami penurunan alami seiring bertambahnya usia, suatu fenomena klinis yang dikenal di dunia geriatri sebagai *immunosenescence*. Pada lansia berusia 60 tahun ke atas, paparan patogen bakteri atau virus musiman yang bagi orang muda hanya menyebabkan batuk-pilek biasa dapat berkembang cepat menjadi pneumonia berat, bronkitis akut, hingga sepsis yang mengancam nyawa. Layanan Vaksinasi Lansia di Rumah Joy of Care](/layanan/vaksinasi-di-rumah) menghadirkan solusi imunisasi dewasa dan lansia langsung ke kediaman Anda di seluruh wilayah Jakarta dan Jabodetabek. Tanpa perlu antre di rumah sakit atau terpapar droplet infeksius di ruang tunggu klinik, orang tua Anda dapat menerima vaksin influenza kuadrivalen, pneumonia konjugat, dan herpes zoster dari dokter atau perawat ber-STR dengan rantai dingin (*cold chain*) berstandar WHO. Artikel ini menyajikan jadwal medis resmi, rekomendasi PAPDI, rincian biaya 2026, serta prosedur keamanan skrining sebelum penyuntikan.
 
 > ### 💡 Penting dipahami
 > * **Perlindungan Terhadap Infeksi Fatal**: Vaksinasi geriatri terbukti menurunkan angka rawat inap akibat pneumonia hingga 65% dan menurunkan komplikasi jantung pasca-influenza hingga 50%.
@@ -118,8 +118,6 @@ Berikut adalah estimasi biaya resmi paket imunisasi lansia di rumah yang disedia
 | **Vaksin Herpes Zoster Rekombinan** | Cacar Ular & Nyeri Saraf PHN | Paket Shingrix Lengkap (Hubungi WA JoC) | 2 dosis (jarak interval 2–6 bulan) |
 | **Paket Imunisasi Komprehensif Geriatri** | Flu Kuadrivalen + Pneumonia PCV | Paket Bundling Geriatri (Hubungi WA JoC) | Bundling lengkap hemat homecare |
 
-Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
-
 *Catatan: Biaya sudah termasuk pengadaan ampul vaksin resmi bersertifikat BPOM, jarum suntik mikro sekali pakai, cold-chain transport, skrining tanda vital oleh perawat, observasi pascapenyuntikan 30 menit, dan kartu sertifikat vaksinasi resmi.*
 
 ---
@@ -129,13 +127,13 @@ Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%
 Menyelenggarakan vaksinasi di lingkungan hunian membutuhkan ketelitian medis tingkat tinggi guna menjamin kenyamanan pasien geriatri:
 
 ```
-[Konsultasi & Penjadwalan] -> [Pemeriksaan Tanda Vital] -> [Pengecekan Cold-Chain] -> [Injeksi Steril] -> [Observasi Pasca-Vaksin]
+Konsultasi & Penjadwalan] -> Pemeriksaan Tanda Vital] -> Pengecekan Cold-Chain] -> Injeksi Steril] -> Observasi Pasca-Vaksin]
 ```
 
 ### 1. Skrining Anamnesis & Tanda Vital
 Sebelum jarum suntik dikeluarkan, perawat Joy of Care akan mengukur:
 * Tekanan darah, denyut nadi, laju pernapasan, saturasi oksigen, dan suhu tubuh.
-* Skrining kondisi akut: Lansia tidak boleh sedang demam tinggi (>38°C), mengalami infeksi saluran kemih akut, atau sesak napas berat pada hari vaksinasi. Bila ditemukan kondisi akut, jadwal vaksinasi dapat ditunda dengan aman hingga kondisi stabil melalui koordinasi [Layanan Panggil Dokter ke Rumah Jakarta](/layanan/panggil-dokter).
+* Skrining kondisi akut: Lansia tidak boleh sedang demam tinggi (>38°C), mengalami infeksi saluran kemih akut, atau sesak napas berat pada hari vaksinasi. Bila ditemukan kondisi akut, jadwal vaksinasi dapat ditunda dengan aman hingga kondisi stabil melalui koordinasi Layanan Panggil Dokter ke Rumah Jakarta](/layanan/panggil-dokter).
 
 ### 2. Verifikasi Rantai Dingin (*Cold-Chain Verification*)
 Keluarga dipersilakan memeriksa secara langsung kotak pendingin vaksin. Vaksin diambil langsung dari suhu 2–8°C sesaat sebelum disuntikkan secara intramuskular pada otot deltoid lengan atas lansia dengan teknik aseptik swab alkohol.
@@ -143,7 +141,7 @@ Keluarga dipersilakan memeriksa secara langsung kotak pendingin vaksin. Vaksin d
 ### 3. Observasi KIPI (Kejadian Ikutan Pasca-Imunisasi) 30 Menit
 Tenaga medis Joy of Care wajib mendampingi pasien selama 30 menit setelah injeksi untuk memantau potensi reaksi anafilaksis atau keluhan pusing. Perawat juga dibekali perlengkapan kedaruratan standar medis.
 
-Jika orang tua Anda juga memerlukan pemantauan kesehatan harian, Anda dapat mengombinasikannya dengan [Layanan Perawat Medis Homecare](/layanan/perawat-homecare) atau melakukan pemeriksaan berkala melalui [Layanan Cek Lab Darah di Rumah](/layanan/cek-lab-di-rumah).
+Jika orang tua Anda juga memerlukan pemantauan kesehatan harian, Anda dapat mengombinasikannya dengan Layanan Perawat Medis Homecare](/layanan/perawat-homecare) atau melakukan pemeriksaan berkala melalui Layanan Cek Lab Darah di Rumah](/layanan/cek-lab-di-rumah).
 
 ---
 
@@ -164,6 +162,3 @@ Bisa. Menurut panduan medis PAPDI dan CDC, vaksin influenza dan vaksin pneumokok
 
 Lindungi orang tua tercinta dari risiko radang paru dan infeksi saluran pernapasan berbahaya tanpa harus repot menempuh kemacetan ibu kota. Hubungi customer care Joy of Care untuk konsultasi gratis dan reservasi jadwal dokter atau perawat ke rumah.
 
-Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter) sekarang juga!
-
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)
