@@ -1,10 +1,12 @@
 # JoyofCare Content Calendar: 100 Articles
 
-**Date:** 5 September 2026  
+**Date:** 6 September 2026  
 **Strategist:** JoC Strategist  
 **Target:** joyofcare.net  
 **Total Articles:** 100 (20 keywords × 5 content types)  
-**Publication Schedule:** 20 weeks (5 articles/week)
+**Publication Schedule:** 20 weeks (5 articles/week)  
+**Document Version:** 1.1  
+**Next Review:** 13 September 2026
 
 ---
 
@@ -469,8 +471,8 @@ Week N+2: JoC SEO verifies live page, submits to Search Console
 
 ---
 
-**Document Version:** 1.0  
-**Last Updated:** 5 September 2026  
-**Next Review:** 12 September 2026  
+**Document Version:** 1.1  
+**Last Updated:** 6 September 2026  
+**Next Review:** 13 September 2026  
 **Owner:** JoC Strategist  
 **Approved By:** [Pending]

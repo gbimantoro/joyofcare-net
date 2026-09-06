@@ -1,6 +1,6 @@
 # Joy of Care — SEO-GEO-AIO Campaign Plan
 
-**Date:** 5 September 2026
+**Date:** 6 September 2026
 **Target:** joyofcare.net
 **Current Score:** 34/100 (Critical)
 
@@ -53,3 +53,47 @@
 - Reddit: r/indonesia health answers
 - LinkedIn: Company page with weekly posts
 - TikTok: Health tips short videos
+
+## Resource Requirements
+
+| Role | Capacity | Specialization | Timeline |
+|------|----------|----------------|----------|
+| **JoC Writer** | 5 articles/week | Medical content, SEO writing, Indonesian language | Ongoing |
+| **JoC SEO** | 10 articles/week review | On-page SEO, schema markup, keyword optimization | Ongoing |
+| **JoC Visual** | 10 images/week | Featured images, infographics, thumbnails | Ongoing |
+| **JoC Publisher** | 5 articles/week publish | Odoo CMS, social media, email marketing | Ongoing |
+
+## KPIs & Targets
+
+### Weekly
+| Metric | Target |
+|--------|--------|
+| Articles Published | 5/week |
+| Word Count Average | 1,000+ words |
+| Internal Links/Article | 3-5 |
+| FAQ Sections Added | 5/week |
+| WhatsApp CTAs | 5/week |
+
+### Monthly
+| Metric | Month 1 | Month 3 | Month 6 |
+|--------|---------|---------|---------|
+| Total Articles | 20 | 60 | 100 |
+| Organic Traffic | +25% | +75% | +150% |
+| Keyword Rankings (Top 10) | 3 | 10 | 20 |
+| AI Citations | 1 | 3 | 5 |
+| Schema Rich Snippets | 5 | 15 | 25 |
+
+## Content Calendar Summary (20 Weeks)
+
+| Week | Phase | Articles | Keywords | Priority |
+|------|-------|----------|----------|----------|
+| 1-2 | Critical Quick Wins | 10 | #1, #2, #4, #5, #7 | Highest |
+| 3-4 | Competitive Response | 10 | #3, #6, #8, #9, #11 | High |
+| 5-6 | Authority Building | 10 | #10-#15 | High |
+| 7-8 | Cluster Expansion | 10 | #16-#20 | Medium-High |
+| 9-10 | Supporting Content | 10 | Long-tail variations | Medium |
+| 11-12 | Location Pages | 10 | Local SEO content | Medium |
+| 13-14 | Pillar Refresh | 10 | Cluster consolidation | Medium |
+| 15-16 | E-E-A-T & Authority | 10 | Profiles, testimonials | Medium |
+| 17-18 | GEO/AIO Optimization | 10 | AI citation targets | Medium |
+| 19-20 | Final Expansion | 10 | Remaining variations | Standard |

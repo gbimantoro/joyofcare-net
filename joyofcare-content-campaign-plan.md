@@ -178,6 +178,8 @@ All actions should be tracked in the shared Google Sheet `job_log` as the single
 
 ---  
 
-*Report compiled from: campaign-plan.md, content-analysis.md, content-calendar.md, joc-branding.json*  
+**Document Version:** 1.1  
+**Last Updated:** 6 September 2026  
+**Next Review:** 13 September 2026  
 *© 2026 Joy of Care. All rights reserved.*  
 *Brand: [joyofcare.net](https://www.joyofcare.net) | WhatsApp: [08811-118-911](https://wa.me/628811118911)*
