@@ -12,7 +12,8 @@ CLUSTER_NAMES = {
     5: "Kluster 5: Home Lab & Cek Darah di Rumah",
     6: "Kluster 6: Perawatan Lansia & Geriatri Terpadu",
     7: "Kluster 7: Manajemen Penyakit Degeneratif & Pasca-Bedah",
-    8: "Kluster 8: Medical Escort, Transportasi Medis & Studi Luar Negeri"
+    8: "Kluster 8: Medical Escort, Transportasi Medis & Studi Luar Negeri",
+    9: "Kluster Khusus: Siaga Erupsi Abu Vulkanik & Kesehatan Lingkungan"
 }
 
 def md_to_html(md_text):
@@ -272,6 +273,11 @@ for f in f3_files:
         c = 8
     all_file_entries.append((3, 'Fase 3 (Jul–Ags 2026)', c, f))
 
+
+f_volcanic = sorted(glob.glob('/home/gobeam/Projects/joyofcare-net/articles-erupsi-abu-vulkanik/*.mdx'))
+for f in f_volcanic:
+    all_file_entries.append((4, 'Edisi Khusus: Siaga Vulkanik (Sep 2026)', 9, f))
+
 # Sort chronologically by date
 parsed_articles = []
 for idx, (fase_num, fase_label, c_num, filepath) in enumerate(all_file_entries, 1):
@@ -331,7 +337,7 @@ for i, item in enumerate(parsed_articles, 1):
 print(f"Total parsed articles: {len(parsed_articles)}")
 
 # Write to articles-data.js
-js_output = "const ARTICLES_DATA = " + json.dumps(parsed_articles, ensure_ascii=False, indent=2) + ";\n"
+js_output = "var ARTICLES_DATA = " + json.dumps(parsed_articles, ensure_ascii=False, indent=2) + ";\nif (typeof window !== 'undefined') window.ARTICLES_DATA = ARTICLES_DATA;\nif (typeof global !== 'undefined') global.ARTICLES_DATA = ARTICLES_DATA;\n"
 with open('/home/gobeam/Projects/joyofcare-net/review-portal/articles-data.js', 'w', encoding='utf-8') as fl:
     fl.write(js_output)
 

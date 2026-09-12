@@ -1,8 +1,8 @@
-# Joy of Care Content Hub — Master Index 200 Artikel Baru (Fase 1, 2, & 3)
+# Joy of Care Content Hub — Master Index 210 Artikel Baru (200 Topik Master + 10 Edisi Khusus) (Fase 1, 2, & 3)
 
 > **Repositori Staging Internal:** `joyofcare-net` (Semua materi draf disimpan di sini untuk proses review internal)  
 > **Aplikasi Web Produksi:** `joyofcare-web` (Belum dipublikasikan, menunggu persetujuan review)  
-> **Total Volume Konten:** 200 Artikel Lengkap | 290,374 Kata | Rata-rata 1,451 Kata/Artikel  
+> **Total Volume Konten:** 210 Artikel Lengkap | 306,944 Kata | Rata-rata 1,451 Kata/Artikel  
 > **Standar Redaksi:** Jurnalisme Kompas untuk Pembaca Awam (Humanis, Lugas, Bebas Klise AI, E-E-A-T Terverifikasi)  
 > **Metadata Baku:** Penulis: `Tim Kontributor Artikel` | Reviewer: `Tim Medis Joy of Care`  
 
@@ -45,6 +45,15 @@ Seluruh 200 topik konten baru telah selesai ditulis secara mendalam, lengkap den
 
 ---
 
+### 4. [Edisi Khusus: Siaga Erupsi Abu Vulkanik Nasional (10 Artikel)](articles-erupsi-abu-vulkanik/README.md)
+* **Periode Rilis:** 6 & 7 September 2026
+* **Fokus Wilayah (GEO):** Tangerang & Banten (Krakatau), DKI Jakarta, Jawa Barat (Bogor, Depok, Bekasi), Semeru (Jatim), Lewotobi (NTT), Gunung Ruang (Sulut), dan Gunung Ibu (Maluku).
+* **Fokus Medis:** Penanganan ISPA akut, bahaya silika kristalin, pencegahan abrasi kornea mata, sanitasi tandon air tercemar, perlindungan bayi & lansia, serta layanan dokter visit nebulizer darurat di rumah.
+* **Direktori Draf:** [`articles-erupsi-abu-vulkanik/`](articles-erupsi-abu-vulkanik/) (10 Artikel)
+* **Indeks Lengkap:** Lihat [articles-erupsi-abu-vulkanik/README.md](articles-erupsi-abu-vulkanik/README.md)
+
+---
+
 ## 📊 Matriks Distribusi 8 Kluster Layanan Joy of Care
 
 | No | Nama Kluster Layanan | Jumlah Artikel | Fase Pelaksanaan | Direktori Penyimpanan |
@@ -57,7 +66,8 @@ Seluruh 200 topik konten baru telah selesai ditulis secara mendalam, lengkap den
 | **6** | Perawatan Lansia & Geriatri Terpadu | 25 Artikel | Fase 2 | `fase-2-draft-articles/kluster-6-perawatan-lansia/` |
 | **7** | Penyakit Degeneratif & Pasca-Bedah | 25 Artikel | Fase 2 (5) & Fase 3 (20) | `fase-2-draft-articles/` & `fase-3-draft-articles/` |
 | **8** | Medical Escort, Transportasi & Studi Luar Negeri | 25 Artikel | Fase 3 | `fase-3-draft-articles/kluster-8-medical-escort-transportasi/` |
-| | **TOTAL KESELURUHAN** | **200 Artikel** | **3 Fase Terpadu** | **100% Siap Evaluasi Internal** |
+| **9** | Erupsi Vulkanik & Kesehatan Lingkungan | 10 Artikel | 6 & 7 Sep 2026 | `articles-erupsi-abu-vulkanik/` |
+| | **TOTAL KESELURUHAN** | **210 Artikel** | **3 Fase + Edisi Khusus** | **100% Siap Evaluasi Internal** |
 
 ---
 
