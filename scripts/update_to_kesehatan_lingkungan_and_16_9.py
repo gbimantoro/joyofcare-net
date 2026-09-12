@@ -463,33 +463,36 @@ def generate_svg_header(slug, title, category, primary_keyword=""):
 
 def generate_journalistic_prompt(title, category, primary_keyword, slug):
     scenarios = {
-        "panggil-dokter": "an authentic Indonesian doctor in white medical coat and stethoscope visiting an elderly patient and family inside an authentic Indonesian living room in Jakarta, candid documentary moment of measuring blood pressure and talking with patient",
-        "perawat-homecare": "a licensed Indonesian nurse in clinical scrubs performing sterile wound care with hydrogel dressing on a resting patient in an authentic Indonesian residential bedroom, genuine focus, unposed documentary setting",
-        "fisioterapi-rumah": "a professional Indonesian physiotherapist gently assisting a patient through knee mobility and gait rehabilitation exercises on a floor mat in an Indonesian home",
-        "home-lab": "a professional Indonesian phlebotomist in medical gloves preparing vacuum blood collection tubes beside an insulated sample cooler bag at an Indonesian home dining table",
-        "perawatan-lansia": "a compassionate Indonesian homecare nurse holding hands and comforting an elderly Indonesian grandmother sitting in a comfortable armchair at home",
-        "infus-vitamin": "an experienced Indonesian nurse monitoring an intravenous vitamin drip line with sterile catheter while patient rests comfortably on an Indonesian home sofa",
-        "osteoporosis": "an Indonesian healthcare professional explaining bone density results and postural exercises to an active Indonesian elderly couple in their living room",
-        "parkinson": "an Indonesian neuro-rehabilitation therapist practicing rhythmic walking exercises with a Parkinson patient holding a walking frame with attentive family watching",
-        "antar-jemput-rs": "a Joy of Care medical escort nurse carefully assisting a wheelchair patient boarding a medical ambulance in Jakarta, candid documentary capture",
-        "studi-luar-negeri": "a licensed Indonesian doctor reviewing international immunization certificates and administering travel vaccines to an Indonesian university student",
-        "vaksinasi-rumah": "a friendly Indonesian doctor preparing a sterile pre-filled influenza and pneumonia vaccine syringe for an elderly couple at their home table",
-        "kesehatan-umum": "an Indonesian health doctor in discussion with an Indonesian family about proactive health management in an authentic home interior",
-        "kesehatan-lingkungan": "an Indonesian doctor and nurse wearing certified N95 particulate respirator masks, conducting respiratory lung checkups with a stethoscope during volcanic ashfall in a Tangerang home with a HEPA air purifier active",
+        "panggil-dokter": "an authentic Indonesian doctor in white medical coat and stethoscope visiting an elderly patient and family inside an upscale contemporary living room with marble flooring and large floor-to-ceiling windows of an elite urban landed house or luxury apartment in Jakarta, candid documentary moment of measuring blood pressure and talking attentively with patient",
+        "perawat-homecare": "a licensed Indonesian nurse in clinical scrubs performing sterile wound care with hydrogel dressing on a resting patient in a spacious, modern air-conditioned master bedroom of an elite urban residence or luxury apartment in Jabodetabek, genuine focus, unposed documentary setting with modern hospital-grade homecare bed and clean architectural interior",
+        "fisioterapi-rumah": "a professional Indonesian physiotherapist gently assisting a patient through knee mobility and gait rehabilitation exercises on an exercise mat in a bright, modern living room with polished marble flooring and contemporary minimalist furniture in an elite urban landed house in Jabodetabek",
+        "home-lab": "a professional Indonesian phlebotomist in medical gloves preparing vacuum blood collection tubes beside an insulated sample cooler bag at an elegant contemporary dining table in a luxury high-rise apartment or elite landed home in Jabodetabek",
+        "perawatan-lansia": "a compassionate Indonesian homecare nurse holding hands and comforting an elderly Indonesian grandmother sitting in an ergonomic modern armchair in a sunlit contemporary living room with large garden-view windows in an elite urban landed house in Jabodetabek",
+        "infus-vitamin": "an experienced Indonesian nurse monitoring an intravenous vitamin drip line on a stainless IV pole while patient rests comfortably on an elegant contemporary designer sofa in an upscale modern apartment or luxury landed house in Jabodetabek",
+        "osteoporosis": "an Indonesian healthcare professional explaining bone density results and postural exercises to an active Indonesian elderly couple in their spacious, modern upscale urban living room in Jabodetabek",
+        "parkinson": "an Indonesian neuro-rehabilitation therapist practicing rhythmic walking exercises with a Parkinson patient holding an ergonomic walking frame along a spacious modern corridor of an elite urban residence or high-rise penthouse, with attentive family watching",
+        "antar-jemput-rs": "a Joy of Care medical escort nurse carefully assisting a wheelchair patient at the grand driveway of an elite gated residential estate or luxury high-rise condominium lobby in Jakarta, boarding a well-equipped medical ambulance, candid documentary capture",
+        "studi-luar-negeri": "a licensed Indonesian doctor reviewing international immunization certificates and administering travel vaccines to an Indonesian university student in a sleek, modern private study room of an upscale urban apartment in Jakarta",
+        "vaksinasi-rumah": "a friendly Indonesian doctor preparing a sterile pre-filled vaccine syringe for an elderly couple at an elegant marble dining table in an elite urban landed residence in Jabodetabek",
+        "kesehatan-umum": "an Indonesian health doctor in discussion with an affluent Indonesian family about proactive health management in a bright, contemporary open-concept living room of an elite urban landed home or luxury apartment in Jabodetabek",
+        "kesehatan-lingkungan": "an Indonesian doctor and nurse wearing certified N95 particulate respirator masks, conducting respiratory lung checkups with a stethoscope during volcanic haze inside an elite modern urban home in Jabodetabek with closed double-glazed panoramic windows and a premium sleek HEPA air purifier running quietly",
     }
     
     scenario = scenarios.get(category, scenarios["kesehatan-umum"])
     
     prompt = (
         f"Nanobanana Pro 2 prompt: Editorial documentary photojournalism in Kompas and National Geographic news photography style, "
-        f"authentic unposed Indonesian healthcare scene: Indonesian, healthcare, professionals, taking care of patient, {scenario}. "
+        f"authentic unposed Indonesian healthcare scene set in elite urban housing in Jabodetabek (modern luxury landed house or upscale high-rise apartment): "
+        f"Indonesian, healthcare, professionals, taking care of patient in an affluent urban residence, {scenario}. "
         f"Focusing on topic '{title}'. Primary keyword: {primary_keyword}. "
-        f"Candid photojournalistic capture, natural daylight from window, authentic Indonesian family and medical workers, "
-        f"honest expressions of empathy and clinical attentiveness, real home interior in Jabodetabek, "
+        f"Candid photojournalistic capture, natural daylight from large panoramic windows, authentic Indonesian family and medical workers, "
+        f"honest expressions of empathy and clinical attentiveness, elite urban housing setting (modern landed house or luxury apartment in Jabodetabek), "
+        f"pristine clean contemporary interior, polished stone floors, elegant modern furniture, "
         f"Leica M11 with Summilux 35mm f/1.4 lens, natural skin tones, true-to-life documentary color grading, "
         f"high realism, Pulitzer-prize photojournalistic storytelling --ar 16:9 --style raw"
     )
     return prompt
+
 
 def main():
     print("=== UPDATING TO KESEHATAN LINGKUNGAN & 16:9 JOURNALISTIC PROMPTS ===")
