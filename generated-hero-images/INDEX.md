@@ -13,7 +13,7 @@ This directory contains all authentic 16:9 photojournalism hero renders generate
 
 ---
 
-## 📋 Image Catalog (16 Completed Photojournalism Renders)
+## 📋 Image Catalog (19 Completed Photojournalism Renders)
 
 | # | Article Slug | Category | Track | WebP Size | JPG Size |
 | :- | :--- | :--- | :--- | :--- | :--- |
@@ -33,6 +33,9 @@ This directory contains all authentic 16:9 photojournalism hero renders generate
 | **14** | `tata-laksana-ulkus-dekubitus-stadium-3-dan-4-di-rumah-balutan-busa-perak-silver-foam` | `perawat-homecare` | Visual Artist 1 (Geriatric) | 124 KB | 217 KB |
 | **15** | `perhatikan-persyaratan-tambahan-bagi-beberapa-jurusan-studi-di-australia-17` | `studi-luar-negeri` | Visual Artist 4 (Medical Escort) | 105 KB | 198 KB |
 | **16** | `mengenali-tanda-bahaya-trombosis-vena-dalam-pasca` | `kesehatan-umum` | Visual Artist 4 (Medical Escort) | 111 KB | 207 KB |
+| **17** | `skrining-tuberkulosis-syarat-visa-kuliah-inggris-negara` | `studi-luar-negeri` | Visual Artist 4 (Medical Escort) | 128 KB | 227 KB |
+| **18** | `panel-uji-alergi-darah-rumah-mengidentifikasi-makanan` | `home-lab` | Visual Artist 4 (Medical Escort) | 147 KB | 242 KB |
+| **19** | `latihan-mobilitas-sendi-bahu-menggunakan-tongkat-pulley` | `fisioterapi-rumah` | Visual Artist 3 (Neuro-Rehab) | 150 KB | 247 KB |
 
 ---
 
@@ -117,3 +120,18 @@ This directory contains all authentic 16:9 photojournalism hero renders generate
 - **Slug**: `mengenali-tanda-bahaya-trombosis-vena-dalam-pasca`
 - **Category**: `kesehatan-umum` | **Track**: Visual Artist 4: Medical Escort, Lab & Environmental
 - **Files**: [16-mengenali-tanda-bahaya-trombosis-vena-dalam-pasca.webp](./16-mengenali-tanda-bahaya-trombosis-vena-dalam-pasca.webp), [16-mengenali-tanda-bahaya-trombosis-vena-dalam-pasca.jpg](./16-mengenali-tanda-bahaya-trombosis-vena-dalam-pasca.jpg)
+
+### 17. Skrining Tuberkulosis (Rontgen Toraks & Tes IGRA) untuk...
+- **Slug**: `skrining-tuberkulosis-syarat-visa-kuliah-inggris-negara`
+- **Category**: `studi-luar-negeri` | **Track**: Visual Artist 4: Medical Escort, Lab & Environmental
+- **Files**: [17-skrining-tuberkulosis-syarat-visa-kuliah-inggris-negara.webp](./17-skrining-tuberkulosis-syarat-visa-kuliah-inggris-negara.webp), [17-skrining-tuberkulosis-syarat-visa-kuliah-inggris-negara.jpg](./17-skrining-tuberkulosis-syarat-visa-kuliah-inggris-negara.jpg)
+
+### 18. Panel Uji Alergi Darah (IgE Total & Spesifik) di Rumah
+- **Slug**: `panel-uji-alergi-darah-rumah-mengidentifikasi-makanan`
+- **Category**: `home-lab` | **Track**: Visual Artist 4: Medical Escort, Lab & Environmental
+- **Files**: [18-panel-uji-alergi-darah-rumah-mengidentifikasi-makanan.webp](./18-panel-uji-alergi-darah-rumah-mengidentifikasi-makanan.webp), [18-panel-uji-alergi-darah-rumah-mengidentifikasi-makanan.jpg](./18-panel-uji-alergi-darah-rumah-mengidentifikasi-makanan.jpg)
+
+### 19. Latihan Mobilitas Sendi Bahu Menggunakan Tongkat & Pull...
+- **Slug**: `latihan-mobilitas-sendi-bahu-menggunakan-tongkat-pulley`
+- **Category**: `fisioterapi-rumah` | **Track**: Visual Artist 3: Neuro-Rehab & Physical Therapy
+- **Files**: [19-latihan-mobilitas-sendi-bahu-menggunakan-tongkat-pulley.webp](./19-latihan-mobilitas-sendi-bahu-menggunakan-tongkat-pulley.webp), [19-latihan-mobilitas-sendi-bahu-menggunakan-tongkat-pulley.jpg](./19-latihan-mobilitas-sendi-bahu-menggunakan-tongkat-pulley.jpg)
