@@ -13,7 +13,7 @@ This directory contains all authentic 16:9 photojournalism hero renders generate
 
 ---
 
-## 📋 Image Catalog (22 Completed Photojournalism Renders)
+## 📋 Image Catalog (25 Completed Photojournalism Renders)
 
 | # | Article Slug | Category | Track | WebP Size | JPG Size |
 | :- | :--- | :--- | :--- | :--- | :--- |
@@ -39,6 +39,9 @@ This directory contains all authentic 16:9 photojournalism hero renders generate
 | **20** | `antar-jemput-rumah-sakit-jakarta-harga-tips-dan-cara` | `antar-jemput-rs` | Medical Escort, Lab & Environmental | 176 KB | 274 KB |
 | **21** | `tatalaksana-penumpukan-cairan-seroma-pasca-pembedahan-kapan` | `kesehatan-umum` | Doctor On-Demand & Diagnostics | 138 KB | 232 KB |
 | **22** | `pelatihan-ergonomi-keluarga-cara-memiringkan-memindahkan-pasien-tanpa-sakit-pinggang` | `perawat-homecare` | Geriatric & Home Nursing | 111 KB | 202 KB |
+| **23** | `syarat-kesehatan-studi-luar-negeri-vaksin-mcu-kapan-harus` | `studi-luar-negeri` | Medical Escort, Lab & Environmental | 141 KB | 232 KB |
+| **24** | `perawatan-pasien-parkinson-di-rumah-tips-dan-cara` | `parkinson` | Neuro-Rehab & Physical Therapy | 113 KB | 212 KB |
+| **25** | `kriteria-kelaikan-terbang-pasien-sakit-kondisi-medis` | `antar-jemput-rs` | Medical Escort, Lab & Environmental | 130 KB | 227 KB |
 
 ---
 
@@ -153,3 +156,18 @@ This directory contains all authentic 16:9 photojournalism hero renders generate
 - **Slug**: `pelatihan-ergonomi-keluarga-cara-memiringkan-memindahkan-pasien-tanpa-sakit-pinggang`
 - **Category**: `perawat-homecare` | **Track**: Visual Artist 1: Geriatric & Home Nursing
 - **Files**: [22-pelatihan-ergonomi-keluarga-cara-memiringkan-memindahkan-pasien-tanpa-sakit-pinggang.webp](./22-pelatihan-ergonomi-keluarga-cara-memiringkan-memindahkan-pasien-tanpa-sakit-pinggang.webp), [22-pelatihan-ergonomi-keluarga-cara-memiringkan-memindahkan-pasien-tanpa-sakit-pinggang.jpg](./22-pelatihan-ergonomi-keluarga-cara-memiringkan-memindahkan-pasien-tanpa-sakit-pinggang.jpg)
+
+### 23. Kapan Harus Siapkan MCU Studi Luar Negeri? Protokol Visa
+- **Slug**: `syarat-kesehatan-studi-luar-negeri-vaksin-mcu-kapan-harus`
+- **Category**: `studi-luar-negeri` | **Track**: Visual Artist 4: Medical Escort, Lab & Environmental
+- **Files**: [23-syarat-kesehatan-studi-luar-negeri-vaksin-mcu-kapan-harus.webp](./23-syarat-kesehatan-studi-luar-negeri-vaksin-mcu-kapan-harus.webp), [23-syarat-kesehatan-studi-luar-negeri-vaksin-mcu-kapan-harus.jpg](./23-syarat-kesehatan-studi-luar-negeri-vaksin-mcu-kapan-harus.jpg)
+
+### 24. Tips Merawat Pasien Parkinson di Rumah
+- **Slug**: `perawatan-pasien-parkinson-di-rumah-tips-dan-cara`
+- **Category**: `parkinson` | **Track**: Visual Artist 3: Neuro-Rehab & Physical Therapy
+- **Files**: [24-perawatan-pasien-parkinson-di-rumah-tips-dan-cara.webp](./24-perawatan-pasien-parkinson-di-rumah-tips-dan-cara.webp), [24-perawatan-pasien-parkinson-di-rumah-tips-dan-cara.jpg](./24-perawatan-pasien-parkinson-di-rumah-tips-dan-cara.jpg)
+
+### 25. Kriteria Kelaikan Terbang Pasien Sakit (Fit to Fly)
+- **Slug**: `kriteria-kelaikan-terbang-pasien-sakit-kondisi-medis`
+- **Category**: `antar-jemput-rs` | **Track**: Visual Artist 4: Medical Escort, Lab & Environmental
+- **Files**: [25-kriteria-kelaikan-terbang-pasien-sakit-kondisi-medis.webp](./25-kriteria-kelaikan-terbang-pasien-sakit-kondisi-medis.webp), [25-kriteria-kelaikan-terbang-pasien-sakit-kondisi-medis.jpg](./25-kriteria-kelaikan-terbang-pasien-sakit-kondisi-medis.jpg)
