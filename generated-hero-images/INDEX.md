@@ -13,7 +13,7 @@ This directory contains all authentic 16:9 photojournalism hero renders generate
 
 ---
 
-## 📋 Image Catalog (25 Completed Photojournalism Renders)
+## 📋 Image Catalog (28 Completed Photojournalism Renders)
 
 | # | Article Slug | Category | Track | WebP Size | JPG Size |
 | :- | :--- | :--- | :--- | :--- | :--- |
@@ -42,6 +42,9 @@ This directory contains all authentic 16:9 photojournalism hero renders generate
 | **23** | `syarat-kesehatan-studi-luar-negeri-vaksin-mcu-kapan-harus` | `studi-luar-negeri` | Medical Escort, Lab & Environmental | 141 KB | 232 KB |
 | **24** | `perawatan-pasien-parkinson-di-rumah-tips-dan-cara` | `parkinson` | Neuro-Rehab & Physical Therapy | 113 KB | 212 KB |
 | **25** | `kriteria-kelaikan-terbang-pasien-sakit-kondisi-medis` | `antar-jemput-rs` | Medical Escort, Lab & Environmental | 130 KB | 227 KB |
+| **26** | `syarat-kesehatan-studi-luar-negeri-vaksin-mcu-biaya-dan-perbandingan` | `studi-luar-negeri` | Medical Escort, Lab & Environmental | 143 KB | 241 KB |
+| **27** | `fisioterapi-pasca-stroke-di-rumah-kapan-harus` | `fisioterapi-rumah` | Neuro-Rehab & Physical Therapy | 139 KB | 232 KB |
+| **28** | `infus-multivitamin-khusus-geriatri-lansia-mengalami-penolakan` | `infus-vitamin` | Doctor Home-Visit & IV Therapy | 134 KB | 228 KB |
 
 ---
 
@@ -171,3 +174,18 @@ This directory contains all authentic 16:9 photojournalism hero renders generate
 - **Slug**: `kriteria-kelaikan-terbang-pasien-sakit-kondisi-medis`
 - **Category**: `antar-jemput-rs` | **Track**: Visual Artist 4: Medical Escort, Lab & Environmental
 - **Files**: [25-kriteria-kelaikan-terbang-pasien-sakit-kondisi-medis.webp](./25-kriteria-kelaikan-terbang-pasien-sakit-kondisi-medis.webp), [25-kriteria-kelaikan-terbang-pasien-sakit-kondisi-medis.jpg](./25-kriteria-kelaikan-terbang-pasien-sakit-kondisi-medis.jpg)
+
+### 26. Syarat MCU Studi: Australia vs UK vs Asia
+- **Slug**: `syarat-kesehatan-studi-luar-negeri-vaksin-mcu-biaya-dan-perbandingan`
+- **Category**: `studi-luar-negeri` | **Track**: Visual Artist 4: Medical Escort, Lab & Environmental
+- **Files**: [26-syarat-kesehatan-studi-luar-negeri-vaksin-mcu-biaya-dan-perbandingan.webp](./26-syarat-kesehatan-studi-luar-negeri-vaksin-mcu-biaya-dan-perbandingan.webp), [26-syarat-kesehatan-studi-luar-negeri-vaksin-mcu-biaya-dan-perbandingan.jpg](./26-syarat-kesehatan-studi-luar-negeri-vaksin-mcu-biaya-dan-perbandingan.jpg)
+
+### 27. Kapan Fisioterapi Pasca Stroke Dimulai? Protokol Klinis
+- **Slug**: `fisioterapi-pasca-stroke-di-rumah-kapan-harus`
+- **Category**: `fisioterapi-rumah` | **Track**: Visual Artist 3: Neuro-Rehab & Physical Therapy
+- **Files**: [27-fisioterapi-pasca-stroke-di-rumah-kapan-harus.webp](./27-fisioterapi-pasca-stroke-di-rumah-kapan-harus.webp), [27-fisioterapi-pasca-stroke-di-rumah-kapan-harus.jpg](./27-fisioterapi-pasca-stroke-di-rumah-kapan-harus.jpg)
+
+### 28. Infus Multivitamin Khusus Geriatri untuk Lansia yang Me...
+- **Slug**: `infus-multivitamin-khusus-geriatri-lansia-mengalami-penolakan`
+- **Category**: `infus-vitamin` | **Track**: Visual Artist 2: Doctor Home-Visit & IV Therapy
+- **Files**: [28-infus-multivitamin-khusus-geriatri-lansia-mengalami-penolakan.webp](./28-infus-multivitamin-khusus-geriatri-lansia-mengalami-penolakan.webp), [28-infus-multivitamin-khusus-geriatri-lansia-mengalami-penolakan.jpg](./28-infus-multivitamin-khusus-geriatri-lansia-mengalami-penolakan.jpg)
