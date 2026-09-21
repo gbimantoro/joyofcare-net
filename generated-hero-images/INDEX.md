@@ -13,7 +13,7 @@ This directory contains all authentic 16:9 photojournalism hero renders generate
 
 ---
 
-## 📋 Image Catalog (28 Completed Photojournalism Renders)
+## 📋 Image Catalog (31 Completed Photojournalism Renders)
 
 | # | Article Slug | Category | Track | WebP Size | JPG Size |
 | :- | :--- | :--- | :--- | :--- | :--- |
@@ -45,6 +45,9 @@ This directory contains all authentic 16:9 photojournalism hero renders generate
 | **26** | `syarat-kesehatan-studi-luar-negeri-vaksin-mcu-biaya-dan-perbandingan` | `studi-luar-negeri` | Medical Escort, Lab & Environmental | 143 KB | 241 KB |
 | **27** | `fisioterapi-pasca-stroke-di-rumah-kapan-harus` | `fisioterapi-rumah` | Neuro-Rehab & Physical Therapy | 139 KB | 232 KB |
 | **28** | `infus-multivitamin-khusus-geriatri-lansia-mengalami-penolakan` | `infus-vitamin` | Doctor Home-Visit & IV Therapy | 134 KB | 228 KB |
+| **29** | `konsep-aging-in-place-menyehatkan-jiwa-lansia` | `perawatan-lansia` | Geriatric & Home Nursing | 161 KB | 248 KB |
+| **30** | `sindrom-sandwich-generation-solusi-dokter-ke-rumah-tanpa-cuti-kerja` | `panggil-dokter` | Doctor Home-Visit & IV Therapy | 137 KB | 233 KB |
+| **31** | `triase-demam-anak-malam-hari-bedakan-kejang-demam-dan-observasi-dokter-di-rumah` | `panggil-dokter` | Doctor Home-Visit & IV Therapy | 111 KB | 206 KB |
 
 ---
 
@@ -189,3 +192,18 @@ This directory contains all authentic 16:9 photojournalism hero renders generate
 - **Slug**: `infus-multivitamin-khusus-geriatri-lansia-mengalami-penolakan`
 - **Category**: `infus-vitamin` | **Track**: Visual Artist 2: Doctor Home-Visit & IV Therapy
 - **Files**: [28-infus-multivitamin-khusus-geriatri-lansia-mengalami-penolakan.webp](./28-infus-multivitamin-khusus-geriatri-lansia-mengalami-penolakan.webp), [28-infus-multivitamin-khusus-geriatri-lansia-mengalami-penolakan.jpg](./28-infus-multivitamin-khusus-geriatri-lansia-mengalami-penolakan.jpg)
+
+### 29. Mengapa Konsep Aging in Place (Menua di Rumah Sendiri) ...
+- **Slug**: `konsep-aging-in-place-menyehatkan-jiwa-lansia`
+- **Category**: `perawatan-lansia` | **Track**: Visual Artist 1: Geriatric & Home Nursing
+- **Files**: [29-konsep-aging-in-place-menyehatkan-jiwa-lansia.webp](./29-konsep-aging-in-place-menyehatkan-jiwa-lansia.webp), [29-konsep-aging-in-place-menyehatkan-jiwa-lansia.jpg](./29-konsep-aging-in-place-menyehatkan-jiwa-lansia.jpg)
+
+### 30. Sandwich Generation: Solusi Dokter ke Rumah Tanpa Cuti Kerja
+- **Slug**: `sindrom-sandwich-generation-solusi-dokter-ke-rumah-tanpa-cuti-kerja`
+- **Category**: `panggil-dokter` | **Track**: Visual Artist 2: Doctor Home-Visit & IV Therapy
+- **Files**: [30-sindrom-sandwich-generation-solusi-dokter-ke-rumah-tanpa-cuti-kerja.webp](./30-sindrom-sandwich-generation-solusi-dokter-ke-rumah-tanpa-cuti-kerja.webp), [30-sindrom-sandwich-generation-solusi-dokter-ke-rumah-tanpa-cuti-kerja.jpg](./30-sindrom-sandwich-generation-solusi-dokter-ke-rumah-tanpa-cuti-kerja.jpg)
+
+### 31. Triase Demam Anak Malam Hari: Kejang Demam vs Dokter Visit
+- **Slug**: `triase-demam-anak-malam-hari-bedakan-kejang-demam-dan-observasi-dokter-di-rumah`
+- **Category**: `panggil-dokter` | **Track**: Visual Artist 2: Doctor Home-Visit & IV Therapy
+- **Files**: [31-triase-demam-anak-malam-hari-bedakan-kejang-demam-dan-observasi-dokter-di-rumah.webp](./31-triase-demam-anak-malam-hari-bedakan-kejang-demam-dan-observasi-dokter-di-rumah.webp), [31-triase-demam-anak-malam-hari-bedakan-kejang-demam-dan-observasi-dokter-di-rumah.jpg](./31-triase-demam-anak-malam-hari-bedakan-kejang-demam-dan-observasi-dokter-di-rumah.jpg)
