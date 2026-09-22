@@ -13,7 +13,7 @@ This directory contains all authentic 16:9 photojournalism hero renders generate
 
 ---
 
-## 📋 Image Catalog (31 Completed Photojournalism Renders)
+## 📋 Image Catalog (34 Completed Photojournalism Renders)
 
 | # | Article Slug | Category | Track | WebP Size | JPG Size |
 | :- | :--- | :--- | :--- | :--- | :--- |
@@ -48,6 +48,9 @@ This directory contains all authentic 16:9 photojournalism hero renders generate
 | **29** | `konsep-aging-in-place-menyehatkan-jiwa-lansia` | `perawatan-lansia` | Geriatric & Home Nursing | 161 KB | 248 KB |
 | **30** | `sindrom-sandwich-generation-solusi-dokter-ke-rumah-tanpa-cuti-kerja` | `panggil-dokter` | Doctor Home-Visit & IV Therapy | 137 KB | 233 KB |
 | **31** | `triase-demam-anak-malam-hari-bedakan-kejang-demam-dan-observasi-dokter-di-rumah` | `panggil-dokter` | Doctor Home-Visit & IV Therapy | 111 KB | 206 KB |
+| **32** | `cegah-jatuh-pada-lansia-tips-rumah-panduan-lengkap` | `perawatan-lansia` | Geriatric & Home Nursing | 144 KB | 240 KB |
+| **33** | `fisioterapi-pasca-stroke-di-rumah-yang-perlu-anda-ketahui` | `fisioterapi-rumah` | Neuro-Rehab & Physical Therapy | 109 KB | 205 KB |
+| **34** | `terapi-infus-nutrisi-pendukung-sindrom-long-covid` | `infus-vitamin` | Doctor Home-Visit & IV Therapy | 141 KB | 230 KB |
 
 ---
 
@@ -207,3 +210,18 @@ This directory contains all authentic 16:9 photojournalism hero renders generate
 - **Slug**: `triase-demam-anak-malam-hari-bedakan-kejang-demam-dan-observasi-dokter-di-rumah`
 - **Category**: `panggil-dokter` | **Track**: Visual Artist 2: Doctor Home-Visit & IV Therapy
 - **Files**: [31-triase-demam-anak-malam-hari-bedakan-kejang-demam-dan-observasi-dokter-di-rumah.webp](./31-triase-demam-anak-malam-hari-bedakan-kejang-demam-dan-observasi-dokter-di-rumah.webp), [31-triase-demam-anak-malam-hari-bedakan-kejang-demam-dan-observasi-dokter-di-rumah.jpg](./31-triase-demam-anak-malam-hari-bedakan-kejang-demam-dan-observasi-dokter-di-rumah.jpg)
+
+### 32. 7 Cara Cegah Jatuh pada Lansia di Rumah
+- **Slug**: `cegah-jatuh-pada-lansia-tips-rumah-panduan-lengkap`
+- **Category**: `perawatan-lansia` | **Track**: Visual Artist 1: Geriatric & Home Nursing
+- **Files**: [32-cegah-jatuh-pada-lansia-tips-rumah-panduan-lengkap.webp](./32-cegah-jatuh-pada-lansia-tips-rumah-panduan-lengkap.webp), [32-cegah-jatuh-pada-lansia-tips-rumah-panduan-lengkap.jpg](./32-cegah-jatuh-pada-lansia-tips-rumah-panduan-lengkap.jpg)
+
+### 33. Fisioterapi Pasca Stroke di Rumah: Fakta
+- **Slug**: `fisioterapi-pasca-stroke-di-rumah-yang-perlu-anda-ketahui`
+- **Category**: `fisioterapi-rumah` | **Track**: Visual Artist 3: Neuro-Rehab & Physical Therapy
+- **Files**: [33-fisioterapi-pasca-stroke-di-rumah-yang-perlu-anda-ketahui.webp](./33-fisioterapi-pasca-stroke-di-rumah-yang-perlu-anda-ketahui.webp), [33-fisioterapi-pasca-stroke-di-rumah-yang-perlu-anda-ketahui.jpg](./33-fisioterapi-pasca-stroke-di-rumah-yang-perlu-anda-ketahui.jpg)
+
+### 34. Terapi Infus Nutrisi Pendukung untuk Sindrom Long COVID
+- **Slug**: `terapi-infus-nutrisi-pendukung-sindrom-long-covid`
+- **Category**: `infus-vitamin` | **Track**: Visual Artist 2: Doctor Home-Visit & IV Therapy
+- **Files**: [34-terapi-infus-nutrisi-pendukung-sindrom-long-covid.webp](./34-terapi-infus-nutrisi-pendukung-sindrom-long-covid.webp), [34-terapi-infus-nutrisi-pendukung-sindrom-long-covid.jpg](./34-terapi-infus-nutrisi-pendukung-sindrom-long-covid.jpg)
