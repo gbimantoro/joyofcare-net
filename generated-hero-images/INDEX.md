@@ -13,7 +13,7 @@ This directory contains all authentic 16:9 photojournalism hero renders generate
 
 ---
 
-## 📋 Image Catalog (34 Completed Photojournalism Renders)
+## 📋 Image Catalog (37 Completed Photojournalism Renders)
 
 | # | Article Slug | Category | Track | WebP Size | JPG Size |
 | :- | :--- | :--- | :--- | :--- | :--- |
@@ -51,6 +51,9 @@ This directory contains all authentic 16:9 photojournalism hero renders generate
 | **32** | `cegah-jatuh-pada-lansia-tips-rumah-panduan-lengkap` | `perawatan-lansia` | Geriatric & Home Nursing | 144 KB | 240 KB |
 | **33** | `fisioterapi-pasca-stroke-di-rumah-yang-perlu-anda-ketahui` | `fisioterapi-rumah` | Neuro-Rehab & Physical Therapy | 109 KB | 205 KB |
 | **34** | `terapi-infus-nutrisi-pendukung-sindrom-long-covid` | `infus-vitamin` | Doctor Home-Visit & IV Therapy | 141 KB | 230 KB |
+| **35** | `neuroplastisitas-otak-pasca-stroke-latihan-motorik-repetitif` | `fisioterapi-rumah` | Neuro-Rehab & Physical Therapy | 96 KB | 189 KB |
+| **36** | `fenomena-wisata-medis-penang-kuala-lumpur-pasien` | `antar-jemput-rs` | Medical Escort, Lab & Environmental | 99 KB | 188 KB |
+| **37** | `vaksinasi-wajib-mahasiswa-baru-kuliah-amerika-serikat` | `studi-luar-negeri` | Medical Escort, Lab & Environmental | 112 KB | 202 KB |
 
 ---
 
@@ -225,3 +228,18 @@ This directory contains all authentic 16:9 photojournalism hero renders generate
 - **Slug**: `terapi-infus-nutrisi-pendukung-sindrom-long-covid`
 - **Category**: `infus-vitamin` | **Track**: Visual Artist 2: Doctor Home-Visit & IV Therapy
 - **Files**: [34-terapi-infus-nutrisi-pendukung-sindrom-long-covid.webp](./34-terapi-infus-nutrisi-pendukung-sindrom-long-covid.webp), [34-terapi-infus-nutrisi-pendukung-sindrom-long-covid.jpg](./34-terapi-infus-nutrisi-pendukung-sindrom-long-covid.jpg)
+
+### 35. Neuroplastisitas Otak Pasca Stroke
+- **Slug**: `neuroplastisitas-otak-pasca-stroke-latihan-motorik-repetitif`
+- **Category**: `fisioterapi-rumah` | **Track**: Visual Artist 3: Neuro-Rehab & Physical Therapy
+- **Files**: [35-neuroplastisitas-otak-pasca-stroke-latihan-motorik-repetitif.webp](./35-neuroplastisitas-otak-pasca-stroke-latihan-motorik-repetitif.webp), [35-neuroplastisitas-otak-pasca-stroke-latihan-motorik-repetitif.jpg](./35-neuroplastisitas-otak-pasca-stroke-latihan-motorik-repetitif.jpg)
+
+### 36. Fenomena Wisata Medis (Medical Tourism) ke Penang dan K...
+- **Slug**: `fenomena-wisata-medis-penang-kuala-lumpur-pasien`
+- **Category**: `antar-jemput-rs` | **Track**: Visual Artist 4: Medical Escort, Lab & Environmental
+- **Files**: [36-fenomena-wisata-medis-penang-kuala-lumpur-pasien.webp](./36-fenomena-wisata-medis-penang-kuala-lumpur-pasien.webp), [36-fenomena-wisata-medis-penang-kuala-lumpur-pasien.jpg](./36-fenomena-wisata-medis-penang-kuala-lumpur-pasien.jpg)
+
+### 37. Vaksinasi Wajib Mahasiswa Baru Kuliah di Amerika Serikat
+- **Slug**: `vaksinasi-wajib-mahasiswa-baru-kuliah-amerika-serikat`
+- **Category**: `studi-luar-negeri` | **Track**: Visual Artist 4: Medical Escort, Lab & Environmental
+- **Files**: [37-vaksinasi-wajib-mahasiswa-baru-kuliah-amerika-serikat.webp](./37-vaksinasi-wajib-mahasiswa-baru-kuliah-amerika-serikat.webp), [37-vaksinasi-wajib-mahasiswa-baru-kuliah-amerika-serikat.jpg](./37-vaksinasi-wajib-mahasiswa-baru-kuliah-amerika-serikat.jpg)
