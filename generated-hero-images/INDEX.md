@@ -13,7 +13,7 @@ This directory contains all authentic 16:9 photojournalism hero renders generate
 
 ---
 
-## 📋 Image Catalog (37 Completed Photojournalism Renders)
+## 📋 Image Catalog (40 Completed Photojournalism Renders)
 
 | # | Article Slug | Category | Track | WebP Size | JPG Size |
 | :- | :--- | :--- | :--- | :--- | :--- |
@@ -54,6 +54,9 @@ This directory contains all authentic 16:9 photojournalism hero renders generate
 | **35** | `neuroplastisitas-otak-pasca-stroke-latihan-motorik-repetitif` | `fisioterapi-rumah` | Neuro-Rehab & Physical Therapy | 96 KB | 189 KB |
 | **36** | `fenomena-wisata-medis-penang-kuala-lumpur-pasien` | `antar-jemput-rs` | Medical Escort, Lab & Environmental | 99 KB | 188 KB |
 | **37** | `vaksinasi-wajib-mahasiswa-baru-kuliah-amerika-serikat` | `studi-luar-negeri` | Medical Escort, Lab & Environmental | 112 KB | 202 KB |
+| **38** | `latihan-rentang-gerak-pasif-sendi-bahu-pasca` | `kesehatan-umum` | Neuro-Rehab & Physical Therapy | 111 KB | 206 KB |
+| **39** | `infus-rehidrasi-elektrolit-rumah-pasien-demam-berdarah` | `infus-vitamin` | Doctor Home-Visit & IV Therapy | 101 KB | 199 KB |
+| **40** | `revolusi-modern-wound-dressing-mengapa-kasa-kering-dan-betadine-merusak-kulit-baru` | `perawat-homecare` | Geriatric & Home Nursing | 146 KB | 245 KB |
 
 ---
 
@@ -243,3 +246,18 @@ This directory contains all authentic 16:9 photojournalism hero renders generate
 - **Slug**: `vaksinasi-wajib-mahasiswa-baru-kuliah-amerika-serikat`
 - **Category**: `studi-luar-negeri` | **Track**: Visual Artist 4: Medical Escort, Lab & Environmental
 - **Files**: [37-vaksinasi-wajib-mahasiswa-baru-kuliah-amerika-serikat.webp](./37-vaksinasi-wajib-mahasiswa-baru-kuliah-amerika-serikat.webp), [37-vaksinasi-wajib-mahasiswa-baru-kuliah-amerika-serikat.jpg](./37-vaksinasi-wajib-mahasiswa-baru-kuliah-amerika-serikat.jpg)
+
+### 38. Latihan Rentang Gerak Pasif Sendi Bahu (Passive Shoulde...
+- **Slug**: `latihan-rentang-gerak-pasif-sendi-bahu-pasca`
+- **Category**: `kesehatan-umum` | **Track**: Visual Artist 3: Neuro-Rehab & Physical Therapy
+- **Files**: [38-latihan-rentang-gerak-pasif-sendi-bahu-pasca.webp](./38-latihan-rentang-gerak-pasif-sendi-bahu-pasca.webp), [38-latihan-rentang-gerak-pasif-sendi-bahu-pasca.jpg](./38-latihan-rentang-gerak-pasif-sendi-bahu-pasca.jpg)
+
+### 39. Infus Rehidrasi Elektrolit di Rumah untuk Pasien Demam ...
+- **Slug**: `infus-rehidrasi-elektrolit-rumah-pasien-demam-berdarah`
+- **Category**: `infus-vitamin` | **Track**: Visual Artist 2: Doctor Home-Visit & IV Therapy
+- **Files**: [39-infus-rehidrasi-elektrolit-rumah-pasien-demam-berdarah.webp](./39-infus-rehidrasi-elektrolit-rumah-pasien-demam-berdarah.webp), [39-infus-rehidrasi-elektrolit-rumah-pasien-demam-berdarah.jpg](./39-infus-rehidrasi-elektrolit-rumah-pasien-demam-berdarah.jpg)
+
+### 40. Revolusi Balutan Luka Modern: Mengapa Kasa Kering dan Betadine Merusak Kulit Baru
+- **Slug**: `revolusi-modern-wound-dressing-mengapa-kasa-kering-dan-betadine-merusak-kulit-baru`
+- **Category**: `perawat-homecare` | **Track**: Visual Artist 1: Geriatric & Home Nursing
+- **Files**: [40-revolusi-modern-wound-dressing-mengapa-kasa-kering-dan-betadine-merusak-kulit-baru.webp](./40-revolusi-modern-wound-dressing-mengapa-kasa-kering-dan-betadine-merusak-kulit-baru.webp), [40-revolusi-modern-wound-dressing-mengapa-kasa-kering-dan-betadine-merusak-kulit-baru.jpg](./40-revolusi-modern-wound-dressing-mengapa-kasa-kering-dan-betadine-merusak-kulit-baru.jpg)
