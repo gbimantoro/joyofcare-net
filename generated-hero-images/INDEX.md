@@ -1,7 +1,7 @@
 # 📸 Joy of Care — Master Editorial Photojournalism Archive
 
-Total Archived Master Hero Images: **43 / 352**
-Last Updated: `2026-10-02T02:27:03.256436+00:00`
+Total Archived Master Hero Images: **46 / 352**
+Last Updated: `2026-10-02T07:27:12.994023+00:00`
 
 | # | Slug | Category | Track | WebP | JPG |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -48,3 +48,6 @@ Last Updated: `2026-10-02T02:27:03.256436+00:00`
 | 41 | `mengenali-tanda-depresi-terselubung-lansia-pasca-kehilangan` | `perawatan-lansia` | Visual Artist 1: Geriatric & Home Nursing | [`webp`](41-mengenali-tanda-depresi-terselubung-lansia-pasca-kehilangan.webp) | [`jpg`](41-mengenali-tanda-depresi-terselubung-lansia-pasca-kehilangan.jpg) |
 | 42 | `terapi-myofascial-release-rumahan-mengurai-titik-nyeri` | `fisioterapi-rumah` | Visual Artist 3: Neuro-Rehab & Physical Therapy | [`webp`](42-terapi-myofascial-release-rumahan-mengurai-titik-nyeri.webp) | [`jpg`](42-terapi-myofascial-release-rumahan-mengurai-titik-nyeri.jpg) |
 | 43 | `dokter-umum-ke-rumah-tangerang-biaya-dan-perbandingan` | `panggil-dokter` | Visual Artist 2: Doctor Home-Visit & IV Therapy | [`webp`](43-dokter-umum-ke-rumah-tangerang-biaya-dan-perbandingan.webp) | [`jpg`](43-dokter-umum-ke-rumah-tangerang-biaya-dan-perbandingan.jpg) |
+| 44 | `fisioterapi-pasca-rekonstruksi-ligamen-lutut-acl-program` | `fisioterapi-rumah` | Visual Artist 3: Neuro-Rehab & Physical Therapy | [`webp`](44-fisioterapi-pasca-rekonstruksi-ligamen-lutut-acl-program.webp) | [`jpg`](44-fisioterapi-pasca-rekonstruksi-ligamen-lutut-acl-program.jpg) |
+| 45 | `perawatan-pasien-parkinson-di-rumah-biaya-dan-perbandingan` | `parkinson` | Visual Artist 3: Neuro-Rehab & Physical Therapy | [`webp`](45-perawatan-pasien-parkinson-di-rumah-biaya-dan-perbandingan.webp) | [`jpg`](45-perawatan-pasien-parkinson-di-rumah-biaya-dan-perbandingan.jpg) |
+| 46 | `perawatan-paliatif-dokter-ke-rumah-manajemen-nyeri-pasien-kanker-stadium-lanjut` | `panggil-dokter` | Visual Artist 2: Doctor Home-Visit & IV Therapy | [`webp`](46-perawatan-paliatif-dokter-ke-rumah-manajemen-nyeri-pasien-kanker-stadium-lanjut.webp) | [`jpg`](46-perawatan-paliatif-dokter-ke-rumah-manajemen-nyeri-pasien-kanker-stadium-lanjut.jpg) |
