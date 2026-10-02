@@ -1,7 +1,7 @@
 # 📸 Joy of Care — Master Editorial Photojournalism Archive
 
-Total Archived Master Hero Images: **46 / 352**
-Last Updated: `2026-10-02T07:27:12.994023+00:00`
+Total Archived Master Hero Images: **49 / 352**
+Last Updated: `2026-10-02T14:55:19.773872+00:00`
 
 | # | Slug | Category | Track | WebP | JPG |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -51,3 +51,6 @@ Last Updated: `2026-10-02T07:27:12.994023+00:00`
 | 44 | `fisioterapi-pasca-rekonstruksi-ligamen-lutut-acl-program` | `fisioterapi-rumah` | Visual Artist 3: Neuro-Rehab & Physical Therapy | [`webp`](44-fisioterapi-pasca-rekonstruksi-ligamen-lutut-acl-program.webp) | [`jpg`](44-fisioterapi-pasca-rekonstruksi-ligamen-lutut-acl-program.jpg) |
 | 45 | `perawatan-pasien-parkinson-di-rumah-biaya-dan-perbandingan` | `parkinson` | Visual Artist 3: Neuro-Rehab & Physical Therapy | [`webp`](45-perawatan-pasien-parkinson-di-rumah-biaya-dan-perbandingan.webp) | [`jpg`](45-perawatan-pasien-parkinson-di-rumah-biaya-dan-perbandingan.jpg) |
 | 46 | `perawatan-paliatif-dokter-ke-rumah-manajemen-nyeri-pasien-kanker-stadium-lanjut` | `panggil-dokter` | Visual Artist 2: Doctor Home-Visit & IV Therapy | [`webp`](46-perawatan-paliatif-dokter-ke-rumah-manajemen-nyeri-pasien-kanker-stadium-lanjut.webp) | [`jpg`](46-perawatan-paliatif-dokter-ke-rumah-manajemen-nyeri-pasien-kanker-stadium-lanjut.jpg) |
+| 47 | `latihan-fisioterapi-untuk-bahu-beku-frozen-shoulder-yang-bisa-dilakukan-di-rumah-31` | `fisioterapi-rumah` | Visual Artist 3: Neuro-Rehab & Physical Therapy | [`webp`](47-latihan-fisioterapi-untuk-bahu-beku-frozen-shoulder-yang-bisa-dilakukan-di-rumah-31.webp) | [`jpg`](47-latihan-fisioterapi-untuk-bahu-beku-frozen-shoulder-yang-bisa-dilakukan-di-rumah-31.jpg) |
+| 48 | `suara-menghilang-kenali-hipofonia-begini-cara-terapi-wicara-mengembalikan-kekuatan-suara-dan-kelancaran-menelan-pada-parkinson-36` | `parkinson` | Visual Artist 3: Neuro-Rehab & Physical Therapy | [`webp`](48-suara-menghilang-kenali-hipofonia-begini-cara-terapi-wicara-mengembalikan-kekuatan-suara-dan-kelancaran-menelan-pada-parkinson-36.webp) | [`jpg`](48-suara-menghilang-kenali-hipofonia-begini-cara-terapi-wicara-mengembalikan-kekuatan-suara-dan-kelancaran-menelan-pada-parkinson-36.jpg) |
+| 49 | `terapi-text-neck-syndrome-forward-head-posture` | `fisioterapi-rumah` | Visual Artist 3: Neuro-Rehab & Physical Therapy | [`webp`](49-terapi-text-neck-syndrome-forward-head-posture.webp) | [`jpg`](49-terapi-text-neck-syndrome-forward-head-posture.jpg) |
