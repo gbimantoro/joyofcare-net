@@ -1,7 +1,7 @@
 # 📸 Joy of Care — Master Editorial Photojournalism Archive
 
-Total Archived Master Hero Images: **49 / 352**
-Last Updated: `2026-10-02T14:55:19.773872+00:00`
+Total Archived Master Hero Images: **52 / 352**
+Last Updated: `2026-10-03T06:04:00.878694+00:00`
 
 | # | Slug | Category | Track | WebP | JPG |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -54,3 +54,6 @@ Last Updated: `2026-10-02T14:55:19.773872+00:00`
 | 47 | `latihan-fisioterapi-untuk-bahu-beku-frozen-shoulder-yang-bisa-dilakukan-di-rumah-31` | `fisioterapi-rumah` | Visual Artist 3: Neuro-Rehab & Physical Therapy | [`webp`](47-latihan-fisioterapi-untuk-bahu-beku-frozen-shoulder-yang-bisa-dilakukan-di-rumah-31.webp) | [`jpg`](47-latihan-fisioterapi-untuk-bahu-beku-frozen-shoulder-yang-bisa-dilakukan-di-rumah-31.jpg) |
 | 48 | `suara-menghilang-kenali-hipofonia-begini-cara-terapi-wicara-mengembalikan-kekuatan-suara-dan-kelancaran-menelan-pada-parkinson-36` | `parkinson` | Visual Artist 3: Neuro-Rehab & Physical Therapy | [`webp`](48-suara-menghilang-kenali-hipofonia-begini-cara-terapi-wicara-mengembalikan-kekuatan-suara-dan-kelancaran-menelan-pada-parkinson-36.webp) | [`jpg`](48-suara-menghilang-kenali-hipofonia-begini-cara-terapi-wicara-mengembalikan-kekuatan-suara-dan-kelancaran-menelan-pada-parkinson-36.jpg) |
 | 49 | `terapi-text-neck-syndrome-forward-head-posture` | `fisioterapi-rumah` | Visual Artist 3: Neuro-Rehab & Physical Therapy | [`webp`](49-terapi-text-neck-syndrome-forward-head-posture.webp) | [`jpg`](49-terapi-text-neck-syndrome-forward-head-posture.jpg) |
+| 50 | `perawat-jaga-malam-khusus-antisipasi-pasien-alzheimer-mengembara-di-dini-hari` | `perawat-homecare` | Visual Artist 1: Geriatric & Home Nursing | [`webp`](50-perawat-jaga-malam-khusus-antisipasi-pasien-alzheimer-mengembara-di-dini-hari.webp) | [`jpg`](50-perawat-jaga-malam-khusus-antisipasi-pasien-alzheimer-mengembara-di-dini-hari.jpg) |
+| 51 | `tips-kesehatan-untuk-mahasiswa-kuliah-di-luar-negeri-kapan-harus` | `studi-luar-negeri` | Visual Artist 4: Medical Escort, Lab & Environment | [`webp`](51-tips-kesehatan-untuk-mahasiswa-kuliah-di-luar-negeri-kapan-harus.webp) | [`jpg`](51-tips-kesehatan-untuk-mahasiswa-kuliah-di-luar-negeri-kapan-harus.jpg) |
+| 52 | `biaya-panggil-dokter-ke-rumah-2026-panduan-lengkap` | `panggil-dokter` | Visual Artist 2: Doctor Home-Visit & IV Therapy | [`webp`](52-biaya-panggil-dokter-ke-rumah-2026-panduan-lengkap.webp) | [`jpg`](52-biaya-panggil-dokter-ke-rumah-2026-panduan-lengkap.jpg) |
