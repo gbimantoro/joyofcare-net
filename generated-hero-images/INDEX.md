@@ -1,7 +1,7 @@
 # 📸 Joy of Care — Master Editorial Photojournalism Archive
 
-Total Archived Master Hero Images: **52 / 352**
-Last Updated: `2026-10-03T06:04:00.878694+00:00`
+Total Archived Master Hero Images: **55 / 352**
+Last Updated: `2026-10-04T10:22:48.931104+00:00`
 
 | # | Slug | Category | Track | WebP | JPG |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -57,3 +57,6 @@ Last Updated: `2026-10-03T06:04:00.878694+00:00`
 | 50 | `perawat-jaga-malam-khusus-antisipasi-pasien-alzheimer-mengembara-di-dini-hari` | `perawat-homecare` | Visual Artist 1: Geriatric & Home Nursing | [`webp`](50-perawat-jaga-malam-khusus-antisipasi-pasien-alzheimer-mengembara-di-dini-hari.webp) | [`jpg`](50-perawat-jaga-malam-khusus-antisipasi-pasien-alzheimer-mengembara-di-dini-hari.jpg) |
 | 51 | `tips-kesehatan-untuk-mahasiswa-kuliah-di-luar-negeri-kapan-harus` | `studi-luar-negeri` | Visual Artist 4: Medical Escort, Lab & Environment | [`webp`](51-tips-kesehatan-untuk-mahasiswa-kuliah-di-luar-negeri-kapan-harus.webp) | [`jpg`](51-tips-kesehatan-untuk-mahasiswa-kuliah-di-luar-negeri-kapan-harus.jpg) |
 | 52 | `biaya-panggil-dokter-ke-rumah-2026-panduan-lengkap` | `panggil-dokter` | Visual Artist 2: Doctor Home-Visit & IV Therapy | [`webp`](52-biaya-panggil-dokter-ke-rumah-2026-panduan-lengkap.webp) | [`jpg`](52-biaya-panggil-dokter-ke-rumah-2026-panduan-lengkap.jpg) |
+| 53 | `skrining-risiko-jantung-keluarga-ekg-portabel-profil-kardiovaskular-di-rumah` | `panggil-dokter` | Visual Artist 2: Doctor Home-Visit & IV Therapy | [`webp`](53-skrining-risiko-jantung-keluarga-ekg-portabel-profil-kardiovaskular-di-rumah.webp) | [`jpg`](53-skrining-risiko-jantung-keluarga-ekg-portabel-profil-kardiovaskular-di-rumah.jpg) |
+| 54 | `terapi-wicara-latihan-otot-menelan-rumah-pasien` | `parkinson` | Visual Artist 3: Neuro-Rehab & Physical Therapy | [`webp`](54-terapi-wicara-latihan-otot-menelan-rumah-pasien.webp) | [`jpg`](54-terapi-wicara-latihan-otot-menelan-rumah-pasien.jpg) |
+| 55 | `urinalisis-lengkap-rumah-mendeteksi-proteinuria-infeksi-bakteri` | `home-lab` | Visual Artist 4: Medical Escort, Lab & Environment | [`webp`](55-urinalisis-lengkap-rumah-mendeteksi-proteinuria-infeksi-bakteri.webp) | [`jpg`](55-urinalisis-lengkap-rumah-mendeteksi-proteinuria-infeksi-bakteri.jpg) |
