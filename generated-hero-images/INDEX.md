@@ -1,7 +1,7 @@
 # 📸 Joy of Care — Master Editorial Photojournalism Archive
 
-Total Archived Master Hero Images: **55 / 352**
-Last Updated: `2026-10-04T10:22:48.931104+00:00`
+Total Archived Master Hero Images: **58 / 352**
+Last Updated: `2026-10-09T11:06:36.620546+00:00`
 
 | # | Slug | Category | Track | WebP | JPG |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -60,3 +60,6 @@ Last Updated: `2026-10-04T10:22:48.931104+00:00`
 | 53 | `skrining-risiko-jantung-keluarga-ekg-portabel-profil-kardiovaskular-di-rumah` | `panggil-dokter` | Visual Artist 2: Doctor Home-Visit & IV Therapy | [`webp`](53-skrining-risiko-jantung-keluarga-ekg-portabel-profil-kardiovaskular-di-rumah.webp) | [`jpg`](53-skrining-risiko-jantung-keluarga-ekg-portabel-profil-kardiovaskular-di-rumah.jpg) |
 | 54 | `terapi-wicara-latihan-otot-menelan-rumah-pasien` | `parkinson` | Visual Artist 3: Neuro-Rehab & Physical Therapy | [`webp`](54-terapi-wicara-latihan-otot-menelan-rumah-pasien.webp) | [`jpg`](54-terapi-wicara-latihan-otot-menelan-rumah-pasien.jpg) |
 | 55 | `urinalisis-lengkap-rumah-mendeteksi-proteinuria-infeksi-bakteri` | `home-lab` | Visual Artist 4: Medical Escort, Lab & Environment | [`webp`](55-urinalisis-lengkap-rumah-mendeteksi-proteinuria-infeksi-bakteri.webp) | [`jpg`](55-urinalisis-lengkap-rumah-mendeteksi-proteinuria-infeksi-bakteri.jpg) |
+| 56 | `cek-darah-di-rumah-jakarta-biaya-panduan-lengkap` | `panggil-dokter` | Visual Artist 2: Doctor Home-Visit & IV Therapy | [`webp`](56-cek-darah-di-rumah-jakarta-biaya-panduan-lengkap.webp) | [`jpg`](56-cek-darah-di-rumah-jakarta-biaya-panduan-lengkap.jpg) |
+| 57 | `tips-rahasia-keluarga-5-jurus-ajaib-merawat-pasien-parkinson-di-rumah-agar-lebih-aktif-dan-bahagia-33` | `parkinson` | Visual Artist 3: Neuro-Rehab & Physical Therapy | [`webp`](57-tips-rahasia-keluarga-5-jurus-ajaib-merawat-pasien-parkinson-di-rumah-agar-lebih-aktif-dan-bahagia-33.webp) | [`jpg`](57-tips-rahasia-keluarga-5-jurus-ajaib-merawat-pasien-parkinson-di-rumah-agar-lebih-aktif-dan-bahagia-33.jpg) |
+| 58 | `terapi-infus-asam-zoledronat-tahunan-rumah-persiapan` | `kesehatan-umum` | Visual Artist 2: Doctor Home-Visit & IV Therapy | [`webp`](58-terapi-infus-asam-zoledronat-tahunan-rumah-persiapan.webp) | [`jpg`](58-terapi-infus-asam-zoledronat-tahunan-rumah-persiapan.jpg) |
