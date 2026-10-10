@@ -1,7 +1,7 @@
 # 📸 Joy of Care — Master Editorial Photojournalism Archive
 
-Total Archived Master Hero Images: **58 / 352**
-Last Updated: `2026-10-09T11:06:36.620546+00:00`
+Total Archived Master Hero Images: **61 / 352**
+Last Updated: `2026-10-10T04:21:14.545839+00:00`
 
 | # | Slug | Category | Track | WebP | JPG |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -63,3 +63,6 @@ Last Updated: `2026-10-09T11:06:36.620546+00:00`
 | 56 | `cek-darah-di-rumah-jakarta-biaya-panduan-lengkap` | `panggil-dokter` | Visual Artist 2: Doctor Home-Visit & IV Therapy | [`webp`](56-cek-darah-di-rumah-jakarta-biaya-panduan-lengkap.webp) | [`jpg`](56-cek-darah-di-rumah-jakarta-biaya-panduan-lengkap.jpg) |
 | 57 | `tips-rahasia-keluarga-5-jurus-ajaib-merawat-pasien-parkinson-di-rumah-agar-lebih-aktif-dan-bahagia-33` | `parkinson` | Visual Artist 3: Neuro-Rehab & Physical Therapy | [`webp`](57-tips-rahasia-keluarga-5-jurus-ajaib-merawat-pasien-parkinson-di-rumah-agar-lebih-aktif-dan-bahagia-33.webp) | [`jpg`](57-tips-rahasia-keluarga-5-jurus-ajaib-merawat-pasien-parkinson-di-rumah-agar-lebih-aktif-dan-bahagia-33.jpg) |
 | 58 | `terapi-infus-asam-zoledronat-tahunan-rumah-persiapan` | `kesehatan-umum` | Visual Artist 2: Doctor Home-Visit & IV Therapy | [`webp`](58-terapi-infus-asam-zoledronat-tahunan-rumah-persiapan.webp) | [`jpg`](58-terapi-infus-asam-zoledronat-tahunan-rumah-persiapan.jpg) |
+| 59 | `merawat-orang-tua-di-rumah-kapan-harus` | `perawatan-lansia` | Visual Artist 1: Geriatric Nursing & Bedside Compassion | [`webp`](59-merawat-orang-tua-di-rumah-kapan-harus.webp) | [`jpg`](59-merawat-orang-tua-di-rumah-kapan-harus.jpg) |
+| 60 | `fisioterapi-pasca-stroke-di-rumah-biaya-dan-perbandingan` | `fisioterapi-rumah` | Visual Artist 3: Neuro-Rehab & Physical Therapy | [`webp`](60-fisioterapi-pasca-stroke-di-rumah-biaya-dan-perbandingan.webp) | [`jpg`](60-fisioterapi-pasca-stroke-di-rumah-biaya-dan-perbandingan.jpg) |
+| 61 | `mendeteksi-sarkopenia-sejak-dini-uji-kekuatan-remasan` | `perawatan-lansia` | Visual Artist 1: Geriatric Nursing & Bedside Compassion | [`webp`](61-mendeteksi-sarkopenia-sejak-dini-uji-kekuatan-remasan.webp) | [`jpg`](61-mendeteksi-sarkopenia-sejak-dini-uji-kekuatan-remasan.jpg) |
