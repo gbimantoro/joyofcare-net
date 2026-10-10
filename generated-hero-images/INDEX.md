@@ -1,7 +1,7 @@
 # 📸 Joy of Care — Master Editorial Photojournalism Archive
 
-Total Archived Master Hero Images: **61 / 352**
-Last Updated: `2026-10-10T04:21:14.545839+00:00`
+Total Archived Master Hero Images: **64 / 352**
+Last Updated: `2026-10-10T09:35:24.886164+00:00`
 
 | # | Slug | Category | Track | WebP | JPG |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -66,3 +66,6 @@ Last Updated: `2026-10-10T04:21:14.545839+00:00`
 | 59 | `merawat-orang-tua-di-rumah-kapan-harus` | `perawatan-lansia` | Visual Artist 1: Geriatric Nursing & Bedside Compassion | [`webp`](59-merawat-orang-tua-di-rumah-kapan-harus.webp) | [`jpg`](59-merawat-orang-tua-di-rumah-kapan-harus.jpg) |
 | 60 | `fisioterapi-pasca-stroke-di-rumah-biaya-dan-perbandingan` | `fisioterapi-rumah` | Visual Artist 3: Neuro-Rehab & Physical Therapy | [`webp`](60-fisioterapi-pasca-stroke-di-rumah-biaya-dan-perbandingan.webp) | [`jpg`](60-fisioterapi-pasca-stroke-di-rumah-biaya-dan-perbandingan.jpg) |
 | 61 | `mendeteksi-sarkopenia-sejak-dini-uji-kekuatan-remasan` | `perawatan-lansia` | Visual Artist 1: Geriatric Nursing & Bedside Compassion | [`webp`](61-mendeteksi-sarkopenia-sejak-dini-uji-kekuatan-remasan.webp) | [`jpg`](61-mendeteksi-sarkopenia-sejak-dini-uji-kekuatan-remasan.jpg) |
+| 62 | `bahaya-deprescribing-tanpa-pantauan-evaluasi-dokter-lansia-minum-banyak-obat` | `panggil-dokter` | Visual Artist 2: Doctor Home-Visit & Deprescribing Review | [`webp`](62-bahaya-deprescribing-tanpa-pantauan-evaluasi-dokter-lansia-minum-banyak-obat.webp) | [`jpg`](62-bahaya-deprescribing-tanpa-pantauan-evaluasi-dokter-lansia-minum-banyak-obat.jpg) |
+| 63 | `trik-memenuhi-kebutuhan-minum-air-15-liter` | `perawatan-lansia` | Visual Artist 1: Geriatric Nursing & Bedside Compassion | [`webp`](63-trik-memenuhi-kebutuhan-minum-air-15-liter.webp) | [`jpg`](63-trik-memenuhi-kebutuhan-minum-air-15-liter.jpg) |
+| 64 | `akupuntur-untuk-nyeri-sendi-lansia-biaya-dan-perbandingan` | `perawatan-lansia` | Visual Artist 1 & 3: Geriatric Assessment & Medical Acupuncture | [`webp`](64-akupuntur-untuk-nyeri-sendi-lansia-biaya-dan-perbandingan.webp) | [`jpg`](64-akupuntur-untuk-nyeri-sendi-lansia-biaya-dan-perbandingan.jpg) |
