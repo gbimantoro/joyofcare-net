@@ -1,7 +1,7 @@
 # 📸 Joy of Care — Master Editorial Photojournalism Archive
 
-Total Archived Master Hero Images: **67 / 352**
-Last Updated: `2026-10-11T15:08:56.237318+00:00`
+Total Archived Master Hero Images: **68 / 352**
+Last Updated: `2026-10-11T20:27:16.686335+00:00`
 
 | # | Slug | Category | Track | WebP | JPG |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -72,3 +72,4 @@ Last Updated: `2026-10-11T15:08:56.237318+00:00`
 | 65 | `lanjutan-panduan-perawatan-pasca-operasi-untuk-pemulihan-optimal-di-rumah-penggantian-panggul-total-total-hip-replacement-thr-pada-lansia-20` | `perawatan-lansia` | Visual Artist 1 & 3: Geriatric Post-Op Care & Rehab | [`webp`](65-lanjutan-panduan-perawatan-pasca-operasi-untuk-pemulihan-optimal-di-rumah-penggantian-panggul-total-total-hip-replacement-thr-pada-lansia-20.webp) | [`jpg`](65-lanjutan-panduan-perawatan-pasca-operasi-untuk-pemulihan-optimal-di-rumah-penggantian-panggul-total-total-hip-replacement-thr-pada-lansia-20.jpg) |
 | 66 | `dokter-umum-ke-rumah-tangerang-kapan-harus` | `panggil-dokter` | Visual Artist 2: Doctor Home-Visit & Medical Triage | [`webp`](66-dokter-umum-ke-rumah-tangerang-kapan-harus.webp) | [`jpg`](66-dokter-umum-ke-rumah-tangerang-kapan-harus.jpg) |
 | 67 | `peran-vital-perawat-live-in-24-jam-dalam` | `perawatan-lansia` | Visual Artist 1: Geriatric Nursing & 24-Hour Live-in Care | [`webp`](67-peran-vital-perawat-live-in-24-jam-dalam.webp) | [`jpg`](67-peran-vital-perawat-live-in-24-jam-dalam.jpg) |
+| 68 | `tips-kesehatan-untuk-mahasiswa-kuliah-di-luar-negeri-tips-dan-cara` | `studi-luar-negeri` | Visual Artist 4: Travel Medicine & Medical Clearance | [`webp`](68-tips-kesehatan-untuk-mahasiswa-kuliah-di-luar-negeri-tips-dan-cara.webp) | [`jpg`](68-tips-kesehatan-untuk-mahasiswa-kuliah-di-luar-negeri-tips-dan-cara.jpg) |
