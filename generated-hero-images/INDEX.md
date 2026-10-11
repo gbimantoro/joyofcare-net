@@ -1,7 +1,7 @@
 # 📸 Joy of Care — Master Editorial Photojournalism Archive
 
-Total Archived Master Hero Images: **64 / 352**
-Last Updated: `2026-10-10T09:35:24.886164+00:00`
+Total Archived Master Hero Images: **67 / 352**
+Last Updated: `2026-10-11T15:08:56.237318+00:00`
 
 | # | Slug | Category | Track | WebP | JPG |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -69,3 +69,6 @@ Last Updated: `2026-10-10T09:35:24.886164+00:00`
 | 62 | `bahaya-deprescribing-tanpa-pantauan-evaluasi-dokter-lansia-minum-banyak-obat` | `panggil-dokter` | Visual Artist 2: Doctor Home-Visit & Deprescribing Review | [`webp`](62-bahaya-deprescribing-tanpa-pantauan-evaluasi-dokter-lansia-minum-banyak-obat.webp) | [`jpg`](62-bahaya-deprescribing-tanpa-pantauan-evaluasi-dokter-lansia-minum-banyak-obat.jpg) |
 | 63 | `trik-memenuhi-kebutuhan-minum-air-15-liter` | `perawatan-lansia` | Visual Artist 1: Geriatric Nursing & Bedside Compassion | [`webp`](63-trik-memenuhi-kebutuhan-minum-air-15-liter.webp) | [`jpg`](63-trik-memenuhi-kebutuhan-minum-air-15-liter.jpg) |
 | 64 | `akupuntur-untuk-nyeri-sendi-lansia-biaya-dan-perbandingan` | `perawatan-lansia` | Visual Artist 1 & 3: Geriatric Assessment & Medical Acupuncture | [`webp`](64-akupuntur-untuk-nyeri-sendi-lansia-biaya-dan-perbandingan.webp) | [`jpg`](64-akupuntur-untuk-nyeri-sendi-lansia-biaya-dan-perbandingan.jpg) |
+| 65 | `lanjutan-panduan-perawatan-pasca-operasi-untuk-pemulihan-optimal-di-rumah-penggantian-panggul-total-total-hip-replacement-thr-pada-lansia-20` | `perawatan-lansia` | Visual Artist 1 & 3: Geriatric Post-Op Care & Rehab | [`webp`](65-lanjutan-panduan-perawatan-pasca-operasi-untuk-pemulihan-optimal-di-rumah-penggantian-panggul-total-total-hip-replacement-thr-pada-lansia-20.webp) | [`jpg`](65-lanjutan-panduan-perawatan-pasca-operasi-untuk-pemulihan-optimal-di-rumah-penggantian-panggul-total-total-hip-replacement-thr-pada-lansia-20.jpg) |
+| 66 | `dokter-umum-ke-rumah-tangerang-kapan-harus` | `panggil-dokter` | Visual Artist 2: Doctor Home-Visit & Medical Triage | [`webp`](66-dokter-umum-ke-rumah-tangerang-kapan-harus.webp) | [`jpg`](66-dokter-umum-ke-rumah-tangerang-kapan-harus.jpg) |
+| 67 | `peran-vital-perawat-live-in-24-jam-dalam` | `perawatan-lansia` | Visual Artist 1: Geriatric Nursing & 24-Hour Live-in Care | [`webp`](67-peran-vital-perawat-live-in-24-jam-dalam.webp) | [`jpg`](67-peran-vital-perawat-live-in-24-jam-dalam.jpg) |
