@@ -1,7 +1,7 @@
 # 📸 Joy of Care — Master Editorial Photojournalism Archive
 
-Total Archived Master Hero Images: **68 / 352**
-Last Updated: `2026-10-11T20:27:16.686335+00:00`
+Total Archived Master Hero Images: **71 / 352**
+Last Updated: `2026-10-16T02:28:44.833033+00:00`
 
 | # | Slug | Category | Track | WebP | JPG |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -73,3 +73,6 @@ Last Updated: `2026-10-11T20:27:16.686335+00:00`
 | 66 | `dokter-umum-ke-rumah-tangerang-kapan-harus` | `panggil-dokter` | Visual Artist 2: Doctor Home-Visit & Medical Triage | [`webp`](66-dokter-umum-ke-rumah-tangerang-kapan-harus.webp) | [`jpg`](66-dokter-umum-ke-rumah-tangerang-kapan-harus.jpg) |
 | 67 | `peran-vital-perawat-live-in-24-jam-dalam` | `perawatan-lansia` | Visual Artist 1: Geriatric Nursing & 24-Hour Live-in Care | [`webp`](67-peran-vital-perawat-live-in-24-jam-dalam.webp) | [`jpg`](67-peran-vital-perawat-live-in-24-jam-dalam.jpg) |
 | 68 | `tips-kesehatan-untuk-mahasiswa-kuliah-di-luar-negeri-tips-dan-cara` | `studi-luar-negeri` | Visual Artist 4: Travel Medicine & Medical Clearance | [`webp`](68-tips-kesehatan-untuk-mahasiswa-kuliah-di-luar-negeri-tips-dan-cara.webp) | [`jpg`](68-tips-kesehatan-untuk-mahasiswa-kuliah-di-luar-negeri-tips-dan-cara.jpg) |
+| 69 | `perawat-lansia-di-rumah-jabodetabek-kapan-harus` | `perawatan-lansia` | Visual Artist 1: Geriatric & Home Nursing | [`webp`](69-perawat-lansia-di-rumah-jabodetabek-kapan-harus.webp) | [`jpg`](69-perawat-lansia-di-rumah-jabodetabek-kapan-harus.jpg) |
+| 70 | `mencegah-kontraktur-sendi-permanen-pasien-komatirah-baring` | `fisioterapi-rumah` | Visual Artist 3: Neuro-Rehab & Physical Therapy | [`webp`](70-mencegah-kontraktur-sendi-permanen-pasien-komatirah-baring.webp) | [`jpg`](70-mencegah-kontraktur-sendi-permanen-pasien-komatirah-baring.jpg) |
+| 71 | `trik-medis-menghadapi-lansia-menolak-ke-rumah-sakit-hospital-phobia-dokter-ke-rumah` | `panggil-dokter` | Visual Artist 2: Doctor Home-Visit & IV Therapy | [`webp`](71-trik-medis-menghadapi-lansia-menolak-ke-rumah-sakit-hospital-phobia-dokter-ke-rumah.webp) | [`jpg`](71-trik-medis-menghadapi-lansia-menolak-ke-rumah-sakit-hospital-phobia-dokter-ke-rumah.jpg) |
