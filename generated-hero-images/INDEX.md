@@ -1,7 +1,7 @@
 # 📸 Joy of Care — Master Editorial Photojournalism Archive
 
-Total Archived Master Hero Images: **74 / 352**
-Last Updated: `2026-10-16T04:59:34.842041+00:00`
+Total Archived Master Hero Images: **77 / 352**
+Last Updated: `2026-10-16T11:24:56.556707+00:00`
 
 | # | Slug | Category | Track | WebP | JPG |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -79,3 +79,6 @@ Last Updated: `2026-10-16T04:59:34.842041+00:00`
 | 72 | `tips-kesehatan-untuk-mahasiswa-kuliah-di-luar-negeri-yang-perlu-anda-ketahui` | `studi-luar-negeri` | Visual Artist 4: Travel Medicine, Escort & Health FAQ | [`webp`](72-tips-kesehatan-untuk-mahasiswa-kuliah-di-luar-negeri-yang-perlu-anda-ketahui.webp) | [`jpg`](72-tips-kesehatan-untuk-mahasiswa-kuliah-di-luar-negeri-yang-perlu-anda-ketahui.jpg) |
 | 73 | `keluhan-psikosomatis-insomnia-burnout-eksekutif-konsultasi-dokter-di-rumah` | `panggil-dokter` | Visual Artist 2: Doctor Home-Visit & Holistic Care | [`webp`](73-keluhan-psikosomatis-insomnia-burnout-eksekutif-konsultasi-dokter-di-rumah.webp) | [`jpg`](73-keluhan-psikosomatis-insomnia-burnout-eksekutif-konsultasi-dokter-di-rumah.jpg) |
 | 74 | `akupuntur-untuk-nyeri-sendi-lansia-yang-perlu-anda-ketahui` | `perawatan-lansia` | Visual Artist 1 & 3: Geriatric Care & Medical Acupuncture | [`webp`](74-akupuntur-untuk-nyeri-sendi-lansia-yang-perlu-anda-ketahui.webp) | [`jpg`](74-akupuntur-untuk-nyeri-sendi-lansia-yang-perlu-anda-ketahui.jpg) |
+| 75 | `pemeriksaan-analisa-gas-darah-portabel-rumah-pasien` | `home-lab` | Visual Artist 4: Home Lab & Portable ABG Analysis | [`webp`](75-pemeriksaan-analisa-gas-darah-portabel-rumah-pasien.webp) | [`jpg`](75-pemeriksaan-analisa-gas-darah-portabel-rumah-pasien.jpg) |
+| 76 | `langit-kelabu-jakarta-abu-krakatau-asma-bronkitis-kambuh` | `kesehatan-lingkungan` | Visual Artist 4: Environmental Health & Respiratory Care | [`webp`](76-langit-kelabu-jakarta-abu-krakatau-asma-bronkitis-kambuh.webp) | [`jpg`](76-langit-kelabu-jakarta-abu-krakatau-asma-bronkitis-kambuh.jpg) |
+| 77 | `vaksinasi-pneumonia-lindungi-opa-oma-39` | `perawatan-lansia` | Visual Artist 1 & 2: Geriatric Nursing & Preventive Vaccination | [`webp`](77-vaksinasi-pneumonia-lindungi-opa-oma-39.webp) | [`jpg`](77-vaksinasi-pneumonia-lindungi-opa-oma-39.jpg) |
