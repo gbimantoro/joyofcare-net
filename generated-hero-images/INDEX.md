@@ -1,7 +1,7 @@
 # 📸 Joy of Care — Master Editorial Photojournalism Archive
 
-Total Archived Master Hero Images: **71 / 352**
-Last Updated: `2026-10-16T02:28:44.833033+00:00`
+Total Archived Master Hero Images: **74 / 352**
+Last Updated: `2026-10-16T04:59:34.842041+00:00`
 
 | # | Slug | Category | Track | WebP | JPG |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -76,3 +76,6 @@ Last Updated: `2026-10-16T02:28:44.833033+00:00`
 | 69 | `perawat-lansia-di-rumah-jabodetabek-kapan-harus` | `perawatan-lansia` | Visual Artist 1: Geriatric & Home Nursing | [`webp`](69-perawat-lansia-di-rumah-jabodetabek-kapan-harus.webp) | [`jpg`](69-perawat-lansia-di-rumah-jabodetabek-kapan-harus.jpg) |
 | 70 | `mencegah-kontraktur-sendi-permanen-pasien-komatirah-baring` | `fisioterapi-rumah` | Visual Artist 3: Neuro-Rehab & Physical Therapy | [`webp`](70-mencegah-kontraktur-sendi-permanen-pasien-komatirah-baring.webp) | [`jpg`](70-mencegah-kontraktur-sendi-permanen-pasien-komatirah-baring.jpg) |
 | 71 | `trik-medis-menghadapi-lansia-menolak-ke-rumah-sakit-hospital-phobia-dokter-ke-rumah` | `panggil-dokter` | Visual Artist 2: Doctor Home-Visit & IV Therapy | [`webp`](71-trik-medis-menghadapi-lansia-menolak-ke-rumah-sakit-hospital-phobia-dokter-ke-rumah.webp) | [`jpg`](71-trik-medis-menghadapi-lansia-menolak-ke-rumah-sakit-hospital-phobia-dokter-ke-rumah.jpg) |
+| 72 | `tips-kesehatan-untuk-mahasiswa-kuliah-di-luar-negeri-yang-perlu-anda-ketahui` | `studi-luar-negeri` | Visual Artist 4: Travel Medicine, Escort & Health FAQ | [`webp`](72-tips-kesehatan-untuk-mahasiswa-kuliah-di-luar-negeri-yang-perlu-anda-ketahui.webp) | [`jpg`](72-tips-kesehatan-untuk-mahasiswa-kuliah-di-luar-negeri-yang-perlu-anda-ketahui.jpg) |
+| 73 | `keluhan-psikosomatis-insomnia-burnout-eksekutif-konsultasi-dokter-di-rumah` | `panggil-dokter` | Visual Artist 2: Doctor Home-Visit & Holistic Care | [`webp`](73-keluhan-psikosomatis-insomnia-burnout-eksekutif-konsultasi-dokter-di-rumah.webp) | [`jpg`](73-keluhan-psikosomatis-insomnia-burnout-eksekutif-konsultasi-dokter-di-rumah.jpg) |
+| 74 | `akupuntur-untuk-nyeri-sendi-lansia-yang-perlu-anda-ketahui` | `perawatan-lansia` | Visual Artist 1 & 3: Geriatric Care & Medical Acupuncture | [`webp`](74-akupuntur-untuk-nyeri-sendi-lansia-yang-perlu-anda-ketahui.webp) | [`jpg`](74-akupuntur-untuk-nyeri-sendi-lansia-yang-perlu-anda-ketahui.jpg) |
